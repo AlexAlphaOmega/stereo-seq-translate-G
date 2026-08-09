@@ -125,3 +125,28 @@
 - 封板膜 → **sealing film**
 - 下采样比例 → **Downsampling ratio**
 - 时空转录组 → **Spatial Transcriptomics**
+
+## 自动蒸馏新增（21 条）
+> 由 Gemini 于 2026-08-09 自动提取
+
+- PCR 仪 → **PCR instrument**
+- 热盖 → **heated lid**
+- DNB → **DNB**
+- 文库 → **library**
+- DNB 制备 → **DNB preparation**
+- DNB 终止缓冲液 → **DNB stop buffer**
+- 阔口吸头 → **wide-bore pipette tips**
+- 荧光定量仪 → **Fluorometer**
+- 荧光猝灭 → **fluorescence quenching**
+- 时空可视化试剂套装 → **STOmics visualization reagent set**
+- 载片 → **slide**
+- 真空包装袋 → **vacuum packaging bag**
+- DNB 加载 → **DNB loading**
+- DNB 加载缓冲液 II → **DNB Loading Buffer II**
+- 漩涡振荡器 → **vortex mixer**
+- DNB 聚合酶混合液 II → **DNB Polymerase Mix II**
+- 冻存管 → **cryotube**
+- 测序载片 → **sequencing flow cell**
+- 试剂针 → **reagent needle**
+- 测序方案 → **sequencing protocol**
+- 便携式加样器 → **portable pipettor**

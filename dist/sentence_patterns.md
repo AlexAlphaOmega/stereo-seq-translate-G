@@ -342,3 +342,45 @@ EN: To avoid sample cross-contamination, it is recommended to use filter tips.
 ### 图表引用
 - 模板: `For <subject>, refer to <table_figure_name>.`
 - 例句: For resuspension volume, refer to Table 3-8.
+
+## 自动蒸馏新增句式（2026-08-09）
+
+### 操作指令（建议/要求）
+- 模板: `<subject> is recommended to be <verb_past_participle> to <infinitive_phrase>.`
+- 例句: The heated lid temperature is recommended to be set to 35°C, or to the lowest possible temperature close to 35°C.
+
+### 操作指令（绝对禁止）
+- 模板: `Do not <verb_base_form_1>, <verb_base_form_2>, or <verb_base_form_3>.`
+- 例句: Do not centrifuge, vortex, or pipette vigorously.
+
+### 步骤执行条件
+- 模板: `Once <subject> <verb_present_simple>, immediately <verb_imperative> <object>.`
+- 例句: Once the PCR instrument temperature reaches 4 °C, immediately add 20 μL of DNB stop buffer.
+
+### 物料配制要求
+- 模板: `The <noun_phrase> must be <verb_past_participle> immediately before use.`
+- 例句: The DNB loading mix must be prepared immediately before use.
+
+### 引用说明
+- 模板: `For <adjective_or_noun> <noun_phrase>, please refer to <location_reference>.`
+- 例句: For detailed DNB loading operations, please refer to the MGIDL-200H Portable Pipettor Quick Operation Guide.
+
+### 实验条件引用
+- 模板: `<noun_phrase> according to the table below:`
+- 例句: Take out a 0.5 mL cryotube and prepare the DNB loading system 1 according to the table below:
+
+### 结果检查
+- 模板: `Take <quantity> of <substance> and use <instrument_or_kit> to <verb_base_form> <target_metric>.`
+- 例句: Take 2 μL of DNB and use the Qubit ssDNA Assay Kit and Qubit 4.0 Fluorometer to detect the concentration.
+
+### 操作顺序说明
+- 模板: `Take out <item>, place it on <container> for <duration>, then <verb_base_form_1> and <verb_base_form_2>.`
+- 例句: Take out the DNB Loading Buffer II, place it on an ice box for approximately 30 minutes until thawed, then use a vortex mixer to oscillate.
+
+### 状态保持指令
+- 模板: `Keep <object> at <temperature_condition> for <purpose>.`
+- 例句: Gently mix the DNB loading mix 5–8 times using a wide-bore pipette tip, and keep at 4 °C for later use.
+
+### 条件判定（如果/若）
+- 模板: `If <condition>, <action_required_or_suggested>.`
+- 例句: If the DNB concentration is unqualified, re-preparation is required.
