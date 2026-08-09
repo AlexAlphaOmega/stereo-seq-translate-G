@@ -1,0 +1,14 @@
+{
+  "name": "gemini-style-translate",
+  "description": "用 Gemini 翻译风格把中文翻译成英文的 Claude Code skill。内置自动化蒸馏的样本库、术语表、句式模板。",
+  "author": {
+    "name": "AlexAlphaOmega"
+  },
+  "skills": [
+    {
+      "name": "gemini-style-translate",
+      "description": "用 Gemini 翻译风格把中文翻译成英文。当用户要求「像 Gemini 一样翻译」「用 Gemini 风格翻译」「按语料库翻译 STOmics/Stereo-seq 文档」时触发。内置 1464 对 Gemini 真实译文样本 + 专业术语库 + 句式模板,翻译时自动参照,产出地道、专业、符合目标语言母语者习惯的英文。",
+      "path": "gemini-style-translate"
+    }
+  ]
+}
