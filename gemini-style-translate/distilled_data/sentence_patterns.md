@@ -384,3 +384,37 @@ EN: To avoid sample cross-contamination, it is recommended to use filter tips.
 ### 条件判定（如果/若）
 - 模板: `If <condition>, <action_required_or_suggested>.`
 - 例句: If the DNB concentration is unqualified, re-preparation is required.
+
+## 自动蒸馏新增句式（2026-08-10）
+
+### 动作指令
+- 模板: `<verb> <object> <optional: complement/instruction>`
+- 例句: Click the 【Sequencing】 option on the main interface to enter the following interface.
+
+### 条件判断操作
+- 模板: `If <condition>, <imperative action>; otherwise, <alternative imperative action>.`
+- 例句: If loading DNB onto the sequencer, check [DNB Loading]; otherwise, do not check.
+
+### 操作前置条件
+- 模板: `The <subject> must be <verb-ed> <duration/frequency> to <goal/mix> before <action>.`
+- 例句: The dNTPs mixture II must be vortexed for 5 seconds to mix before loading, and then briefly centrifuged before use.
+
+### 禁止操作
+- 模板: `Do not <action> <object> <optional: reason>.`
+- 例句: Do not reuse the removed sealing film.
+
+### 后续操作引导
+- 模板: `For the next step, you can proceed directly to "<target section/page>" on page <number>.`
+- 例句: For the next step, you can proceed directly to "Start Sequencing" on page 20.
+
+### 操作目的说明
+- 模板: `<imperative action>, <ensuring/to reduce/to ensure> <result>.`
+- 例句: Gently tap the sequencing reagent trough to reduce air bubbles in the reagent.
+
+### UI交互操作
+- 模板: `Move the cursor to the <field name> and enter <input value>.`
+- 例句: Move the cursor to the entry field next to [DNB ID] and enter the library name or ID.
+
+### 安全操作提示
+- 模板: `When <action>, <exercise caution/operate carefully> to <prevent/avoid> <negative result>.`
+- 例句: When transferring the mixture, exercise caution to prevent it from spilling out of the reagent tube.

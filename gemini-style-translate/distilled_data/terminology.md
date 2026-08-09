@@ -150,3 +150,22 @@
 - 试剂针 → **reagent needle**
 - 测序方案 → **sequencing protocol**
 - 便携式加样器 → **portable pipettor**
+
+## 自动蒸馏新增（15 条）
+> 由 Gemini 于 2026-08-10 自动提取
+
+- 测序试剂槽 → **Sequencing Reagent Trough**
+- 加样体积 → **Loading Volume**
+- dNTPs 混合液II → **dNTPs Mix II**
+- DNA 聚合酶混合液II → **DNA Polymerase Mix II**
+- 移液器 → **Pipette**
+- 漩涡振荡器 → **Vortex mixer**
+- 透明封口膜 → **Transparent sealing film**
+- 加样孔 → **Loading well**
+- MDA 聚合酶混合液II → **MDA Polymerase Mix II**
+- 测序方案 → **Sequencing scheme**
+- 时空组学 → **Spatial transcriptomics**
+- 时空转录组 → **Spatiotemporal Transcriptomics**
+- 文库 → **Library**
+- Barcode序列 → **Barcode sequence**
+- DNB加载 → **DNB loading**
