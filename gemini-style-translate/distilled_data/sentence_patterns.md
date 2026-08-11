@@ -444,3 +444,37 @@ EN: To avoid sample cross-contamination, it is recommended to use filter tips.
 ### 条件配置指令
 - 模板: `If <condition> is required, select <option_a>; if <condition> is not performed, select <option_b>.`
 - 例句: If barcode sequencing is required, select the STO_T_50+100+10 sequencing protocol; if barcode sequencing is not performed, select the STO_T_50+100_noBC sequencing protocol.
+
+## 自动蒸馏新增句式（2026-08-12）
+
+### 步骤衔接
+- 模板: `After <action-done>, <next-action>.`
+- 例句: After fixation is complete, remove the sealing film.
+
+### 添加试剂/操作建议
+- 模板: `Add <amount> of <reagent>, and incubate at <condition> for <time>.`
+- 例句: Immediately add 400 μL/chip of Wash Buffer, and incubate at room temperature for 1 min.
+
+### 参考引用
+- 模板: `Refer to <section/document> to <action>.`
+- 例句: Refer to Chapter 2 of the "Stereo-seq Chip Carrier and Accessories User Manual" to assemble the gasket and fixture.
+
+### 禁止事项
+- 模板: `Avoid <action/condition>.`
+- 例句: Avoid contact between the carrier and the front side of the chip.
+
+### 液体吸弃与保持润湿
+- 模板: `Aspirate and discard <liquid> from <location> using a pipette, ensuring <condition>.`
+- 例句: Aspirate and discard the blocking buffer from one corner of the chip using a pipette, ensuring the tissue on the chip remains moist.
+
+### 重复步骤
+- 模板: `Repeat steps <step-range> once, for a total of <number> washes.`
+- 例句: Repeat steps e.-f. once, for a total of 2 washes.
+
+### 配制溶液后的处理
+- 模板: `<action> after <preparation-step>, and <post-action>.`
+- 例句: Prepare the primary antibody incubation solution, vortex to mix, centrifuge briefly, and keep on ice for use.
+
+### 条件警告
+- 模板: `Strictly avoid <condition>, as <consequence>.`
+- 例句: Strictly avoid tissue drying during the liquid exchange process, as tissue drying can easily generate non-specific signals.

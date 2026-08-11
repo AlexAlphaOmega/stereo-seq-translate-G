@@ -190,3 +190,23 @@
 - Barcode 序列 → **Barcode sequence**
 - DNB 加载 → **DNB loading**
 - 测序仪 → **Sequencer**
+
+## 自动蒸馏新增（16 条）
+> 由 Gemini 于 2026-08-12 自动提取
+
+- Stereo-seq 芯片载体 → **Stereo-seq Chip Carrier**
+- 使用说明书 → **User Manual**
+- 操作流程 → **Operational Procedure**
+- 试剂套装 → **Reagent Kit**
+- 通风橱 → **Fume hood**
+- 封板膜 → **Sealing film**
+- 封闭液 → **Blocking Buffer**
+- Wash Buffer → **Wash Buffer**
+- 一抗孵育液 → **Primary antibody incubation solution**
+- 二抗孵育液 → **Secondary antibody incubation solution**
+- 同型对照抗体 → **Isotype control antibodies**
+- 透化试剂套装 → **Permeabilization Reagent Kit**
+- 货号 → **Catalog No.**
+- 组织干燥 → **Tissue desiccation**
+- 抗体 Cocktail → **Antibody Cocktail**
+- DAPI 工作液 → **DAPI working solution**
