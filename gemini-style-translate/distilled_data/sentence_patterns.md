@@ -418,3 +418,29 @@ EN: To avoid sample cross-contamination, it is recommended to use filter tips.
 ### 安全操作提示
 - 模板: `When <action>, <exercise caution/operate carefully> to <prevent/avoid> <negative result>.`
 - 例句: When transferring the mixture, exercise caution to prevent it from spilling out of the reagent tube.
+
+## 自动蒸馏新增句式（2026-08-11）
+
+### 操作步骤指令
+- 模板: `[Number]. [Action Verb] <object> [preposition] <location> according to <value>.`
+- 例句: 8. Take a pipette of the corresponding range, add the dNTPs mix II into a new 5 mL sterile tube according to the volumes
+
+### 强制操作要求
+- 模板: `The <subject> must be <verb-ed> [adverb/duration] before <action>.`
+- 例句: The dNTPs mixture II must be vortexed for 5 seconds to mix before loading
+
+### 操作注意事项
+- 模板: `When <gerund-phrase>, exercise caution to prevent <object> from <action-gerund>.`
+- 例句: When transferring the mixture, exercise caution to prevent it from spilling out of the reagent tube.
+
+### 界面交互指令
+- 模板: `Click the [<button_name>] [option/icon] on the <interface_name> to <action>.`
+- 例句: Click the 【Sequencing】 option on the main interface to enter the following interface
+
+### 菜单选择指令
+- 模板: `Select the <item_name> from the [<menu_name>] drop-down menu.`
+- 例句: Select the spatial transcriptomics sequencing scheme from the [Sequencing Scheme] drop-down menu.
+
+### 条件配置指令
+- 模板: `If <condition> is required, select <option_a>; if <condition> is not performed, select <option_b>.`
+- 例句: If barcode sequencing is required, select the STO_T_50+100+10 sequencing protocol; if barcode sequencing is not performed, select the STO_T_50+100_noBC sequencing protocol.

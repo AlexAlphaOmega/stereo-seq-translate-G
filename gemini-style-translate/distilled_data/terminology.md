@@ -169,3 +169,24 @@
 - 文库 → **Library**
 - Barcode序列 → **Barcode sequence**
 - DNB加载 → **DNB loading**
+
+## 自动蒸馏新增（17 条）
+> 由 Gemini 于 2026-08-11 自动提取
+
+- 测序试剂槽 → **Sequencing Reagent Trough**
+- 试剂加样表 → **Reagent Loading Table**
+- 加样体积 → **Loading Volume**
+- dNTPs 混合液 → **dNTPs mix**
+- DNA 聚合酶混合液 → **DNA polymerase mix**
+- 移液器 → **Pipette**
+- 灭菌管 → **Sterile tube**
+- 漩涡振荡器 → **Vortexer**
+- 封口膜 → **Sealing film**
+- 气泡 → **Air bubbles**
+- MDA 聚合酶混合液 → **MDA polymerase mix**
+- 测序方案 → **Sequencing scheme**
+- 时空转录组 → **Spatial transcriptomics**
+- 文库 → **Library**
+- Barcode 序列 → **Barcode sequence**
+- DNB 加载 → **DNB loading**
+- 测序仪 → **Sequencer**
