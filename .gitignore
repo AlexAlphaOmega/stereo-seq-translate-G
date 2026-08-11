@@ -19,12 +19,4 @@ daily_report.md
 daily_report.*
 
 # 蒸馏流水线脚本（个人运行，不提交到公开仓库）
-auto_distill.py
-distill_terms.py
-distill_patterns.py
-download_pdfs.py
-extract_terms.py
-analyze_patterns.py
-git_sync.py
-notify_daily.py
-src/
+pipeline/
