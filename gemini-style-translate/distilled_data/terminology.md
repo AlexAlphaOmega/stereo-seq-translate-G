@@ -230,3 +230,25 @@
 - 包埋盒 → **embedding cassette**
 - 冷链运输 → **cold chain transportation**
 - PCR 仪 → **PCR instrument**
+
+## 自动蒸馏新增（18 条）
+> 由 Gemini 于 2026-08-13 自动提取
+
+- Stereo-seq 转录组试剂套装 → **Stereo-seq Transcriptomics Reagent Kit**
+- 夹具 → **fixture**
+- 垫圈 → **gasket**
+- 芯片载体 → **chip carrier**
+- 空气罐 → **canned air**
+- PCR 仪 → **PCR thermal cycler**
+- 滤芯吸头 → **filter tips**
+- OCT → **OCT**
+- 金属包埋盒 → **metal embedding mold**
+- 干冰 → **dry ice**
+- 碎冰 → **crushed ice**
+- 组织切片 → **tissue section**
+- RNA 完整值 → **RNA Integrity Number**
+- 包埋 → **embedding**
+- 离心 → **centrifuge**
+- 无纺布 → **non-woven fabric**
+- 无尘纸 → **dust-free paper**
+- 药匙 → **spatula**

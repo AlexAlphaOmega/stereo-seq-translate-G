@@ -512,3 +512,33 @@ EN: To avoid sample cross-contamination, it is recommended to use filter tips.
 ### 修订说明
 - 模板: `· <Action> the <item>`
 - 例句: · Added reference URL for sample processing videos;
+
+## 自动蒸馏新增句式（2026-08-13）
+
+### 操作指令
+- 模板: `<imperative_verb> <object> <optional_complement>`
+- 例句: Remove the clamp and gasket from the Stereo-seq Chip Accessory Kit;
+
+### 建议表达
+- 模板: `It is [strongly] recommended to <verb> <object>.`
+- 例句: It is recommended to take out the reagent components in advance.
+
+### 条件指令
+- 模板: `If <condition>, <imperative_verb> <object>.`
+- 例句: If the tissue block is completely solidified and has turned white and opaque, gently flex both sides of metal embedding mold A.
+
+### 验证动作
+- 模板: `<action> to ensure <target> is <state>.`
+- 例句: Finally, inspect the assembled fixture and chip carrier to ensure they are correctly positioned.
+
+### 禁止与警告
+- 模板: `Avoid <noun_phrase>.`
+- 例句: Avoid direct contact of samples and reagents with skin and eyes.
+
+### 要求描述
+- 模板: `<subject> should not exceed <measurement>.`
+- 例句: The tissue size should not exceed 0.9 cm × 0.9 cm × 2 cm.
+
+### 前置准备
+- 模板: `Prepare <object> in advance [to <purpose>].`
+- 例句: Prepare a foam box of crushed ice in advance and place the OCT on the ice to pre-chill for 10 min;
