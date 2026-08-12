@@ -478,3 +478,37 @@ EN: To avoid sample cross-contamination, it is recommended to use filter tips.
 ### 条件警告
 - 模板: `Strictly avoid <condition>, as <consequence>.`
 - 例句: Strictly avoid tissue drying during the liquid exchange process, as tissue drying can easily generate non-specific signals.
+
+## 自动蒸馏新增句式（2026-08-12）
+
+### 条件执行
+- 模板: `When it is necessary to <action>, follow <instructions>`
+- 例句: When it is necessary to replace the V3 gasket during the process, follow the operations in step '1' of 'IV. Disassembly'
+
+### 动作指令
+- 模板: `<verb> the <object> with <tool/reagent>`
+- 例句: Wipe the upper cover with 75% ethanol to remove residual reagents from the surface
+
+### 操作后确认
+- 模板: `After <action>, ensure <condition>`
+- 例句: After replacement, ensure that the gasket is not deformed and fits tightly.
+
+### 时长指令
+- 模板: `<verb> in <substance> for <time>`
+- 例句: First, immerse in 75% ethanol for 10 min
+
+### 用途与限制
+- 模板: `This product is for <intended_use>, not for <prohibited_use>.`
+- 例句: This product is for research use only, not for diagnostic purposes.
+
+### 提示注意事项
+- 模板: `Note: <instruction/guidance>`
+- 例句: Note: Please download the latest version of the manual and use it with the corresponding version of the kit.
+
+### 重复使用流程
+- 模板: `For reuse, the <item> must be subjected to the following <procedure>:`
+- 例句: For reuse, the cover and base must be subjected to the following cleaning procedures:
+
+### 修订说明
+- 模板: `· <Action> the <item>`
+- 例句: · Added reference URL for sample processing videos;

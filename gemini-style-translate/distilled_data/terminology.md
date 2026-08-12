@@ -210,3 +210,23 @@
 - 组织干燥 → **Tissue desiccation**
 - 抗体 Cocktail → **Antibody Cocktail**
 - DAPI 工作液 → **DAPI working solution**
+
+## 自动蒸馏新增（16 条）
+> 由 Gemini 于 2026-08-12 自动提取
+
+- Stereo-seq V3 载具 → **Stereo-seq V3 Chip**
+- 垫圈 → **gasket**
+- 上盖 → **upper cover**
+- 底座 → **base**
+- 转录组及透化套装 → **Transcriptome and Tissue Optimization Kit**
+- 透化 → **permeabilization**
+- RNA 完整值 → **RNA Integrity Number**
+- 切片 → **section**
+- 组织贴片 → **Tissue Mounting**
+- 组织固定 → **Tissue Fixation**
+- 反转录反应 → **Reverse Transcription Reaction**
+- 组织去除 → **Tissue removal**
+- 荧光拍照 → **Fluorescence imaging**
+- 包埋盒 → **embedding cassette**
+- 冷链运输 → **cold chain transportation**
+- PCR 仪 → **PCR instrument**
