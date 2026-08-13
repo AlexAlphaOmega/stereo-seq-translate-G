@@ -776,3 +776,333 @@
 - 测序参数 → **sequencing parameters**
 - 区域感兴趣 → **Region of Interest**
 - 冷链 → **cold chain**
+
+# 权威中英术语库（来自 STOmics 官方英文手册全量对照）
+
+## 操作
+
+- FFPE样本切片 → **FFPE block slicing**
+- 切片捞取 → **section scooping**
+- 切片烘烤 → **section baking**
+- 石蜡切片 → **paraffin sectioning**
+- RNA质量控制 → **RNA quality control**
+- 移液 → **pipetting**
+- 透化优化 → **permeabilization optimization**
+- 测序 → **sequencing**
+- DNB 制备 → **making DNBs**
+- DNB 上样 → **loading DNBs**
+- 文库构建 → **library preparation**
+- 测序运行 → **sequencing run**
+- 设备维护 → **device maintenance**
+- cDNA 扩增 → **cDNA amplification**
+- 组织贴片 → **tissue mounting**
+- 透化 → **permeabilization**
+- 图像处理 → **image processing**
+- 组织分割 → **tissue segmentation**
+- 比对 → **read alignment**
+- 样本制备 → **sample preparation**
+- mRNA捕获 → **mRNA capture**
+- cDNA合成 → **cDNA synthesis**
+- 冷冻包埋 → **cryo-embedded**
+- 蛋白质去磷酸化 → **protein dephosphorylation**
+- 重包装 → **repackaging**
+- mRNA 捕获 → **mRNA capturing**
+- H&E 染色 → **H&E Staining**
+- rRNA 过滤 → **rRNA filtering**
+- 样本包埋 → **Sample Embedding**
+- 冷冻切片制备 → **Cryosection Preparation**
+- 组织固定 → **Tissue Fixation**
+- 成像 → **Imaging**
+- 组织透化 → **Tissue Permeabilization**
+- 反转录 → **Reverse Transcription**
+- 组织去除 → **Tissue Removal**
+- cDNA释放 → **cDNA Release**
+- cDNA收集 → **cDNA Collection**
+- cDNA纯化 → **cDNA Purification**
+- cDNA片段化 → **cDNA Fragmentation**
+- PCR产物片段筛选 → **PCR Product Size Selection**
+- 实验准备 → **Experimental Preparation**
+- 抗体滴定 → **antibody titration**
+- 稀释比例 → **dilution ratio**
+- 原位检测 → **in situ detection**
+- 免疫荧光染色 → **immunofluorescence staining**
+- 切片 → **sectioning**
+- 包埋 → **embedding**
+- 冷冻切片 → **cryosection**
+- 贴片 → **mounting**
+- 全转录组捕获 → **whole transcriptome capturing**
+- 空间分析 → **spatial profiling**
+- 全转录组分析 → **whole transcriptome profiling**
+- 样本多重化 → **sample multiplexing**
+- 组织标注 → **tissue annotation**
+- 原位RNA捕获 → **In situ RNA capture**
+- 数据可视化 → **data visualization**
+- 组织成像 → **tissue imaging**
+- 批次效应去除 → **batch effect removal**
+- 轨迹分析 → **trajectory analysis**
+- 通路富集分析 → **pathway enrichment analysis**
+- 细胞注释 → **cell annotations**
+- 细胞检测 → **cell detection**
+- 抗体稀释 → **antibody dilution**
+- 样本运输 → **Sample Transportation**
+- 组织封闭 → **Tissue Blocking**
+- 一抗孵育 → **Primary Antibody Incubation**
+- 二抗孵育 → **Secondary Antibody Incubation**
+- DAPI染色 → **DAPI staining**
+- 伊红染色 → **Eosin Staining**
+- 苏木精染色 → **Hematoxylin Staining**
+- 返蓝 → **Bluing**
+- cDNA多重置换扩增 → **cDNA Multiple Displacement Amplification**
+- ssDNA纯化 → **ssDNA purification**
+- PCR产物纯化 → **PCR Product Purification**
+- 测序数据拆分 → **sequencing data splitting**
+- 多重置换扩增 → **Multiple Displacement Amplification**
+- 聚合酶链式反应 → **PCR**
+- 双端片段筛选 → **Double size selection**
+- PCR反应 → **PCR reaction**
+- 扩增 → **Amplification**
+- 片段筛选 → **Size Selection**
+- 二次扩增 → **Secondary Amplification**
+- 混合测序 → **pooled sequencing**
+- 定量 → **Quantify**
+- 探针杂交 → **probe hybridization**
+- 磁珠捕获 → **magnetic bead capture**
+- PCR扩增 → **PCR amplification**
+- 杂交 → **hybridization**
+- 捕获 → **capture**
+- PCR程序 → **PCR program**
+- 校准 → **calibration**
+- 图像采集 → **image acquisition**
+- 质量检查 → **quality check**
+- 封闭 → **Blocking**
+- 组织洗涤 → **tissue wash**
+- 组织包埋 → **tissue embedding**
+- 芯片预处理 → **Chip pre-treatment**
+- 脱蜡 → **Deparaffinization**
+- 变性 → **Denaturation**
+- 磁珠纯化 → **Magnetic bead purification**
+- 组织荧光染色 → **tissue fluorescent staining**
+- 解交联 → **Decrosslinking**
+- 固定 → **Fixation**
+- cDNA 预扩增 → **cDNA Pre-amplification**
+- 显微成像 → **microscope imaging**
+- 下游分析 → **downstream analysis**
+- 成像采集 → **imaging acquisition**
+- 实验检查清单 → **Experiment Checklist**
+- 基因表达图谱绘制 → **gene expression mapping**
+
+## 材料
+
+- 切片机 → **Microtome**
+- 载玻片加热台 → **Slide warmer/dryer**
+- PCR扩增仪 → **PCR Thermal Cycler**
+- 脱蜡液 → **Deparaffinization Solution**
+- 无核酸酶水 → **Nuclease-free water**
+- 新鲜冷冻 → **fresh-frozen (FF)**
+- 石蜡包埋 → **FFPE**
+- 芯片 → **chips**
+- 载玻片 → **slides**
+- 流动槽 → **flow cell**
+- 测序仪 → **sequencer**
+- 垫片 → **Gasket**
+- 冷冻切片机 → **Cryostat**
+- 缓冲液 → **buffer**
+- DNB → **DNB**
+- OCT → **OCT**
+- 抗体同型对照 → **antibody isotype controls**
+- 一抗 → **primary antibodies**
+- 抗体混合物 → **antibody cocktail**
+- Stereo-seq芯片 → **Stereo-seq chip**
+- 福尔马林固定石蜡包埋 → **formalin-fixed paraffin-embedded**
+- 皮质 → **cortex**
+- 浦肯野细胞 → **Purkinje cells**
+- 真空铝箔袋 → **vacuum sealed aluminum bag**
+- 组织切片 → **tissue slice**
+- 新鲜冷冻样本 → **fresh frozen sample**
+- DAPI → **DAPI**
+- FFPE 切片 → **FFPE section**
+- 单链 DNA → **ssDNA**
+- 新鲜冷冻组织 → **Fresh Frozen Tissue**
+- 试剂盒组分 → **Kit Components**
+- 二抗 → **secondary antibody**
+- 抗体衍生标签 → **Antibody-derived tags**
+- mRNA → **mRNA**
+- RNA文库 → **RNA library**
+- DNB图案化芯片 → **DNB patterned chip**
+- DNA 纳米球 → **DNA Nanoballs**
+- PFA 固定样本 → **PFA-fixed sample**
+- 磁珠 → **beads**
+- FFPE样本 → **FFPE samples**
+- 新鲜冷冻转录组cDNA → **fresh frozen transcriptome cDNA**
+- 试剂 → **reagent**
+- ssDNA微珠 → **ssDNA beads**
+- 物镜 → **objective lens**
+- 组织细胞 → **tissue cells**
+- 玻片 → **Slide**
+- 生物组织切片 → **biological tissue sections**
+- 无水乙醇 → **Anhydrous ethanol**
+- 苏木精 → **Hematoxylin**
+- Stereo-seq芯片T → **Stereo-seq Chip T**
+- Stereo-seq芯片P → **Stereo-seq Chip P**
+- 空间编码捕获探针 → **spatially encoded capture probes**
+- 空间条形码探针 → **spatially-barcoded probe**
+- 芯片载玻片 → **Chip Slide**
+
+## 产品
+
+- Agilent 2100生物分析仪 → **Agilent 2100 bioanalyzer**
+- Stereo-seq 可视化试剂盒 → **Stereo-seq Visualization Reagent Set**
+- 测序试剂卡盒 → **Sequencing Reagent Cartridge**
+- Stereo-seq 转录组试剂盒 → **Stereo-seq Transcriptomics Set**
+- cDNA → **cDNA**
+- Stereo-CITE → **Stereo-CITE**
+- Stereo-seq转录组测序试剂盒 → **Stereo-seq Transcriptomics kit**
+- Stereo-seq 转录组学 → **Stereo-seq transcriptomics**
+- Stereo-seq P 芯片载玻片 → **Stereo-seq Chip P Slide**
+- Stereo-seq FFPE 解决方案 → **Stereo-seq for FFPE**
+- STOmics → **STOmics**
+- Stereo-seq FFPE 转录组解决方案 → **Stereo-seq Transcriptomics Solution for FFPE**
+- Stereo-seq 芯片载玻片 → **Stereo-seq Chip Slide**
+- Stereo-seq 芯片卡匣 → **Stereo-seq Slide Cassette**
+- Stereo-seq 芯片 → **Stereo-seq Chips**
+- Stereo-seq OMNI 转录组FFPE试剂盒 → **Stereo-seq OMNI Transcriptomics FFPE Set**
+- 洗涤缓冲液 → **Wash Buffer**
+- 透化套装 → **Permeabilization Set**
+- Stereo-seq文库构建试剂盒 → **Stereo-seq Library Preparation Kit**
+- Stereo-seq 转录组芯片套装 (Chip-on-a-slide) V1 → **Stereo-seq Transcriptomics Set for Chip-on-a-slide V1**
+- OMNI FFPE 转录组套装 → **OMNI Transcriptomics FFPE Set**
+- 用于mIF的Stereo-seq转录组解决方案V1.3 → **Stereo-seq Transcriptomics Solution V1.3 for mIF**
+- 用于FFPE的Stereo-seq OMNI转录组试剂盒 → **Stereo-seq OMNI Transcriptomics Set for FFPE**
+
+## 概念
+
+- 空间转录组学 → **spatial transcriptomics**
+- 空间聚类 → **spatial clustering**
+- 基因表达谱 → **gene expression proﬁles**
+- 皮尔逊相关性 → **Pearson Correlation**
+- 质量控制指标 → **QC metrics**
+- MID计数 → **MID count**
+- 重复率 → **duplication rate**
+- 组织覆盖度 → **tissue coverage**
+- 批次间差异 → **batch-to-batch variation**
+- 批内稳定性 → **intra-batch stability**
+- 批间稳定性 → **inter-batch stability**
+- 移液精度 → **pipette precision**
+- 数据分析 → **data analysis**
+- 测序读长 → **sequencing read length**
+- 细胞分割 → **cell segmentation**
+- 自发荧光 → **autofluorescence**
+- 条形码 → **barcode**
+- 空间组学 → **spatial omics**
+- 单细胞分辨率 → **single-cell resolution**
+- 基因表达数据 → **gene expression data**
+- 空间基因表达矩阵 → **spatial gene expression matrix**
+- 方形分箱法 → **square bin method**
+- 标记基因 → **marker genes**
+- 聚类 → **clustering**
+- 注释 → **annotation**
+- 差异表达基因 → **differentially expressed genes**
+- 转录组图谱分析 → **transcriptomics profiling**
+- 等皮质 → **isocortex**
+- 海马体 → **hippocampus**
+- 蛋白质检测 → **protein detection**
+- 免疫细胞亚群 → **immune cell subsets**
+- 细胞表面抗原 → **cell surface antigens**
+- 转录组学 → **transcriptomics**
+- 亚细胞分辨率 → **subcellular resolution**
+- 空间转录组图谱 → **spatial transcriptome atlas**
+- 细胞结构 → **cellular architecture**
+- 细胞间通讯 → **cell-cell communication**
+- 空间基因表达模式 → **spatial gene expression patterns**
+- 冷链 → **cold chain**
+- 多重免疫荧光 → **Multiplex Immunofluorescence**
+- 空间分辨多组学 → **spatially resolved multi-omics**
+- 全转录组 → **whole transcriptome**
+- 空间基因表达热图 → **spatial gene expression heatmap**
+- 肿瘤免疫微环境 → **Tumor Immune Microenvironment**
+- 人类编码及非编码 RNA → **human coding and non-coding RNA**
+- 浸润区 → **invasive zone**
+- 肿瘤进展 → **tumor progression**
+- 标准操作程序 → **SOP**
+- 室温 → **room temperature**
+- Bin 大小 → **bin size**
+- 空间表达热图 → **spatial expression heatmap**
+- Q30 → **Q30**
+- N碱基 → **N bases**
+- 多聚甲醛 → **PFA**
+- 物种来源 → **Host Species**
+- 纳米级分辨率 → **nanoscale resolution**
+- 空间基因表达 → **spatial gene expression**
+- 类器官 → **organoid**
+- 组织形态学 → **tissue morphology**
+- 转录组图谱 → **transcriptomic atlas**
+- 细胞间信号网络 → **cell–cell signaling networks**
+- 细胞异质性 → **cellular heterogeneity**
+- 基因表达 → **gene expression**
+- 发育生物学 → **developmental biology**
+- 捕获区域 → **capture areas**
+- 组织异质性 → **tissue heterogeneity**
+- 视野 → **field-of-view**
+- 细胞类型 → **cell types**
+- 凋亡 → **apoptosis**
+- 福尔马林固定石蜡包埋 (FFPE) → **Formalin-fixed and Paraffin-embedded (FFPE)**
+- 捕获效率 → **capture efficiency**
+- 转录组 → **transcriptome**
+- 每个细胞的中位MID数 → **Median MID per cell**
+- 组织分层 → **tissue stratification**
+- 肿瘤微环境 → **tumor microenvironment**
+- 空间生物学 → **spatial biology**
+- 测序深度 → **sequencing depth**
+- 蛋白质编码基因 → **protein-coding genes**
+- 空间分布 → **spatial distribution**
+- 免疫细胞类型 → **immune cell types**
+- 蛋白质组学 → **proteomics**
+- bin50 分辨率 → **bin50 resolution**
+- UMI 计数 → **UMI counts**
+- 癌症相关成纤维细胞 → **cancer-associated fibroblast**
+- 浸润边缘 → **invasive margin**
+- 免疫抑制 → **immune suppression**
+- 预后指标 → **prognostic indicators**
+- 治疗靶点 → **therapeutic targets**
+- 空间多组学 → **spatial multi-omics**
+- 空间坐标 → **spatial coordinates**
+- 原位捕获 → **in situ capture**
+- PFA固定样本 → **PFA treated samples**
+- 质控点 → **QC points**
+- 文库结构 → **Library Structure**
+- Stereo-seq技术 → **Stereo-seq technology**
+- 转录组文库 → **transcriptome library**
+- 蛋白-转录组学 → **Proteo-Transcriptomics**
+- 核糖体RNA → **rRNA**
+- 测序质量 → **sequencing quality**
+- 转录组数据 → **transcriptomic data**
+- 图像分辨率 → **image resolution**
+- 视场 → **field of view**
+- 单细胞尺度 → **single-cell scale**
+- 仅限科研使用 → **research use only**
+- mRNA文库 → **mRNA library**
+- mRNA转录本 → **mRNA transcripts**
+- 空间分辨 3' mRNA 文库 → **spatially-resolved 3’ mRNA library**
+- 空间分辨 → **Spatially-resolved**
+- DNB技术 → **DNB technology**
+- 空间特征表达 → **spatial feature expression**
+- 测序读段 → **sequenced reads**
+- Stereo-seq转录组 → **Stereo-seq transcriptome**
+- 共检测技术 → **co-detection technology**
+- 空间可视化 → **spatial visualization**
+- 大视场 → **large field-of-view**
+- 空间表达分布 → **spatial expression distribution**
+- DNA纳米球 → **DNA Nanoball (DNB)**
+- 空间位置 → **spatial location**
+
+## 软件
+
+- 测序参数 → **sequencing parameters**
+- 感兴趣区域 → **Region of Interest**
+- 芯片掩膜文件 → **chip mask files**
+- 生物信息分析流程 → **bioinformatic pipeline**
+- Stereo-seq 分析流程 → **Stereo-seq Analysis Workflow**
+- 采集软件 → **acquisition software**
+- Stereo-seq分析工作流 → **Stereo-seq Analysis Workflow (SAW)**
+- 表达矩阵 → **expression matrices**
+
