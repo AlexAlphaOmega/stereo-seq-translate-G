@@ -733,3 +733,46 @@
 - OCT → **OCT**
 - 无菌无纺布 → **sterile non-woven fabric**
 - -80℃冰箱 → **-80℃ freezer**
+
+## 官方英文手册对照（来自 STOmics 官方英文手册交叉验证）
+
+- 时空转录组 → **spatial transcriptomics**
+- 转录组 → **transcriptomics**
+- 测序 → **sequencing**
+- 文库构建 → **library preparation**
+- DNB制备 → **Making DNBs**
+- DNB加载 → **loading DNBs**
+- 组织贴片 → **tissue mounting**
+- 组织固定 → **Tissue Fixation**
+- 组织透化 → **permeabilization**
+- 反转录 → **Reverse transcription**
+- 切片机 → **Microtome**
+- 冷冻切片机 → **Cryostat**
+- 测序载片 → **flow cell**
+- 载玻片 → **slide**
+- 芯片 → **chip**
+- 芯片载体 → **chip carrier**
+- 垫圈 → **gasket**
+- 无核酸酶水 → **Nuclease-free water**
+- 磁力架 → **magnetic stand**
+- 离心管 → **centrifuge tube**
+- 封板膜 → **sealing film**
+- 成像 → **imaging**
+- 图像QC → **image QC**
+- 细胞分割 → **cell segmentation**
+- 测序仪 → **sequencer**
+- 自动流程 → **automated pipelines**
+- 转录组覆盖度 → **transcriptomic coverage**
+- 组织结构 → **cellular architecture**
+- 透化优化 → **permeabilization optimization**
+- 自发荧光 → **autofluorescence**
+- 空间基因表达矩阵 → **spatial gene expression matrix**
+- 空间基因表达热图 → **spatial gene expression heatmap**
+- 空间分辨率 → **single-cell resolution**
+- 聚类 → **clustering**
+- 注释 → **annotation**
+- 差异表达基因 → **DEGs**
+- 有效CID比例 → **valid CID ratio**
+- 测序参数 → **sequencing parameters**
+- 区域感兴趣 → **Region of Interest**
+- 冷链 → **cold chain**
