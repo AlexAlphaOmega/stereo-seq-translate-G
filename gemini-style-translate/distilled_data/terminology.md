@@ -252,3 +252,484 @@
 - 无纺布 → **non-woven fabric**
 - 无尘纸 → **dust-free paper**
 - 药匙 → **spatula**
+
+## 自动蒸馏新增（477 条）
+> 由 Gemini 于 2026-08-13 自动提取
+
+- 时空转录组 → **Spatial Transcriptomics**
+- 试剂盒 → **Kit**
+- 预实验 → **Pre-experiment**
+- 自发荧光 → **Autofluorescence**
+- 芯片预染 → **Chip pre-staining**
+- 冷冻切片包埋剂 → **Cryosection embedding medium**
+- cDNA 纯化产物 → **Purified cDNA product**
+- DEPC 水 → **DEPC-treated water**
+- NF 水 → **Nuclease-Free water**
+- 芯片储存温度 → **Chip storage temperature**
+- 测序指南 → **Sequencing Guide**
+- 产品组成 → **Product Components**
+- 样本准备 → **Sample Preparation**
+- 实验操作指南 → **Experimental Operation Guide**
+- 注意事项 → **Precautions**
+- 切片准备 → **Section Preparation**
+- 芯片处理与组织贴片 → **Chip Processing and Tissue Mounting**
+- 组织固定 → **Tissue Fixation**
+- FB 染色 → **FB Staining**
+- 荧光拍照 → **Imaging**
+- 组织透化 → **Tissue Permeabilization**
+- RT MIX 反应 → **RT Mix Reaction**
+- cDNA 释放与回收 → **cDNA Release and Recovery**
+- cDNA 纯化 → **cDNA Purification**
+- cDNA 扩增 → **cDNA Amplification**
+- PCR 扩增产物纯化 → **Purification of PCR Amplification Products**
+- 转录组 → **Transcriptomics**
+- 芯片载体 → **Chip Carrier**
+- 质量控制 → **Quality Control**
+- 功能验证 → **Functional Validation**
+- 测序平台 → **Sequencing Platform**
+- 辅助试剂盒 → **Accessory Kit**
+- PCR 适配器 → **PCR Adapter**
+- 储存温度 → **Storage temperature**
+- 货号 → **Cat. No.**
+- 载玻片 → **Slide**
+- 离心管 → **Centrifuge Tube**
+- 带滤芯枪头 → **Filtered pipette tips**
+- PCR 仪 → **Thermal Cycler**
+- 磁力架 → **Magnetic Rack**
+- 荧光定量仪 → **Fluorometer**
+- 芯片 → **Chip**
+- 冷链运输 → **Cold chain**
+- 真空密封 → **Vacuum-sealed**
+- 科研用途 → **Research use only**
+- 临床诊断 → **Clinical diagnosis**
+- 荧光显微镜 → **Fluorescence microscope**
+- 无水乙醇 → **Absolute Ethanol**
+- 分析纯 → **Analytical Grade**
+- 盖玻片 → **Coverslip**
+- 空气罐 → **Air Duster**
+- 运输温度 → **Transport temperature**
+- 有效期 → **Expiration date**
+- 空间转录组 → **Spatial transcriptomics**
+- 实验流程 → **Experimental procedures**
+- 反应参数 → **Reaction parameters**
+- 试剂组分 → **Reagent components**
+- 粘附载玻片 → **Adhesive slide**
+- 组织脱片 → **Tissue detachment**
+- 自发荧光染色 → **Autofluorescence staining**
+- 透化时间 → **Permeabilization time**
+- 冰冻切片机 → **Cryostat**
+- OCT 包埋块 → **OCT embedding block**
+- 无核酸酶水 → **Nuclease-Free Water**
+- 金属浴 → **Metal bath**
+- 透化试剂工作液 → **Permeabilization reagent working solution**
+- 透化试剂储存液 → **Permeabilization stock solution**
+- SSC 清洗液 → **SSC Wash Buffer**
+- ssDNA 染色液 → **ssDNA Staining Solution**
+- H&E 封片剂 → **H&E Mounting Medium**
+- 透化试剂 → **Permeabilization Reagent**
+- 储存液 → **Stock Solution**
+- 工作液 → **Working Solution**
+- 冷冻切片机 → **Cryostat**
+- 样本头 → **Specimen head**
+- 组织块 → **Tissue block**
+- 包埋剂 → **Embedding medium**
+- 冷冻切片 → **Cryosectioning**
+- 反转录 → **Reverse transcription**
+- 组织贴片 → **Tissue mounting**
+- 荧光染色 → **Fluorescent staining**
+- 磁珠 → **Magnetic beads**
+- 烤片 → **Slide baking**
+- 预染 → **Pre-staining**
+- 切片机 → **Microtome**
+- 载体 → **Carrier**
+- FB染色 → **FB Staining**
+- 封片剂 → **Mounting Medium**
+- 物镜 → **Objective lens**
+- 图像QC → **Image QC**
+- 落射荧光 → **Epi-fluorescence**
+- 显微镜 → **Microscope**
+- 适配器 → **Adapter**
+- PCR仪 → **PCR instrument**
+- 反转录反应 → **Reverse transcription reaction**
+- 选点 → **Point selection**
+- 落射光源 → **Epi-illumination light source**
+- 载具 → **Carrier**
+- 运动平台 → **Motion stage**
+- 焦面 → **Focal plane**
+- 反转录反应液 → **RT Mix**
+- cDNA 释放混合液 → **cDNA Release Mix**
+- 封板膜 → **sealing film**
+- 移液器 → **pipette**
+- 反应孔 → **reaction wells**
+- 上清 → **supernatant**
+- 乙醇漂洗 → **ethanol wash**
+- 组织 → **tissue**
+- 涡旋 → **vortex**
+- 瞬时离心 → **brief centrifugation**
+- 纯化 → **purification**
+- 浓度 → **concentration**
+- 洗液 → **wash buffer**
+- 预热 → **preheat**
+- 建库 → **library construction**
+- 磁珠纯化 → **magnetic bead purification**
+- 扩增 → **Amplification**
+- 回溶 → **resuspend**
+- 夹具 → **fixture**
+- 垫圈 → **gasket**
+- 热盖 → **Heated lid**
+- 下采样比例 → **Downsampling ratio**
+- 试剂套装 → **Reagent Kit**
+- DNB → **DNB**
+- Pooling → **Pooling**
+- 测序载片 → **Sequencing slide**
+- 文库 → **Library**
+- 试剂槽 → **Reagent cartridge**
+- dsDNA 文库 → **dsDNA library**
+- 样本加载试剂板 → **Sample loading reagent plate**
+- DNB 制备 → **DNB Preparation**
+- 测序原理 → **Sequencing Principle**
+- 碱基平衡性 → **Base balance**
+- 测序时长 → **Sequencing Duration**
+- 蛋白转录组试剂套装 → **Protein-Transcriptome Reagent Set**
+- 清洗 → **Cleaning**
+- DNB 浓度 → **DNB concentration**
+- 负压异常 → **Negative Pressure Abnormality**
+- 产生气泡 → **Bubble Generation**
+- DNA 纳米球 → **DNA nanoball**
+- 联合探针锚定聚合技术 → **Combinatorial Probe Anchor Synthesis**
+- 测序读长 → **sequencing read length**
+- 暗反应 → **dark reaction**
+- 校正循环 → **calibration cycle**
+- 基因测序仪 → **gene sequencer**
+- 一次性使用 → **single-use**
+- TE 缓冲液 → **TE buffer**
+- MDA 聚合酶混合液Ⅱ → **MDA Polymerase Mix II**
+- 测序试剂槽 → **Sequencing Reagent Reservoir**
+- 透明封口膜 → **Transparent Sealing Film**
+- 清洗试剂盒 → **Washing Reagent Kit**
+- 离心机 → **centrifuge**
+- 灭菌吸头 → **sterile pipette tips**
+- 测序工作流程 → **Sequencing Workflow**
+- 插入片段 → **insert size**
+- 载片 → **slide**
+- 样本加载板 → **Sample Loading Plate**
+- 建库试剂盒 → **Library preparation kit**
+- 文库浓度 → **Library concentration**
+- DNB制备 → **DNB preparation**
+- 测序深度 → **Sequencing depth**
+- 测序质量 → **Sequencing quality**
+- Barcode → **Barcode**
+- 碱基组成 → **Base composition**
+- dsDNA文库 → **dsDNA library**
+- FFPE → **FFPE**
+- DNB聚合酶 → **DNB polymerase**
+- 终止缓冲液 → **Termination buffer**
+- 反应体系 → **Reaction system**
+- 阔口吸头 → **Wide-bore pipette tip**
+- 吹打 → **Pipetting**
+- 复性 → **Renaturation**
+- DNB定量 → **DNB quantification**
+- pooling体积 → **Pooling volume**
+- 测序碱基平衡 → **Base balance for sequencing**
+- 文库质量比 → **Mass ratio of library**
+- 时空可视化试剂套装 → **Spatial Visualization Reagent Kit**
+- 测序仪 → **Sequencer**
+- 离心 → **Centrifuge**
+- 水浴 → **Water bath**
+- 预期用途 → **Intended Use**
+- 测序 → **Sequencing**
+- 数据获取 → **Data Acquisition**
+- 异常处理 → **Troubleshooting**
+- 高通量测序 → **High-throughput sequencing**
+- Barcode 拆分 → **Barcode demultiplexing**
+- DNB 聚合酶 → **DNB Polymerase**
+- DNB 加载缓冲液 → **DNB Loading Buffer**
+- dNTPs 混合液 → **dNTP mixture**
+- 泵液失败 → **Pump Failure**
+- DNB 定量 → **DNB Quantification**
+- 失活MDA试剂 → **Inactivated MDA Reagent**
+- MDA聚合酶混合液II → **MDA Polymerase Mix II**
+- 冻存管 → **Cryogenic vial**
+- 漩涡振荡器 → **Vortex mixer**
+- 测序仪清洗槽 → **Sequencer wash tank**
+- DNB加载缓冲液 → **DNB loading buffer**
+- 装载仓 → **Loading chamber**
+- 载片平台 → **slide platform**
+- 密封垫 → **sealing gasket**
+- 载片吸附按钮 → **slide suction button**
+- 清洗载片 → **cleaning slide**
+- 文库构建试剂盒 → **library construction kit**
+- 双链DNA → **dsDNA**
+- 接头序列 → **adapter sequence**
+- 时空组学 → **Spatiotemporal Omics**
+- DNB制备缓冲液 → **DNB Preparation Buffer**
+- DNB 终止缓冲液 → **DNB Stop Buffer**
+- DNB 聚合酶混合液 I → **DNB Polymerase Mix I**
+- DNB 聚合酶混合液 II → **DNB Polymerase Mix II**
+- 便携式加样器 → **portable loader**
+- FFPE 文库 → **FFPE library**
+- CITE V1.1-ADT 文库 → **CITE V1.1-ADT library**
+- 八连管 → **8-strip tubes**
+- 时空组学DNB 制备缓冲液 → **Spatial Omics DNB Preparation Buffer**
+- 真空包装袋 → **vacuum packaging bag**
+- 荧光猝灭 → **fluorescence quenching**
+- DNB加载缓冲液II → **DNB Loading Buffer II**
+- DNB加载体系 → **DNB loading mix**
+- DNB聚合酶混合液II → **DNB Polymerase Mix II**
+- DNA聚合酶混合液II → **DNA Polymerase Mix II**
+- dNTPs混合液 → **dNTPs Mix**
+- dNTPs混合液II → **dNTPs Mix II**
+- 封口膜 → **sealing film**
+- 无尘纸 → **lint-free paper**
+- 吸头 → **pipette tip**
+- 纯水 → **pure water**
+- DNA聚合酶混合液 → **DNA Polymerase Mix**
+- MDA聚合酶混合液 → **MDA Polymerase Mix**
+- 加样器 → **sample loader**
+- 流路 → **flow path**
+- 低温仓 → **low-temperature compartment**
+- 常温仓 → **room-temperature compartment**
+- 定位孔 → **positioning hole**
+- 定位柱 → **positioning pin**
+- 芯驱 → **core drive**
+- 加样孔 → **sample loading well**
+- DNA 聚合酶混合液II → **DNA polymerase mixture II**
+- 枪头 → **pipette tip**
+- 测序方案 → **sequencing scheme**
+- barcode → **barcode**
+- 一链读长 → **Read 1 length**
+- 二链读长 → **Read 2 length**
+- FFPE文库 → **FFPE library**
+- 自动清洗 → **Automatic cleaning**
+- 手动清洗 → **Manual cleaning**
+- 标签序列 → **Tag sequence**
+- 加载仪 → **Loader**
+- 清洗试剂 → **Washing reagent**
+- 实验室级用水 → **Laboratory-grade water**
+- 拆分barcode → **Barcode demultiplexing**
+- 清洗试剂槽 → **cleaning reagent trough**
+- 负压 → **negative pressure**
+- 试剂针 → **reagent needle**
+- 二链合成 → **second-strand synthesis**
+- MDA 聚合酶混合液 → **MDA Polymerase Mix**
+- dNTPs → **dNTPs**
+- 密封圈 → **sealing ring**
+- 纯水桶 → **pure water bucket**
+- 泵液 → **pumping**
+- 压缩空气罐 → **compressed air duster**
+- 检测管 → **assay tube**
+- 标准曲线 → **standard curve**
+- 试剂仓 → **reagent compartment**
+- 标准品 → **standard**
+- Barcode读长 → **Barcode read length**
+- 测序模式 → **Sequencing mode**
+- DNB加载 → **DNB loading**
+- 清洗维护 → **Cleaning maintenance**
+- 深度清洗 → **Deep cleaning**
+- 超深度清洗 → **Ultra-deep cleaning**
+- 清洗试剂针 → **Cleaning Reagent Needle**
+- 常规清洗 → **Routine Cleaning**
+- DNB 管清洗 → **DNB Tube Cleaning**
+- 样本管 → **Sample Tube**
+- MDA 酶 → **MDA enzyme**
+- PE 测序 → **PE sequencing**
+- 一链测序 → **first-strand sequencing**
+- 流式芯片 → **Flow cell**
+- 工作溶液 → **Working solution**
+- 漩涡震荡 → **Vortexing**
+- 迷你离心机 → **Mini-centrifuge**
+- 避光孵育 → **Incubation**
+- 芯片处理 → **Chip processing**
+- 抗体孵育 → **antibody incubation**
+- DAPI 染色 → **DAPI staining**
+- 组织解交联 → **Tissue de-crosslinking**
+- 抗体衍生标签 → **Antibody-derived tag**
+- Stereo-seq 蛋白组辅助试剂盒 → **Stereo-seq Proteomics Assistant Kit**
+- PCR 系统 → **PCR System**
+- RNase 抑制剂 → **RNase Inhibitor**
+- 多聚甲醛 → **Paraformaldehyde**
+- 鲑鱼精子 DNA → **Salmon Sperm DNA**
+- 马血清 → **Horse Serum**
+- 山羊血清 → **Goat Serum**
+- DAPI 溶液 → **DAPI Solution**
+- 同型对照抗体 → **Isotype control antibody**
+- 96 孔板 → **96-well plate**
+- 针筒式过滤器 → **Syringe Filter**
+- 免疫组化湿盒 → **IHC humidity chamber**
+- 免疫组化笔 → **IHC pen**
+- Stereo-seq 芯片 → **Stereo-seq chip**
+- 解交联 → **de-crosslinking**
+- 组织移除 → **tissue removal**
+- cDNA 释放 → **cDNA release**
+- 抗体滴定 → **antibody titration**
+- 组织切片 → **tissue section**
+- 冻干粉 → **lyophilized powder**
+- OCT包埋 → **OCT embedding**
+- 4% PFA溶液 → **4% PFA solution**
+- 封闭液 → **blocking buffer**
+- 一抗 → **primary antibody**
+- 二抗 → **secondary antibody**
+- 荧光二抗 → **fluorescent secondary antibody**
+- 贴片 → **mounting**
+- PCR适配器 → **PCR adapter**
+- 样品托 → **sample holder**
+- 热贴 → **hot mounting**
+- 冷贴 → **cold mounting**
+- Stereo-CITE 蛋白转录组试剂套装 → **Stereo-CITE Protein Transcriptome Reagent Kit**
+- DAPI 工作液 → **DAPI working solution**
+- 透化试剂套装 → **Permeabilization Reagent Kit**
+- 手持载具 → **handheld carrier**
+- 荧光淬灭 → **fluorescence quenching**
+- 荧光通道 → **fluorescence channel**
+- 目标区域 → **target area**
+- 热盖温度 → **Heated lid temperature**
+- 洗脱 → **Elution**
+- 震荡混匀 → **vortex to mix**
+- 风干 → **air-dry**
+- 室温 → **room temperature**
+- 产物 → **product**
+- 使用说明书 → **user manual**
+- 扩增程序 → **amplification program**
+- RT Mix → **RT Mix**
+- cDNA Release Mix → **cDNA Release Mix**
+- ADT PCR Mix → **ADT PCR Mix**
+- Qubit dsDNA Mix → **Qubit dsDNA Mix**
+- 文库构建 → **library construction**
+- PCR 产物 → **PCR product**
+- 剪切鲑鱼精子 DNA → **Sheared salmon sperm DNA**
+- 滤后血清 → **Filtered serum**
+- Stereo-seq V3 载具 → **Stereo-seq V3 Carrier**
+- 上盖 → **Lid**
+- 底座 → **Base**
+- 压敏膜 → **Pressure-sensitive film**
+- 反应槽 → **Reaction well**
+- 探针 → **Probes**
+- 配件套装 → **Accessory kit**
+- 无尘布 → **Lint-free cloth**
+- 硅胶刮板 → **Silicone scraper**
+- 透化 → **Permeabilization**
+- 孵育 → **Incubation**
+- 样本 → **Sample**
+- 包埋 → **Embedding**
+- 拆卸工具 → **Disassembly tool**
+- 移液枪 → **Pipette**
+- 金属包埋盒 → **Metal embedding cassette**
+- RNA 完整值 → **RNA Integrity Number**
+- Stereo-seq 时空转录组技术 → **Stereo-seq Spatiotemporal Transcriptomics Technology**
+- DNBSEQ 高通量测序技术 → **DNBSEQ High-throughput Sequencing Technology**
+- 定制化芯片 → **Customized Chip**
+- 透化试剂盒 → **Permeabilization Kit**
+- 原位全转录组信息捕获技术 → **In situ Whole-transcriptome Information Capture Technology**
+- 核苷酸捕获探针 → **Nucleotide Capture Probe**
+- 荧光成像 → **Fluorescence Imaging**
+- cDNA 合成 → **cDNA Synthesis**
+- 带滤芯吸头 → **Filter Tips**
+- Stereo-seq 定制化芯片透化试剂套装 → **Stereo-seq Customized Chip Permeabilization Reagent Kit**
+- 试剂 → **Reagent**
+- 质检 → **Quality Control (QC)**
+- 离体 → **Excision**
+- 药匙 → **Spatula**
+- 注射器 → **Syringe**
+- 干冰 → **Dry ice**
+- 碎冰 → **Crushed ice**
+- 切片 → **Section**
+- 锡纸 → **Aluminum foil**
+- 烤片机 → **slide drying oven**
+- 培养皿 → **Petri dish**
+- 甲醇 → **methanol**
+- 通风橱 → **fume hood**
+- 洗涤缓冲液 → **wash buffer**
+- 透化工作液 → **Permeabilization working solution**
+- 大芯片 → **large chip**
+- 组织去除 → **Tissue removal**
+- 阳性对照 → **Positive control**
+- 组织移除试剂 → **Tissue removal reagent**
+- 落射荧光扫描模式 → **epifluorescence scanning mode**
+- 清洗溶液 → **wash solution**
+- TR缓冲液 → **TR Buffer**
+- 反转录QC Mix → **RT QC Mix**
+- 杂交Mix → **hybridization Mix**
+- Stereo-seq 建库试剂盒 → **Stereo-seq Library Preparation Kit**
+- 抗体衍生标签(ADT) → **Antibody-Derived Tag (ADT)**
+- cDNA 打断与扩增 → **cDNA fragmentation and amplification**
+- PCR 产物双选 → **PCR product double selection**
+- Stereo-seq 16 Barcode 扩增试剂盒 → **Stereo-seq 16 Barcode Amplification Kit**
+- 干冰运输 → **Dry ice shipping**
+- 4 倍镜 → **4x objective**
+- 10 倍镜 → **10x objective**
+- DNBSEQ 测序平台 → **DNBSEQ sequencing platform**
+- 16 Barcode 扩增试剂盒 → **16 Barcode Amplification Kit**
+- 时空cDNA 扩增产物 → **spatial-temporal cDNA amplification products**
+- 全转录本 → **whole-transcriptome**
+- DNA 打断 → **DNA fragmentation**
+- 测序接头 → **sequencing adapters**
+- 多蛋白抗体衍生标签 → **multi-protein Antibody Derived Tag (ADT)**
+- 多样本混合测序 → **multi-sample mixed sequencing**
+- 无水乙醇（分析纯） → **absolute ethanol (analytical grade)**
+- PCR 管 → **PCR tubes**
+- 时空转录组文库构建 → **Spatiotemporal Transcriptomic Library Construction**
+- 打断 Mix → **Fragmentation Mix**
+- Stop Buffer → **Stop Buffer**
+- PCR 扩增 → **PCR amplification**
+- Qubit dsDNA HS Kit → **Qubit dsDNA HS Kit**
+- 80% 乙醇 → **80% ethanol**
+- TE buffer → **TE buffer**
+- Sample barcode → **Sample barcode**
+- Nuclease-Free Water → **Nuclease-Free Water**
+- ADT扩增 → **ADT amplification**
+- 文库纯化 → **Library purification**
+- 碱基平衡 → **Base balance**
+- 混合测序 → **Pooled sequencing**
+- 转录组文库 → **Transcriptome library**
+- 沉淀 → **Pellet**
+- 拆分 → **Demultiplex**
+- PCR Barcode Primer Mix → **PCR Barcode Primer Mix**
+- lane → **lane**
+- Stereo-seq → **Stereo-seq**
+- 数据量 → **data volume**
+- 空间组学技术 → **spatial-omics technology**
+- 钝头镊子 → **blunt-tipped tweezers**
+- 铝袋 → **aluminum foil bag**
+- 双面胶 → **double-sided tape**
+- 干燥剂 → **desiccant**
+- Stereo-seq转录组试剂套装 → **Stereo-seq Transcriptomics Reagent Kit**
+- 标准操作流程 → **Standard Operating Procedure**
+- 新鲜冷冻样本 → **Fresh frozen sample**
+- 样本包埋 → **Sample Embedding**
+- cDNA纯化 → **cDNA Purification**
+- cDNA扩增 → **cDNA amplification**
+- 时空转录组技术 → **Spatiotemporal transcriptomics technology**
+- 高通量测序技术 → **High-throughput sequencing technology**
+- 差异分析 → **Differential analysis**
+- 富集分析 → **Enrichment analysis**
+- Stereo-seq 芯片载体 → **Stereo-seq chip carrier**
+- Stereo-seq 转录组试剂套装 → **Stereo-seq Transcriptomics Reagent Kit**
+- Stereo-seq 芯片T 载体 → **Stereo-seq Chip T carrier**
+- Stereo-seq PCR 适配器 → **Stereo-seq PCR adapter**
+- 载玻片染色架 → **Slide staining rack**
+- 显微镜盖玻片 → **Microscope coverslip**
+- 苏木素 → **Hematoxylin**
+- 伊红 → **Eosin**
+- 载体配件包 → **Slide Accessory Kit**
+- 吹打混匀 → **mix by pipetting**
+- 反复冻融 → **repeated freeze-thaw cycles**
+- 交叉污染 → **cross-contamination**
+- 带滤芯的吸头 → **pipette tips with filters**
+- 金属块 → **metal block**
+- 透化酶 → **permeabilization enzyme**
+- 醇溶伊红溶液 → **alcohol-soluble eosin solution**
+- 返蓝染色液 → **bluing buffer**
+- 封片 → **mounting**
+- 转录组试剂套装 → **Transcriptomics Reagent Kit**
+- 气泡 → **Bubbles**
+- TE Buffer → **TE Buffer**
+- PCR 程序 → **PCR program**
+- 片段分布 → **fragment distribution**
+- 样本要求 → **Sample Requirements**
+- 组分信息 → **Component Information**
+- 规格 → **Specification**
+- 样本交叉污染 → **sample cross-contamination**
+- 滤芯吸头 → **filter tips**
+- OCT → **OCT**
+- 无菌无纺布 → **sterile non-woven fabric**
+- -80℃冰箱 → **-80℃ freezer**
