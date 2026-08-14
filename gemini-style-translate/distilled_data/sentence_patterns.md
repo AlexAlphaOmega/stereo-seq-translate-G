@@ -4602,3 +4602,2925 @@ EN: To avoid sample cross-contamination, it is recommended to use filter tips.
 ### 通用声明句
 - 模板: `This document is intended solely as <Descriptor>, aimed at providing <Purpose>.`
 - 例句: This document is intended solely as general guidance reference material, aimed at providing operational guidelines and methods.
+
+## 自动蒸馏新增句式（2026-08-15）
+
+### 标准操作建议
+- 模板: `Please <action> <object>.`
+- 例句: Please clean the lens surface with a soft cloth.
+
+### 禁止操作提示
+- 模板: `Do not <action> <object>, as this may result in <consequence>.`
+- 例句: Do not remove the casing while the equipment is running, as this may result in electric shock.
+
+### 条件触发指令
+- 模板: `If <condition> is detected, please <action> immediately.`
+- 例句: If abnormal noise is detected, please stop using it immediately.
+
+### 步骤前置要求
+- 模板: `Before <step>, please <action>.`
+- 例句: Before installation, please turn off the power.
+
+### 版本更新条目
+- 模板: `<Action_Verb> <item> in section <section_id>.`
+- 例句: Add an autofluorescence-based chip pre-staining step in section 3.3;
+
+### 文档功能描述
+- 模板: `This document serves as <purpose>.`
+- 例句: This document serves as general guidance and reference material.
+
+### 产品用途限制
+- 模板: `This product is for <permitted_use> only, not for <prohibited_use>.`
+- 例句: This product is for research use only, not for diagnostic use.
+
+### 材料/试剂替换
+- 模板: `Replace <item_A> with <item_B>.`
+- 例句: Replace DEPC-treated water with Nuclease-Free water;
+
+### 免责声明句式
+- 模板: `Nothing herein is intended to or shall be construed as <warranty>.`
+- 例句: Nothing herein is intended to or shall be construed as any warranty regarding the performance of any product listed or described herein.
+
+### 步骤标题
+- 模板: `<number>.<number>. <noun_phrase>`
+- 例句: 3.2. Section Preparation
+
+### 注意事项/提示
+- 模板: `<Tip/Note/Critical step>: <instruction/explanation>.`
+- 例句: Tip: Additional operating tips and guidance.
+
+### 指令/建议
+- 模板: `Please <verb> <object> <adverb/prepositional_phrase>.`
+- 例句: Please store the product according to the specified conditions as soon as possible.
+
+### 条件句
+- 模板: `If <condition>, <main_clause>.`
+- 例句: If the transfer time is long, it is recommended to use a temperature-controlled container for transportation.
+
+### 表格标题
+- 模板: `Table <number>-<number> <noun_phrase>`
+- 例句: Table 1-1 Reagent Components of Stereo-seq Transcriptomics Kit T
+
+### 定义/描述
+- 模板: `<Subject> <be_verb> <noun_phrase_complement>.`
+- 例句: The Stereo-seq Transcriptomics Reagent Kit V1.3 (Substrate Version) consists of the following three parts:
+
+### 引用/参考
+- 模板: `For details, please refer to <document_title>.`
+- 例句: For details, please refer to the "Stereo-seq Chip Carrier Storage Operation Guide".
+
+### 规格/货号信息
+- 模板: `<Component_Name> <Cat_No_Label>: <Catalog_Number>`
+- 例句: Stereo-seq Transcriptomics Kit T Cat. No.: 201KT13114
+
+### 状态描述/要求
+- 模板: `<Subject> must be <adjective_or_past_participle>.`
+- 例句: All reagents provided in this reagent kit have undergone rigorous quality control and functional validation.
+
+### 暂停建议
+- 模板: `Stopping point: You can <verb> <object> here and <verb> <object>.`
+- 例句: Stopping point: You can pause the experiment here and store the samples.
+
+### 参数设定
+- 模板: `<Parameter>: <Value>`
+- 例句: Storage temperature: 18°C~25°C
+
+### 货号标识
+- 模板: `Cat. No.: <Number>`
+- 例句: Cat. No.: 203KA12114
+
+### 选项选择说明
+- 模板: `Select any one from <Scope>.`
+- 例句: Select any one from the brands with the same superscript.
+
+### 使用前说明
+- 模板: `Please <Verb> before <Action>.`
+- 例句: Please read this manual carefully before use.
+
+### 自备物料清单表头
+- 模板: `Table <Number> User-supplied <Items> List`
+- 例句: Table 1-6 User-supplied Instruments List
+
+### 同等设备说明
+- 模板: `(or equivalent instrument)`
+- 例句: Qubit™ 3.0 Fluorometer Q33216 (or equivalent instrument)
+
+### 试剂适用及使用说明
+- 模板: `<Item> is a specialized reagent for <Type>; use as needed.`
+- 例句: * F RT Buffer Mix is a specialized reagent for fruit-bearing plants; use as needed.
+
+### 用途声明
+- 模板: `This product is for research use only, not for clinical diagnosis.`
+- 例句: This product is for research use only, not for clinical diagnosis.
+
+### 有效期标识
+- 模板: `Expiration date: <Value>.`
+- 例句: Expiration date: see label.
+
+### 推荐行为
+- 模板: `It is recommended to <verb> <object> [before/after <condition>].`
+- 例句: It is recommended to take out all reagent components in advance before use.
+
+### 操作指令
+- 模板: `<verb> <object> to <purpose> [using <tool>].`
+- 例句: Add sufficient methanol to a slide box to ensure that the methanol covers the tissue.
+
+### 禁止预防
+- 模板: `Avoid <action/substance> on <body_part>; do not <action> <object>.`
+- 例句: Avoid direct contact of samples and reagents with skin and eyes; do not swallow samples and reagents.
+
+### 条件中断建议
+- 模板: `If <condition>, [then] <action> is not recommended.`
+- 例句: If the tissue detaches, proceeding with the formal experiment is not recommended.
+
+### 试剂配制指令
+- 模板: `Add <amount> of <reagent_a> to <amount> of <reagent_b> and mix well.`
+- 例句: Add 1 μL of Qubit ssDNA Reagent to 199 μL of 5X SSC and mix well.
+
+### 仪器参数设置
+- 模板: `Set the temperature of <instrument> to <value> in advance.`
+- 例句: Set the temperature of a metal bath or other equivalent instrument to 37°C in advance.
+
+### 试剂稳定性限制
+- 模板: `<reagent> must be prepared fresh for use [or: used within <time_frame>].`
+- 例句: 0.01N HCl must be prepared fresh for use.
+
+### 质量控制确认
+- 模板: `Confirm whether the <object> meet the requirements for <purpose>.`
+- 例句: Confirm whether the images meet the requirements for subsequent analysis.
+
+### 操作指令 (Simple Command)
+- 模板: `<Verb> <Object> (e.g., for <Duration>)`
+- 例句: Briefly centrifuge
+
+### 预处理指令 (Pre-treatment)
+- 模板: `Remove <Object> from <Temperature> in advance, <Verb> on ice, and <Verb> during use.`
+- 例句: Remove the RT Oligo from -20°C in advance, place it on ice, and keep it on ice during use.
+
+### 配制与稀释 (Preparation and Dilution)
+- 模板: `Dilute <Volume> of <SourceReagent> with <Solvent> to <Volume>.`
+- 例句: Dilute 15 μL of the 10X permeabilization stock solution with 0.01N HCl to 150 μL
+
+### 建议句式 (Recommendation)
+- 模板: `It is recommended to <Verb> <Object>.`
+- 例句: It is recommended to aliquot the prepared 10X permeabilization stock solution
+
+### 禁止句式 (Prohibition)
+- 模板: `Do not <Verb> <Object>.`
+- 例句: Do not vortex the permeabilization enzyme; mix by pipetting.
+
+### 条件操作 (Conditional Instruction)
+- 模板: `If <Condition>, <Verb> <Object>.`
+- 例句: If there is debris on the chip, wash twice with 100 μL of Nuclease-Free Water.
+
+### 放置与环境控制 (Placement and Environment)
+- 模板: `Place <Object> on <Location> to <Verb>.`
+- 例句: Place the slide on the workbench to warm up for 1 min.
+
+### 步骤流程衔接 (Sequential Procedure)
+- 模板: `First, <Verb> <Object>; then, <Verb> <Object>.`
+- 例句: First, set the microtome parameters to a section thickness of 40 μm; then slowly shake the microtome handwheel.
+
+### 祈使句操作指令
+- 模板: `<verb> <object> (<prepositional_phrase>).`
+- 例句: Place the carrier chip in the cryostat with the front side facing up, and pre-cool for 1-6 min;
+
+### 步骤衔接（循环）
+- 模板: `Repeat steps <step_start> - <step_end> until <condition_achieved>.`
+- 例句: Repeat steps 2) - 3) until all tissue sections have adhered to the chip surface;
+
+### 条件触发
+- 模板: `If <condition>, please <action>.`
+- 例句: If autofluorescence is chosen, please follow the experimental procedures in section 3.5.1, and ignore section 3.5.2;
+
+### 禁止性警告
+- 模板: `<subject> must not be <adjective> to avoid <negative_outcome>.`
+- 例句: The pre-cooling time must not be too long to avoid water condensation on the slide surface;
+
+### 负面限制
+- 模板: `<action> should not exceed <duration/limit>.`
+- 例句: fixation time should not exceed 1 hr
+
+### 用量表达
+- 模板: `The dosage for a <dimension> chip is <volume>.`
+- 例句: the dosage for a 1 cm*1 cm chip is 5 μL/chip
+
+### 动作目的说明
+- 模板: `This step is to <purpose>.`
+- 例句: This step is to reduce impurities introduced by the coverslip during subsequent imaging;
+
+### 确保性检查
+- 模板: `Ensure <state>.`
+- 例句: ensuring that no methanol residues
+
+### 参考引用
+- 模板: `Refer to <section>, <table_name>, to <action>.`
+- 例句: Refer to Section 3.7 Tissue Permeabilization, Table 3-2, to prepare 1X permeabilization reagent working solution in advance;
+
+### 注意事项/提醒
+- 模板: `Note: <instruction>.`
+- 例句: Note: When performing cold mounting on multiple chips, it is necessary to control the mounting time for each section;
+
+### 操作指令（祈使句）
+- 模板: `<verb> <object> (as/using/to...)`
+- 例句: Add 150 μL/slide of 1X Permeabilization Reagent working solution onto the adapter.
+
+### 条件衔接
+- 模板: `Once <condition>, <action>`
+- 例句: Once the required number of points has been selected, click “End Point Selection”, at which point the “Start Scan” button lights up.
+
+### 建议/推荐
+- 模板: `It is recommended to <action>, otherwise <consequence>.`
+- 例句: It is recommended to set the initial image save path on the local computer to improve upload speed; the save path must be named in English, otherwise it will affect subsequent QC.
+
+### 负面约束（禁止）
+- 模板: `Do not <action>.`
+- 例句: Do not move the carrier while imaging the same chip across different channels.
+
+### 步骤衔接（处理完成后）
+- 模板: `After <process> is complete, <action>.`
+- 例句: After the scan is complete, click "Create Slice" again to create a new folder.
+
+### 参考说明/引用
+- 模板: `For <information>, please refer to <document title>.`
+- 例句: For more specific microscope usage instructions, please refer to the "Go Optical Spatial Microscope Product Manual".
+
+### 数值/参数调整
+- 模板: `Adjust <parameter> (to <value>/<condition>).`
+- 例句: Adjust parameters such as exposure (take care not to overexpose) and gain (set to maximum first, then adjust appropriately).
+
+### 条件选择
+- 模板: `Select <option A> or <option B> (according to <reference>).`
+- 例句: Take out RT Buffer Mix or F RT Buffer Mix in advance (select the specific reagent according to Section 3.8).
+
+### Procedural Addition
+- 模板: `Add <reagent>, <volume>/<unit>`
+- 例句: Add cDNA Release Mix, 400 μL/chip
+
+### Preparation Instruction
+- 模板: `Prepare <item> in advance according to <table_reference> and <action>`
+- 例句: Prepare the cDNA Release Mix 5 minutes in advance according to Table 3-4 and let it stand at room temperature.
+
+### Sequential Workflow Action
+- 模板: `After <condition>, <action_1>, <action_2>`
+- 例句: After the reverse transcription reaction is complete, remove the handheld carrier from the PCR instrument
+
+### Prohibition
+- 模板: `Do not <action_1> or <action_2> the <target>`
+- 例句: Do not pipette up and down or agitate the magnetic beads
+
+### Recommendation
+- 模板: `It is recommended to <action>`
+- 例句: It is recommended to use VAHTS DNA Clean Beads or AMPure® XP for magnetic bead purification
+
+### Table Reference
+- 模板: `Table <table_number> <title> Preparation`
+- 例句: Table 3-4 cDNA Release Mix Preparation
+
+### Condition Check
+- 模板: `If <condition>, <action>`
+- 例句: If reacting overnight, ensure the plate sealing film is tight
+
+### Pipetting Action
+- 模板: `Use a pipette to <action_1> and <action_2>`
+- 例句: Use a pipette to aspirate and discard the RT from one corner of the chip
+
+### 停止点提示
+- 模板: `Stop point: <action> can be performed <condition>, or the products can be stored at <temperature> for <duration>.`
+- 例句: Stop point: PCR can be performed overnight at this step, or the products can be stored at 4°C for up to 16 hours.
+
+### 执行操作指令
+- 模板: `Perform <action> on <target>:`
+- 例句: Perform 0.8X magnetic bead purification on PCR amplification products:
+
+### 混合孵育指令
+- 模板: `Vortex to mix, and incubate for <duration> at <condition>.`
+- 例句: Vortex to mix, and incubate for 10 min at room temperature.
+
+### 离心管操作
+- 模板: `Keep the <container> on the <equipment>, add <volume> <reagent>, and <action_verb> the <container>.`
+- 例句: Keep the centrifuge tube on the magnetic rack, add 200 μL 80% ethanol, and rotate the centrifuge tube.
+
+### 文档引用提示
+- 模板: `For detailed procedures regarding <topic>, please refer to the <document_name>.`
+- 例句: For detailed procedures regarding subsequent library construction, please refer to the Spatial Transcriptomics FF V1.3 (含兼容mlF) 建库实验操作说明书.
+
+### 重复步骤指令
+- 模板: `Repeat steps <step_range> once;`
+- 例句: Repeat steps e-f once;
+
+### 异常条件判断
+- 模板: `The <subject> concentration is typically <threshold>; if it is <condition>, it is considered <status>.`
+- 例句: The cDNA PCR product concentration is typically higher than 20 ng/μL; if it is less than 20 ng/μL, it is considered an experiment abnormality.
+
+### 章节/标题命名
+- 模板: `<Chapter_Number> <Noun_Phrase>`
+- 例句: 1.1 Intended Use
+
+### 步骤标题-动名词式
+- 模板: `<Gerund_Verb> the <Object>`
+- 例句: Thawing the Sample Loading Reagent Plate
+
+### 步骤标题-祈使句式
+- 模板: `<Imperative_Verb> <Object>`
+- 例句: Start Sequencing
+
+### 计算/处理操作指令
+- 模板: `Calculate the <Description_of_Object>`
+- 例句: Calculate the theoretical relative quantity for each sample
+
+### 兼容性说明
+- 模板: `Compatible with <Object>`
+- 例句: Compatible with FF V1.3 library sequencing
+
+### 版权/商标声明
+- 模板: `<Subject> is a trademark of <Company>.`
+- 例句: TM is a trademark of Thermo Fisher Scientific Inc. or its subsidiaries.
+
+### 操作名词化
+- 模板: `Calculation of <Object>`
+- 例句: Calculation of pooling volume for each sample
+
+### 否定/禁止指令
+- 模板: `<subject> must not be <verb/action>`
+- 例句: Reagent components from different batches must not be mixed.
+
+### 适用/适用范围声明
+- 模板: `This product is <intended_use/application>.`
+- 例句: This product is for scientific research use only.
+
+### 设备/试剂配合使用
+- 模板: `It is used in conjunction with <instrument/product>.`
+- 例句: It is used in conjunction with the gene sequencer (DNBSEQ-T7RS).
+
+### 操作流程衔接
+- 模板: `When <action> is in progress, <subject> automatically <verb> <object>.`
+- 例句: When sequencing is in progress, the control software automatically calls the basecalling software for analysis.
+
+### 注意事项/建议
+- 模板: `Please <verb> <object> carefully before <action>.`
+- 例句: Please read the product manual carefully before use.
+
+### 异常描述
+- 模板: `<Noun> <Abnormality_Type>`
+- 例句: Negative Pressure Abnormality
+
+### 组分/规格描述
+- 模板: `<Component_Name>, <Volume>/<Unit> × <Quantity> <Unit>`
+- 例句: TE buffer, 480 μL/tube × 1 tube
+
+### 自动生成说明
+- 模板: `<subject> are automatically generated by the system according to <parameter>.`
+- 例句: they are automatically generated by the system according to the sequencing read length.
+
+### 意图声明
+- 模板: `This page is intentionally left blank.`
+- 例句: - - - This page is intentionally left blank - - -
+
+### 物料规格描述
+- 模板: `<Item Name>, <Quantity>/<Unit> × <Count> <Unit>`
+- 例句: MDA Polymerase Mix II, 0.60 mL/vial × 1 vial
+
+### 货号/编号描述
+- 模板: `<Label>: <Value>`
+- 例句: Cat. No.: 940-001904-00
+
+### 禁止性指令
+- 模板: `The use of <Item> is prohibited during <Process>; <Requirement> must be used.`
+- 例句: The use of filter tips is prohibited during DNB preparation and loading; recommended brand catalog numbers must be used.
+
+### 建议性指令
+- 模板: `For <Item>, it is recommended to use <Recommendation>.`
+- 例句: For other consumables, it is recommended to use the recommended brand catalog numbers.
+
+### 手册标题
+- 模板: `<Product Name> <Document Type>`
+- 例句: Stereo-seq Transcriptomics Set (Cassette version, H&E compatible) User Manual
+
+### 联系方式
+- 模板: `<Contact Type>: <Value>`
+- 例句: Tel: 4000-688-114
+
+### 条件说明
+- 模板: `If the <Document> has special requirements, then <Requirement> specified in the manual shall prevail.`
+- 例句: If the library construction kit manual has special requirements, then the fragment size requirements specified in the manual shall prevail.
+
+### 条件判断
+- 模板: `If <condition>, <result/requirement> shall prevail.`
+- 例句: If the library preparation kit manual has special requirements, the library requirements specified in the kit manual shall prevail.
+
+### 动作衔接
+- 模板: `<Verb> for <duration> to <purpose>, briefly <verb>, and <verb> <location> for later use.`
+- 例句: Vortex for 5 seconds to mix, briefly centrifuge, and place on ice for later use.
+
+### 禁止事项
+- 模板: `Do not <verb> <object> <location/condition>; do not <verb> <object> for <duration>.`
+- 例句: Do not place the DNB Polymerase Mix II at room temperature; do not hold the tube wall for an extended period.
+
+### 变量定义
+- 模板: `<Variable> represents the <definition> (<unit>).`
+- 例句: C1 represents the FFPE library concentration (ng/μL).
+
+### 限制条件
+- 模板: `If <condition>, it is not recommended for <action>, and <solution> needs to be <verb>.`
+- 例句: If it is lower than 5%, it is not recommended for sequencing, and the pooling scheme needs to be re-planned.
+
+### 表格引用
+- 模板: `The table below shows the <required item> for <context>:`
+- 例句: The table below shows the required dsDNA library volume for a 100 μL DNB preparation system:
+
+### 时间触发
+- 模板: `Once <condition>, immediately <verb> <object> using <tool>.`
+- 例句: Once the PCR instrument temperature reaches 4 °C, immediately add 20 μL of DNB termination buffer, using a wide-bore pipette tip.
+
+### 建议句式
+- 模板: `It is recommended to <action> to <purpose>.`
+- 例句: It is recommended to perform quantification in batches to avoid inaccurate DNB concentration quantification.
+
+### 步骤衔接
+- 模板: `After <action_completed>, <subsequent_action>.`
+- 例句: After DNB preparation is complete, take 2 μL of DNB.
+
+### 引用/导航
+- 模板: `For <action>, see "<guide_title>" on page <number>.`
+- 例句: For operation, see "DNB Quantitative Operation Guide" on page 45.
+
+### 禁止/限制
+- 模板: `Do not <action>.`
+- 例句: Any individual or organization shall not reprint, copy, modify, disseminate or publish this product manual in whole or in part without the written permission of MGI.
+
+### 保证/责任声明
+- 模板: `<Company> makes no warranties of any kind regarding <subject>, including, but not limited to, <type_of_warranty>.`
+- 例句: MGI makes no warranties of any kind regarding this product manual, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose.
+
+### 版本修订
+- 模板: `<Version_Number> <Date>: <Description>`
+- 例句: 4.0 June 16, 2025: Adapted for CITE V1.1-ADT library sequencing
+
+### 时间/温度处理
+- 模板: `<Method> thawing: Place in <environment> to thaw for <duration>.`
+- 例句: Room temperature thawing: Place in a room temperature water bath to thaw for 1.5 hours.
+
+### 操作流程标题
+- 模板: `<Number> <Gerund> <Noun>`
+- 例句: 8.2 Placing Samples
+
+### 规格描述
+- 模板: `<Volume/Size> × <Quantity> <Unit>`
+- 例句: 160 μL × 1 vial
+
+### 禁止性规定
+- 模板: `<Subject> must not be <Verb>.`
+- 例句: Reagent components from different batches must not be mixed.
+
+### 操作前要求
+- 模板: `Before <Action>, please <Imperative Verb>.`
+- 例句: Before the experiment, please familiarize yourself with and master the operating methods and precautions for all instruments.
+
+### 产品功能定义
+- 模板: `This product is <Noun Phrase> used for <Action/Purpose>.`
+- 例句: This product is a universal kit used for determining spatial library sequences.
+
+### 流程状态描述
+- 模板: `During <Process>, <Subject> automatically <Verb>.`
+- 例句: During sequencing, the control software automatically invokes the basecalling software for analysis.
+
+### 图表标题
+- 模板: `Table <Number> <Title/Description>`
+- 例句: Table 1 Example of sequencing cycles
+
+### 试剂组件量化表达
+- 模板: `<Component>, <Quantity> × <Unit>`
+- 例句: Inactivated MDA Reagent, 3.50 mL × 1 vial
+
+### 禁止操作指令
+- 模板: `Do not <Verb>, <Verb>, or <Verb> <AdverbialPhrase>.`
+- 例句: Do not centrifuge, vortex, or pipette vigorously.
+
+### 条件触发处理流程
+- 模板: `If <Condition>, <Verb> <AdverbialPhrase> until <Result>, then <Verb> before use.`
+- 例句: If crystals are observed in DNB Loading Buffer 6, vortex continuously and vigorously for 1-2 minutes until the precipitate is completely dissolved, then centrifuge briefly before use.
+
+### 文档引用与导航
+- 模板: `For <Subject>, see "<Section>" on page <Number>.`
+- 例句: For the preparation method of 0.1 M NaOH, see "Cleanup Preparation" on page 38.
+
+### 建议与推荐
+- 模板: `It is recommended to <Verb> <Object>.`
+- 例句: It is recommended to use the recommended brand catalog numbers.
+
+### 制备强制要求
+- 模板: `The <Object> must be <Verb> fresh before use.`
+- 例句: The DNB loading mixture must be prepared fresh before use.
+
+### 动作序列衔接
+- 模板: `<Verb> <Object> just before use, and <Verb> <Object>.`
+- 例句: Open the vacuum-sealed package of the flow cell just before use, and start DNB loading.
+
+### 表格标题指引
+- 模板: `Table <Number> <Title>`
+- 例句: Table 15 DNB loading system
+
+### 强约束条件声明
+- 模板: `<Object> must not be <Verb>; you must <Verb> the <Constraint>.`
+- 例句: For DNB preparation and loading, filter tips must not be used; you must use the recommended brand catalog numbers.
+
+### 操作指令步骤
+- 模板: `[Verb] [Object] from [Source] and add [Amount] [Item] to [Location]`
+- 例句: Peel off the sealing film from the sample loading reagent plate and add 4 mL of 0.1 M NaOH to well 11
+
+### 放置指令
+- 模板: `Place [Object] onto [Location]`
+- 例句: Place the prepared sample loading reagent plate onto the reagent plate tray of the MGIDL-T7RS
+
+### 条件执行指令
+- 模板: `If [Condition], you can [Action] according to the prompts.`
+- 例句: If it is not displayed, you can manually enter it according to the prompts.
+
+### 界面状态结果描述
+- 模板: `When the interface appears as shown below, it indicates that [Status/Result].`
+- 例句: When the interface appears as shown below, it indicates that slide loading is complete.
+
+### 负面操作警告
+- 模板: `Do not [Action] to avoid [Result].`
+- 例句: Do not press on the slide glass to avoid damaging the slide or leaving fingerprints and impurities on the slide surface.
+
+### 操作前置条件
+- 模板: `Before [Action], ensure [Condition].`
+- 例句: Before placing the slide, ensure that none of the four sealing gaskets on the slide platform are missing.
+
+### 界面点击交互
+- 模板: `Click [Button], and select [Option].`
+- 例句: Click [Start], and select [Yes].
+
+### 建议事项
+- 模板: `It is recommended to [Action] to [Purpose].`
+- 例句: It is recommended to store the loaded slide in a resealable bag to prevent the edges from drying out.
+
+### 试剂/耗材取出与准备
+- 模板: `Remove <reagent_name> from <source> and place it on ice to thaw/for use.`
+- 例句: Remove DNB Polymerase Mix I (OS-V4.0) from the spatiotemporal visualization reagent kit and place it on ice to thaw.
+
+### 基础操作步骤
+- 模板: `Mix by vortexing for <time> seconds, briefly centrifuge, and keep on ice for use.`
+- 例句: After thawing, mix by vortexing for 5 seconds, briefly centrifuge, and keep on ice for use.
+
+### 条件性建议
+- 模板: `If <condition>, <action>.`
+- 例句: If the library preparation kit manual has special requirements, the library requirements specified in the manual shall prevail.
+
+### 添加组分
+- 模板: `Add the following components on ice: <list_of_components>.`
+- 例句: After cooling the sample tube and centrifuging for 5 seconds in a mini-centrifuge, add the following components on ice:
+
+### PCR反应后处理
+- 模板: `Immediately place the sample on ice for <time> minutes after the program reaction is complete.`
+- 例句: Immediately place the sample on ice for 2 minutes after the program reaction is complete.
+
+### 混匀操作规范
+- 模板: `Mix using <tool_name> (without filter); do not <prohibited_action_1>, <prohibited_action_2>, or <prohibited_action_3>.`
+- 例句: DNB must be mixed using wide-bore pipette tips (without filter); do not centrifuge, vortex, or pipette vigorously.
+
+### 定量/检测指令
+- 模板: `After <action_completed>, take <volume> of <sample> and use <kit_name> to determine the concentration.`
+- 例句: After the DNB preparation is complete, take 2 μL of DNB and use the Qubit ssDNA Assay Kit and Qubit 4.0 Fluorometer to determine the concentration.
+
+### 存储建议
+- 模板: `The prepared <item> can be stored at <temperature> and used within <time_frame>.`
+- 例句: The prepared DNB can be stored at 4 °C and used within 48 hours.
+
+### 耗材状态检查
+- 模板: `Take out the <item> and check if it is intact.`
+- 例句: Take out the slide and check if it is intact.
+
+### Procedural Step (Imperative)
+- 模板: `<Action verb> the <object>, <action verb> it <location/duration> <condition/state>, then <final action>.`
+- 例句: Take out the DNB Loading Buffer II, place it on an ice box for approximately 30 minutes until thawed, then use a vortex mixer to oscillate.
+
+### Conditional Action
+- 模板: `If <condition>, <imperative action>.`
+- 例句: If crystals are found in DNB Loading Buffer II, use a vortex mixer to continuously oscillate vigorously for about 1~2 minutes.
+
+### Post-process Storage/Preparation
+- 模板: `After <event/process>, <imperative action> for later use.`
+- 例句: After complete thawing, store in a 2 °C-8 °C refrigerator for later use.
+
+### Prohibitions (Negative Imperative)
+- 模板: `Do not <verb>, <verb>, or <verb>.`
+- 例句: Do not centrifuge, vortex, or vigorously pipette.
+
+### Documentation Reference
+- 模板: `For <purpose>, please refer to <document/location>.`
+- 例句: For detailed DNB loading operations, please refer to the MGIDL-200H Portable Pipettor Quick Operation Guide.
+
+### Requirement (Strict)
+- 模板: `The <object> must be <verb (past participle)> <timing/condition>.`
+- 例句: The DNB loading mix must be prepared immediately before use.
+
+### Quantity Requirement
+- 模板: `Each <item> requires <quantity> of <substance>.`
+- 例句: Each flow cell (FCL) requires 266 μL of DNB loading mix 1.
+
+### Component Loading Instruction
+- 模板: `Add <substance> into <target location> according to <reference/volumes>.`
+- 例句: Use a pipette of the appropriate range to add dNTPs Mix II and DNA Polymerase Mix II according to the volumes in the table into well 10.
+
+### 引用/跳转
+- 模板: `For the <Topic>, refer to <Location>, "<SectionName>".`
+- 例句: For the preparation method, refer to page 38, "Cleaning Preparation".
+
+### 条件警告
+- 模板: `Check if the <Metric> is <Status>; insufficient <Metric> will lead to <Consequence>.`
+- 例句: Check if the water level in the pure water tank is sufficient; insufficient pure water will lead to sequencing failure.
+
+### 禁止操作
+- 模板: `Do not <ActionVerb1>, <ActionVerb2>, or <ActionVerb3>.`
+- 例句: Do not centrifuge, vortex, or pipette vigorously.
+
+### 确保符合要求
+- 模板: `Ensure that <Process> is <Status>, then <ActionVerb>.`
+- 例句: Ensure that sample loading is complete, then rotate the tip counter-clockwise to remove it.
+
+### 连续动作
+- 模板: `<ActionVerb1> the <Object1>, and finally <ActionVerb2> the <Object2>.`
+- 例句: Close the low-temperature compartment door and the room-temperature compartment door, and finally close the reagent compartment door.
+
+### 步骤动作指令
+- 模板: `Click the [<option_name>] to enter the <interface_name>.`
+- 例句: 1. Click the 【Sequencing】 option on the main interface to enter the following interface:
+
+### 前置处理条件
+- 模板: `Mix the <reagent_name> thoroughly by <method> for <duration_or_cycles> before <adding_or_loading>.`
+- 例句: Mix the dNTPs mixture thoroughly by vortexing for 5 seconds before adding, and briefly centrifuge before use.
+
+### 操作预防性建议
+- 模板: `When <action>, operate carefully to prevent <substance> from <negative_result>.`
+- 例句: When transferring the mixture, operate carefully to prevent the liquid from spilling out of the reagent tube.
+
+### 禁止性行为指令
+- 模板: `When using <reagent_name>, do not <action> to avoid <negative_consequence>.`
+- 例句: When using MDA Polymerase Mix II, do not touch the inner wall of the tube where the reagent is contained to avoid affecting enzyme activity.
+
+### 界面交互指令
+- 模板: `Click the <icon_description> icon next to [<element_name>] to <function_description>.`
+- 例句: Click the ⊕ icon next to [DNB ID] to display information for the 4 lanes.
+
+### 菜单选择指令
+- 模板: `Select the <option_name> from the [<menu_name>] drop-down menu.`
+- 例句: Select the spatial transcriptomics sequencing scheme from the [Sequencing Scheme] drop-down menu.
+
+### 条件判定与警告
+- 模板: `Please ensure the <input_field> is correct; otherwise, <error_message> will be prompted.`
+- 例句: Please ensure the manually entered ID format is correct; otherwise, an ID error will be prompted, and you will not be able to continue.
+
+### Figure/Table Reference
+- 模板: `<Label> <Number> <Title>`
+- 例句: Figure 30 Advanced Option Settings for DNBSEQ-T7RS
+
+### Procedural Step
+- 模板: `<Number>. After <Condition>, click [<Button>] and select [<Option>].`
+- 例句: 1. After confirming the information is correct, click [Start] and select [Yes].
+
+### Interface Display Instruction
+- 模板: `Click <Action> to display the interface shown below, which allows you to <Function>.`
+- 例句: 4. Click the expansion icon after 'Advanced Options' to display the interface shown below, which allows you to select whether to perform automatic cleaning.
+
+### External Reference
+- 模板: `Please refer to <DocumentName> for details.`
+- 例句: Please refer to the DNBSEQ-T7 sequencer software operation guide for details.
+
+### Conditional Status
+- 模板: `When the interface is as follows, <Process> <Status>.`
+- 例句: 2. When the interface is as follows, sequencing begins, at which point the on-instrument operations are complete.
+
+### Situational Choice
+- 模板: `Select <Action> in the following situations:`
+- 例句: Select manual cleaning in the following situations:
+
+### Post-Action Requirement
+- 模板: `After clicking <Button>, please <Action>.`
+- 例句: After clicking "Finish", please remove the slide and reagent tray.
+
+### 简单指令
+- 模板: `<verb> <object>`
+- 例句: Enter the program.
+
+### 条件执行
+- 模板: `When <condition> is <verb>ed, <subject> will <action>`
+- 例句: When "Yes" is selected for automatic cleaning, the DNBSEQ-T7RS will automatically perform a cleaning operation.
+
+### 维护周期
+- 模板: `<noun> should be <verb>ed <frequency>`
+- 例句: Cleaning slides should be replaced every month or after 10 uses.
+
+### 故障支持
+- 模板: `If <condition>, please contact technical support.`
+- 例句: If it still fails to meet requirements after re-preparation, please contact technical support.
+
+### 界面交互
+- 模板: `Click [<button>] on the interface, select [<option>] in the pop-up dialog box`
+- 例句: Click [Cleaning] on the interface, select [Yes] in the pop-up dialog box
+
+### 状态检查
+- 模板: `Check if <noun> is <condition>`
+- 例句: Check if the sealing ring is missing.
+
+### 强制要求
+- 模板: `<subject> must be <verb>ed <method>`
+- 例句: After each run, the instrument must be cleaned either automatically or manually.
+
+### 放置操作
+- 模板: `Place <noun> into <location>, and close <location>`
+- 例句: Place an empty T7 sequencing reagent cartridge into the refrigerated compartment on the side requiring a wash, and close the reagent compartment door.
+
+### 步骤忽略
+- 模板: `Skip this step if <condition>`
+- 例句: Skip this step if there is no slide on the MGIDL-T7RS.
+
+### 结果描述
+- 模板: `<action>, indicating that <noun> is <condition>`
+- 例句: press the slide suction button to show a green light, indicating that the slide is fully attached.
+
+### 条件步骤（若未完成）
+- 模板: `If there is still no improvement after <action>, <action>.`
+- 例句: If there is still no improvement after manual cleaning and maintenance, re-prepare the cleaning reagent according to...
+
+### 操作指令（简单执行）
+- 模板: `<verb> <object>.`
+- 例句: Remove the sequencing flow cell, check the seal for dust, and use a compressed air duster to blow away the dust.
+
+### 操作建议（带条件）
+- 模板: `Check if <object> is <state>; if not, <action>.`
+- 例句: Check if the reagent needle is moving normally; if not, restart the sequencer's control software.
+
+### 必要性约束
+- 模板: `<object> must be <verb>ed within <time> after <action>.`
+- 例句: The Qubit working solution must be used within 0.5 hours after preparation.
+
+### 流程衔接（顺序）
+- 模板: `Prepare <object> for <target> according to the table below:`
+- 例句: Prepare reagents for standard tubes and test sample tubes according to the table below:
+
+### 异常处理（兜底）
+- 模板: `If the <object> abnormality still cannot be resolved by the methods above, please contact technical support.`
+- 例句: If the pumping abnormality still cannot be resolved by the methods above, please contact technical support.
+
+### 多步骤操作（联动）
+- 模板: `<verb> <object> with one hand and <verb> <object> with the other.`
+- 例句: Hold the side of the reagent cartridge with one hand and support the bottom of the reagent box with the other.
+
+### 前置检查
+- 模板: `Check that <object> is within the normal range of <value1> to <value2> before proceeding.`
+- 例句: Check that the negative pressure is within the normal range of -80 to -99 kPa before proceeding.
+
+### 步骤执行指令
+- 模板: `Click [Button Name].`
+- 例句: 8. Click [Next].
+
+### 条件确认与后续操作
+- 模板: `After confirming that <condition> is correct, click [Button Name].`
+- 例句: 1. After confirming that all information is correct, click [Start].
+
+### 确保准确性建议
+- 模板: `Review all <item> to ensure it is accurate.`
+- 例句: Review all filled-in information to ensure it is accurate.
+
+### 目的状语说明
+- 模板: `To ensure <goal>, <subject> automatically performs <action>.`
+- 例句: To ensure sequencing quality, the sequencer automatically performs one additional cycle for calibration.
+
+### 交叉引用指令
+- 模板: `For details, please refer to the <Document Name>.`
+- 例句: For details, please refer to the MGISEQ-2000 & MGISEQ-2000RS Gene Sequencer Software Operation Guide.
+
+### 条件性操作建议
+- 模板: `When <condition>, the system will prompt: [<Prompt Message>].`
+- 例句: When using version control software for the first time or after an update, the system will prompt: [Perform maintenance cleanup?].
+
+### 准备指令
+- 模板: `Prepare <reagent> according to the table below:`
+- 例句: Prepare washing reagents according to the table below:
+
+### 保存期限与条件
+- 模板: `Valid for <duration> when stored at <temperature>.`
+- 例句: Valid for 1 month when stored at 2–8 °C
+
+### 包含/组成描述
+- 模板: `The <item>, mainly containing <component1>, <component2>, and <component3>.`
+- 例句: The data folder, mainly contains image data, as well as data generated during the instrument's operation (metrics files).
+
+### 命名方式描述
+- 模板: `A <item> named by <parameter>.`
+- 例句: The data folder, named by the slide ID, mainly contains image data.
+
+### 操作指令-点击
+- 模板: `Click [Button] on the [Interface], or click [Button] on the [Interface].`
+- 例句: Click [Clean] on the main interface, or click [Clean] on the sequencing completed interface.
+
+### 操作指令-放置
+- 模板: `Place [Object] into the [Location].`
+- 例句: Place the cleaning reagent tube 1 into the sample tube holder.
+
+### 操作指令-缓慢移动
+- 模板: `Following the direction indicated on the [Cover], slowly push/slide the prepared [Object] into the [Location].`
+- 例句: Following the direction indicated on the cleaning reagent trough cover, slowly push the prepared cleaning reagent trough 1 into the reagent compartment bottom.
+
+### 条件操作-弹窗响应
+- 模板: `If the following [Object] appears, select [Option], and [Result].`
+- 例句: If the following pop-up appears, select [Yes], and the instrument will automatically raise the needle.
+
+### 步骤衔接-参考
+- 模板: `For detailed steps, please refer to "[Title]" on page [Number].`
+- 例句: For detailed steps, please refer to "Placing the Slide" on page 24.
+
+### 问题排查
+- 模板: `When [Condition], please perform the following operations to troubleshoot the issue:`
+- 例句: When the DNB concentration is lower than 8 ng/μL, please perform the following operations to troubleshoot the issue:
+
+### 图表标注
+- 模板: `Figure [Number] [Description]`
+- 例句: Figure 32 Cleaning Guidance Interface
+
+### 操作要求-观察
+- 模板: `Carefully observe whether [Condition] during the [Process] process.`
+- 例句: Carefully observe whether any bubbles appear on the cleaning slide during the cleaning process.
+
+### 状态声明
+- 模板: `<Subject> Status: <Status>`
+- 例句: Status A: Paused 20.0℃-91.6ka
+
+### 条件指令
+- 模板: `If <condition>, please <action>.`
+- 例句: If the anomaly in negative pressure cannot be resolved using the methods above, please contact an engineer.
+
+### 依标准操作
+- 模板: `<Imperative Verb> <object> according to <reference>.`
+- 例句: Perform a maintenance wash on the sequencer according to "Full Maintenance Wash (approx. 94 minutes)" on page 33.
+
+### 礼貌提醒恢复
+- 模板: `<Subject> <action>, please <action> promptly.`
+- 例句: Side A sequencing paused, please resume promptly.
+
+### 状态要求
+- 模板: `There must be no <object> in <location>.`
+- 例句: There must be no air bubbles in the detection tube.
+
+### 顺序结果
+- 模板: `After <action>, <subject> will <action>.`
+- 例句: After resuming sequencing, the reagent needle will automatically descend.
+
+### 操作指令建议
+- 模板: `Please <action> to <purpose>.`
+- 例句: Please download the latest version of the instruction manual to use with the corresponding version of the kit.
+
+### 操作执行要求
+- 模板: `Please <action> <object> according to <conditions>.`
+- 例句: Please save the product according to the specified conditions as soon as possible.
+
+### 注意事项/警告
+- 模板: `Note: <action_or_condition>; <potential_consequence>.`
+- 例句: Note: Pay special attention; improper operation or negligence may lead to experiment failure.
+
+### 关键步骤强调
+- 模板: `Key Steps: Pay special attention to <target> to avoid <potential_consequence>.`
+- 例句: Key Steps: Pay special attention to these steps to avoid experimental failure or poor outcomes.
+
+### 法律责任免除
+- 模板: `Nothing herein is intended to or should be understood as <limitation_scope>.`
+- 例句: Nothing herein is intended to or should be understood as any warranty of the performance of any product listed or described herein.
+
+### 产品构成描述
+- 模板: `Each <item> consists of the following <number> components:`
+- 例句: Each reagent kit consists of the following four components:
+
+### 适用平台能力说明
+- 模板: `<product/process> can be <action> using <tool/platform>.`
+- 例句: Sequencing libraries constructed using this product can be sequenced using the DNBSEQ sequencing platform.
+
+### 储存条件规格
+- 模板: `Storage temperature: <temp_range>; <transport_type> <validity_label>.`
+- 例句: Storage temperature: -25℃ ~ -18℃; Cold chain transport shelf life: see label.
+
+### 指南索引引用
+- 模板: `For details, please refer to the <document_name>.`
+- 例句: For details, please refer to the Stereo-seq Chip Carrier Storage Operation Guide.
+
+### 设备/物料列表项
+- 模板: `<Brand> <Description> <Catalog Number>`
+- 例句: Invitrogen Qubit dsDNA HS Assay Kit Q32854
+
+### 试剂/组分列表项
+- 模板: `<Component Name> <Cat. No.> <Color> <Volume> × <Quantity>`
+- 例句: Blocking Reagent 1000044666 Transparent 60 µL × 1
+
+### 储存与运输要求
+- 模板: `Storage temperature: <Temperature>; Shelf life for <Transport Type> transport: See label.`
+- 例句: Storage temperature: −25°C to −18°C. Shelf life for cold chain transportation: See label.
+
+### 品牌/产品选择建议
+- 模板: `Choose one from <target> with the same <identifier>.`
+- 例句: Choose one from brands with the same superscript number.
+
+### 试剂功能说明
+- 模板: `<Reagent Name> is used to <action>, and can be <action> based on <criteria>.`
+- 例句: FcR Blocking Reagent is used to block Fc receptors on the cell membrane surface and can be purchased based on the species.
+
+### 外部资源指引
+- 模板: `For <topic>, please refer to <resource>: <URL>`
+- 例句: For the selection of isotype control antibodies, please refer to this website: https://www.biolegend.com/en-us/search-results?PageSize=25&Category=ISO_CTRL&Format=TOTALSEQ_A
+
+### 通用规格列表项
+- 模板: `<Item Name> <Specification>`
+- 例句: 50 mL centrifuge tube 430829
+
+### 推荐操作
+- 模板: `It is recommended to <action> <object>.`
+- 例句: It is recommended to use pipette tips with filters and to change tips when aspirating different samples.
+
+### 试剂配制
+- 模板: `Take <quantity> of <source> and dilute to <quantity> with <diluent>; keep at <temperature>.`
+- 例句: For 5X SSC, take 5 mL of 20X SSC and dilute to 20 mL with Nuclease-Free Water; keep at room temperature.
+
+### 禁止项
+- 模板: `Do not <action> <object>; <alternative_action> instead.`
+- 例句: Do not vortex the permeabilization enzyme; mix by pipetting instead.
+
+### 实验前准备
+- 模板: `Before <process>, please <action>.`
+- 例句: Before conducting experiments, please familiarize yourself with the precautions for the instruments to be used and master their operation methods.
+
+### 储存要求
+- 模板: `<item> must be <condition> / should be stored at <temperature>.`
+- 例句: Resealed chips must not be stored for more than two weeks.
+
+### 通用试剂说明
+- 模板: `Unless otherwise specified, <material> should be used for all <purpose>.`
+- 例句: Unless otherwise specified, Nuclease-Free Water should be used for all liquids intended for reagent dilution in this experiment.
+
+### 用量说明
+- 模板: `Use <quantity> <unit> per chip and <status_instruction>.`
+- 例句: Remove sheared salmon sperm DNA from -20°C and thaw; use 30 μL per chip and keep on ice.
+
+### 操作指令：取出与准备
+- 模板: `Take <object> out of the <source> and <action> to <purpose>.`
+- 例句: Take the OCT-embedded tissue block out of the -80°C freezer and place it in the cryostat to equilibrate for 30 min;
+
+### 操作指令：移液与吸弃
+- 模板: `Use a pipette to aspirate and discard the <liquid> from one corner of the chip, ensuring the tissue on the chip remains <state>.`
+- 例句: use a pipette to aspirate and discard the Wash Buffer from one corner of the chip, keeping the chip tissue moist;
+
+### 操作指令：溶液添加
+- 模板: `Add <volume> of <solution> to the chip and incubate at <condition> for <time>.`
+- 例句: Add Wash Buffer to the chip at a volume of 200 μL/chip and incubate at room temperature for 1 min;
+
+### 条件句：若/如果
+- 模板: `If <condition>, <consequence>.`
+- 例句: If the specimen head temperature is too low, it may cause cracks in the sections;
+
+### 警示/禁止
+- 模板: `Strictly avoid <action> during <process> to prevent <risk>.`
+- 例句: Strictly avoid tissue drying during the liquid exchange process, as tissue drying can easily generate non-specific signals.
+
+### 建议/参考
+- 模板: `Refer to <table_or_section> to prepare <reagent_name>, vortex to mix, and centrifuge briefly before use.`
+- 例句: refer to 2.5. Blocking and Antibody Incubation to prepare the primary antibody incubation solution, vortex to mix, and centrifuge briefly for use.
+
+### 操作细则：倾斜角度
+- 模板: `Slightly tilt the handheld carrier at an angle of less than <angle>°.`
+- 例句: Slightly tilt the handheld carrier at an angle of less than 20°,
+
+### 操作确认
+- 模板: `If the chip surface is free of <impurities_list>, it is ready for <next_step>.`
+- 例句: If the chip surface is free of impurities, obvious marks, residual liquid, and ripple patterns, it is ready for application;
+
+### 步骤循环指令
+- 模板: `Repeat <action> steps <range> <frequency>.`
+- 例句: Repeat washing steps c.-d. once;
+
+### 温育条件指令
+- 模板: `<verb> at <temperature> for <duration>.`
+- 例句: incubate at room temperature for 2 min;
+
+### 文档引用指令
+- 模板: `Refer to <section/table/document> to <action>.`
+- 例句: Refer to Table 2-5 in section 2.6 DAPI Staining to prepare the DAPI working solution;
+
+### 条件保障指令
+- 模板: `Ensure <subject> <condition/constraint>; <consequence>.`
+- 例句: Ensure the chip does not dry out during the liquid exchange process; if the tissue dries, it is prone to producing non-specific signals.
+
+### 滴加操作指令
+- 模板: `Add <volume> of <reagent> dropwise to <location>.`
+- 例句: Add 150 μL/chip of DAPI working solution dropwise from the non-tissue area, and incubate at room temperature for 2 min;
+
+### 前置条件说明
+- 模板: `Before <action>, <verb> <reagent> at <condition>.`
+- 例句: Before use, incubate the Decrosslinking Reagent in a metal bath or other equivalent equipment at 70°C for 10 min (do not exceed 30 min);
+
+### 孵育指令
+- 模板: `Incubate <substance> at <temperature> for <time>.`
+- 例句: Incubate the permeabilization working solution in a metal bath at 37°C for 10 min.
+
+### 倾斜吸弃操作
+- 模板: `Slightly tilt the <carrier> at an angle of less than <angle>. Use a pipette to aspirate and discard the <reagent>.`
+- 例句: Slightly tilt the handheld carrier at an angle of less than 20°. Use a pipette to aspirate and discard the Wash Buffer.
+
+### PCR仪设置
+- 模板: `Set the <instrument> temperature to <temperature> and the lid temperature to <lid_temperature>.`
+- 例句: Set the PCR instrument temperature to 37°C and the lid temperature to 42°C.
+
+### 密封载具
+- 模板: `Seal the <carrier> with a <sealing_material>.`
+- 例句: Seal the handheld carrier with a new sealing film.
+
+### 接触避免警告
+- 模板: `Avoid contact between <object_A> and <object_B>.`
+- 例句: Avoid contact between the carrier and the front surface of the chip.
+
+### 试剂加入指令
+- 模板: `Add <reagent> at a volume of <volume> per <unit>.`
+- 例句: Add PR Rinse Buffer solution (containing 5% RI) at a volume of 200 μL per chip.
+
+### 操作禁令
+- 模板: `Do not remove the <object> from <instrument> until <condition>.`
+- 例句: After permeabilization is complete, do not remove the Handheld Carrier from the PCR instrument (37°C).
+
+### 移液器操作警告
+- 模板: `When <action>, do not touch the <object> to prevent <consequence>.`
+- 例句: When aspirating the supernatant after elution, do not touch the magnetic beads.
+
+### 条件操作指令
+- 模板: `If <condition>, add <reagent> and <action> to <purpose>.`
+- 例句: If the tissue is not completely removed, add 400 μL of 0.1X SSC and pipette gently to remove the tissue.
+
+### 保持状态操作
+- 模板: `Keep the <container> on the <device>, <verb> <amount> of <substance>...`
+- 例句: Keep the centrifuge tube on the magnetic stand, add 1 mL of 80% ethanol...
+
+### 步骤重复
+- 模板: `Repeat step <number> once;`
+- 例句: Repeat step 4) once;
+
+### 按指引操作
+- 模板: `<verb> according to <table_name> in <section_name>;`
+- 例句: Prepare cDNA PCR Mix following Table 2-9 in section 2.15. Transcriptome cDNA Amplification,
+
+### 样本补充
+- 模板: `If the recovered sample above is less than <volume>, bring the volume to <volume> with <reagent>.`
+- 例句: If the recovered sample above is less than 42 μL, bring the volume to 42 μL with Nuclease-Free Water.
+
+### 混合与静置
+- 模板: `<verb> to mix, incubate at room temperature for <time>, pulse centrifuge, place on a magnetic rack for <time> until the liquid clears;`
+- 例句: vortex to mix, let stand at room temperature for 5 min, pulse centrifuge, magnetic rack静置 3-5 min，直至液体变澄清；
+
+### 液体转移
+- 模板: `Transfer the supernatant (<volume>) to a new <container>;`
+- 例句: Transfer the supernatant (~21 μL cDNA) to a new 0.2 mL PCR tube;
+
+### 条件限制
+- 模板: `Air-dry at room temperature for <time>, until the surface of the magnetic beads is <condition>;`
+- 例句: air-dry at room temperature for 5-8 min, until the surface of the magnetic beads is non-reflective and uncracked;
+
+### 警告/注意事项
+- 模板: `The pipette tip should be operated against the tube wall away from the magnetic stand; do not <verb> or <verb> the magnetic beads;`
+- 例句: The pipette tip should be operated against the tube wall away from the magnetic stand; do not pipette up and down or disturb the magnetic beads;
+
+### 保存条件
+- 模板: `The <substance> can be stored at <temperature> for <duration>.`
+- 例句: The purified cDNA product can be stored at −20°C for 1 month.
+
+### PCR 程序标注
+- 模板: `<temperature> for <time>`
+- 例句: 98°C for 20 s
+
+### 表格标题模板
+- 模板: `Table [X] Preparation of [Object]`
+- 例句: Table 2-14 Preparation of Qubit dsDNA Mix
+
+### 描述性说明模板
+- 模板: `The [Subject] is typically [comparison] [Value].`
+- 例句: The DNA concentration is typically higher than 5 ng/μL.
+
+### 基础操作指令模板
+- 模板: `[Imperative verb] [Object] [Prepositional phrase].`
+- 例句: Transfer the ADT amplification PCR product (100 μL) to a new 1.5 mL microcentrifuge tube.
+
+### 时间/条件衔接指令模板
+- 模板: `After [Action], [Imperative verb] [Object] [Prepositional phrase] [Duration].`
+- 例句: After a brief centrifugation, place the PCR tube on a magnetic stand and let it stand for 5 min.
+
+### 重复步骤指令模板
+- 模板: `Repeat step [Number] [Frequency].`
+- 例句: Repeat step 3) once;
+
+### 储存条件模板
+- 模板: `[Subject] can be stored at [Condition] for [Duration].`
+- 例句: ADT amplification products can be stored at −20°C for 1 month.
+
+### 操作手册引用模板
+- 模板: `For [Topic] regarding [Subject], please refer to [Document Title].`
+- 例句: For specific procedures regarding subsequent library construction, please refer to the "Stereo-seq Library Preparation".
+
+### 产品用途限制模板
+- 模板: `This product is for [Purpose] only, not for [Prohibited Purpose].`
+- 例句: This product is for research use only, not for diagnostic use.
+
+### Requirement
+- 模板: `The <process/action> must be performed in/with <requirement>`
+- 例句: The entire operation must be performed in a clean environment to prevent environmental impurities from contaminating materials or chips.
+
+### Conditional Instruction
+- 模板: `If <condition>, <action/consequence>`
+- 例句: If any defects are found, please contact after-sales service for replacement.
+
+### Reference
+- 模板: `For further information on <topic>, please refer to <source>`
+- 例句: For further information on the Catalog No. of accessory kit products and their specific components, please refer to Table 1-1 and Table 1-2.
+
+### Purpose Definition
+- 模板: `<Action> to <prevent/achieve goal>`
+- 例句: Avoid contact with the chip surface throughout the process to prevent damage to the probes.
+
+### Polite Instruction
+- 模板: `Please <action>`
+- 例句: Please download the latest version of the user manual and use it with the corresponding version of the reagent kit.
+
+### 流程条件句
+- 模板: `During the <process_name>, the <object> must be <adverb_phrase>.`
+- 例句: During the incubation process, the carrier must be placed stably; do not bump or shake the carrier.
+
+### 必要条件引导
+- 模板: `If <condition> is required, <action>.`
+- 例句: If it is necessary to disassemble the carrier, do so after reagent removal to prevent reagent splashing.
+
+### 建议采购与操作
+- 模板: `It is recommended to purchase <item_name> [Cat. No.: <number>] and use <item_name> to <action>.`
+- 例句: It is recommended to purchase the Stereo-seq V3 Cassette Disassembly Tool [Cat. No.: 303TA30011] and use the disassembly auxiliary tool to operate.
+
+### 预防性提示
+- 模板: `<Action_taken> to prevent <negative_outcome>.`
+- 例句: Ensure reaction reagents do not splash to avoid contamination or reagent loss.
+
+### 步骤指导
+- 模板: `Use a <tool> to <action> <object>, <clause>.`
+- 例句: Use a pipette to aspirate as much reagent as possible from the carrier's reaction well, avoiding contact between the pipette tip and the chip.
+
+### 状态确认
+- 模板: `Ensure <object> is <status_description>.`
+- 例句: After replacement, ensure a new gasket is free of deformation and fits tightly.
+
+### 注意事项
+- 模板: `Note: <instruction>.`
+- 例句: Note: Please download the latest version of the manual and use it with the corresponding version of the kit.
+
+### 提示与警示
+- 模板: `<Type>: <Description>.`
+- 例句: Tip: Additional operation tips and guidance.
+
+### 关键步骤警示
+- 模板: `Critical steps: Pay special attention to these steps to avoid <risk>.`
+- 例句: Critical steps: Pay special attention to these steps to avoid experimental failure or undesirable results.
+
+### 产品组成描述
+- 模板: `Each <product> consists of the following <number> parts:`
+- 例句: Each reagent kit consists of the following two parts:
+
+### 引用参考资料
+- 模板: `For further information regarding <topic>, please refer to <Table/Document>.`
+- 例句: For further information regarding product catalog numbers, reagent components, etc., please refer to Table 1-1 and Table 1-2.
+
+### 步骤前置引用
+- 模板: `After <action>, please refer to the "<Document Name>" to <task>.`
+- 例句: After receiving the Stereo-seq chip, please refer to the "Stereo-seq Custom Chip Storage Guidelines" to store the product.
+
+### 条件触发建议
+- 模板: `If <condition>, you may <suggested action>.`
+- 例句: If any temperature abnormality is detected in the cold chain box, you may request the logistics provider to print the temperature real-time monitoring record sheet.
+
+### 流程推荐操作
+- 模板: `It is recommended to <action> before use, <action> and keep on ice.`
+- 例句: It is recommended to take out the reagent components in advance before use, briefly centrifuge the enzyme components and keep on ice.
+
+### 防止负面结果建议
+- 模板: `To avoid <negative outcome>, the use of <item> is recommended; please <instruction>.`
+- 例句: To avoid sample cross-contamination, the use of filter tips is recommended; please change the tip when aspirating different samples.
+
+### Prohibition/Safety Warning
+- 模板: `Avoid <action> of <subject> with <object>; do not <action> <object>.`
+- 例句: Avoid direct contact of skin and eyes with samples and reagents; do not ingest samples or reagents.
+
+### Obligation/Compliance
+- 模板: `<subject> shall be <action> in accordance with <regulations/standards>.`
+- 例句: All samples and various types of waste shall be disposed of in accordance with relevant regulations.
+
+### Applicability
+- 模板: `This <method> is suitable for <target_type> with <conditions>.`
+- 例句: This embedding method is suitable for tissues with dimensions < 2 cm × 3 cm × 0.7 cm.
+
+### Strict Requirement
+- 模板: `Under <conditions>, strictly ensure that <subject> undergoes <action> within <time_limit>.`
+- 例句: Under laboratory conditions, strictly ensure that fresh samples undergo direct embedding within 30 minutes of excision,
+
+### Limitation
+- 模板: `The <subject> should not exceed <measurement_limit>.`
+- 例句: The tissue size should not exceed 0.9 cm × 1.8 cm × 0.7 cm
+
+### Strong Recommendation
+- 模板: `It is strongly recommended to only <action> <subject> with <condition> for <purpose>.`
+- 例句: It is strongly recommended to only use tissue samples with RIN ≥ 7 for subsequent experimental procedures.
+
+### Instructional Step
+- 模板: `Prepare <item> in advance and <action> to pre-cool for <time>.`
+- 例句: Prepare a foam box of crushed ice in advance and place the OCT on the ice to pre-cool for 10 min;
+
+### Default Condition
+- 模板: `Unless otherwise specified, <material> is used for <purpose>.`
+- 例句: Unless otherwise specified, Nuclease Free Water is used for all liquids in this experiment to dilute reagents.
+
+### Conditional Step
+- 模板: `Check if <condition>; if not, <action>.`
+- 例句: Check if the bottom of the embedding block is completely covered; if not completely covered, place the tissue block on a metal block
+
+### 浓度/pH稀释调整
+- 模板: `Dilute <reagent> to <concentration> according to the <method>, with pH accurate to <value> (ensure pH value is in the range of <range>).`
+- 例句: Dilute to 0.01 N according to the HCl concentration gradient, with pH accurate to 2 (ensure pH value is in the range of 1.9-2.1).
+
+### 试剂储存液稀释
+- 模板: `Dilute <amount> of <reagent_stock> to <final_amount> with <diluent> (at least <amount>/chip).`
+- 例句: Dilute 25 μL of 10X permeabilization reagent stock solution to 250 μL with 0.01N HCl (at least 200 μL/chip).
+
+### 预防性操作/环境准备
+- 模板: `Place <item> into the <container> in advance to pre-cool.`
+- 例句: Place brushes, blades, forceps, etc., into the chamber in advance to pre-cool.
+
+### 孵育操作
+- 模板: `Incubate the <reagent> in a <temperature> constant temperature incubator for <time> before use.`
+- 例句: Incubate the permeabilization working solution in a 37°C constant temperature incubator for 10 min before use.
+
+### 结果确认
+- 模板: `After the <substance> has evaporated completely, the <sample> will be visibly <state> to the naked eye; transfer the <object> to <location>.`
+- 例句: After the methanol has evaporated completely, the tissue will be visibly white to the naked eye; transfer the chip to the experimental table.
+
+### 试剂添加频率控制
+- 模板: `Sequentially add the <reagent> at regular intervals (e.g., <time>).`
+- 例句: Sequentially add the permeabilization reagent at regular intervals (e.g., 6 min).
+
+### 试剂用量
+- 模板: `<ReagentName> volume: <Volume>/chip`
+- 例句: 1X Permeabilization working solution volume: 200 μL/chip
+
+### 操作步骤（直接指令）
+- 模板: `<ImperativeVerb> <Object> <Optional: Location/Method>`
+- 例句: Slightly tilt the chip, and use a pipette to aspirate the solution from the upper surface of the chip from one corner
+
+### 操作步骤（依据表格）
+- 模板: `<ImperativeVerb> <Object> according to Table <Number>`
+- 例句: Prepare the Total RNA hybridization Mix according to Table 3-4;
+
+### 操作步骤（基于条件）
+- 模板: `Based on <Condition>, <ImperativeVerb> <Object>`
+- 例句: Based on the chip size, add the corresponding volume of Total RNA hybridization Mix from Table 3-4 onto the chip surface
+
+### 条件建议/提醒
+- 模板: `If <Condition>, <Action/Suggestion>`
+- 例句: If white precipitate is observed in the buffer, it can be dissolved at 55°C and then returned to room temperature.
+
+### 禁忌/警告
+- 模板: `The <Subject> should not be <Adjective>, so as to avoid <NegativeOutcome>`
+- 例句: The pre-cooling time should not be too long, so as to avoid water mist forming on the chip surface
+
+### 目的状语
+- 模板: `<Action> <Object> to avoid <NegativeOutcome>`
+- 例句: Immediately add the RT QC Mix to prevent RNA degradation.
+
+### 祈使句-操作指令
+- 模板: `<verb> <object> (optionally: <prepositional_phrase>)`
+- 例句: Add 1-2 μL of water to the stage.
+
+### 步骤衔接-序列操作
+- 模板: `First, <action_1>, then <action_2> to <purpose>.`
+- 例句: First, use the 4x objective lens to locate the target area, then switch to the 10x objective lens to scan the entire chip.
+
+### 条件状语-环境设定
+- 模板: `Under the condition that <condition_clause>, <main_clause>.`
+- 例句: Under the condition that the tissue has been removed cleanly and while maintaining identical imaging conditions, <main_clause>.
+
+### 判断标准-定义
+- 模板: `<criteria_list> are the criteria for determining the <target>.`
+- 例句: Intact morphology, strongest fluorescence, and absence of diffusion are the criteria for determining the optimal permeabilization time.
+
+### 结果描述-图表引用
+- 模板: `As shown in Figure <number>, at <condition>, the <subject> exhibits <result>.`
+- 例句: As shown in Figure 2, at a permeabilization time of 6 min, the tissue exhibits uneven brightness.
+
+### 禁止事项-强制性
+- 模板: `<subject> should only <action>; the use of <forbidden_items> is prohibited.`
+- 例句: Folder names should only use letters, numbers, and underscores; the use of special characters such as spaces is prohibited.
+
+### 强制性要求-必须
+- 模板: `<subject> must be <action_passive> under <condition>.`
+- 例句: Chips of the same tissue with different permeabilization times must be scanned under the same exposure conditions.
+
+### 产品说明-限制声明
+- 模板: `This product is for <usage_type> only, not for <prohibited_use>.`
+- 例句: This product is for research use only, not for diagnostic use.
+
+### 提示信息-建议
+- 模板: `Note: Please <action> for use with <target_item>.`
+- 例句: Note: Please download the latest version of the instruction manual for use with the corresponding version of the kit.
+
+### 勘误/更新说明
+- 模板: `<action_past_tense> the <item_details>.`
+- 例句: Corrected the catalog numbers for some components of the Stereo-seq Library Preparation Kit.
+
+### 参考查阅句式
+- 模板: `For further information regarding <item1>, <item2>, etc., please refer to <Table/Section ID>.`
+- 例句: For further information regarding product catalog numbers, reagent components, etc., please refer to Table 1-1 to Table 1-2.
+
+### 操作建议句式
+- 模板: `Please <action> the product according to the specified conditions as soon as possible.`
+- 例句: Please store the product according to the specified conditions as soon as possible.
+
+### 条件触发句式
+- 模板: `If <condition> is detected, you may <action>.`
+- 例句: If an abnormal temperature in the cold chain box is detected, you may request the logistics provider to print the real-time temperature monitoring record.
+
+### 组件功能描述句式
+- 模板: `The <Kit Name> can be used to <action1> and <action2>.`
+- 例句: The STOmics Stereo-seq Library Construction Kit can be used to construct whole-transcriptome 3'-end libraries from spatial-temporal cDNA amplification products.
+
+### 试剂盒配套说明句式
+- 模板: `<Kit Name> can also be paired with <Compatible Kit Name> for use.`
+- 例句: STOmics Stereo-seq library preparation kits can also be paired with Stereo-seq 16 Barcode Amplification Kit use.
+
+### 规格说明句式
+- 模板: `<Quantity>/<Unit> × <Count> <Unit>`
+- 例句: 40 μL/vial × 1 vial
+
+### 自备物料说明句式
+- 模板: `This list details the equipment and materials required for this experiment. <Table ID> does not include standard laboratory equipment, such as <list of equipment>.`
+- 例句: This list details the equipment and materials required for this experiment. Table 1-3 does not include standard laboratory equipment, such as ice machines, biological safety cabinets, pH meters, refrigerators, etc.
+
+### 免责与用途声明句式
+- 模板: `This product is intended for research use only and is not for use in clinical diagnostic procedures.`
+- 例句: This product is intended for research use only and is not for use in clinical diagnostic procedures.
+
+### 流程灵活性说明句式
+- 模板: `The experimental protocols provided in this manual are general guidelines; in actual operation, they may be adapted according to <factor>.`
+- 例句: The experimental protocols provided in this manual are general guidelines; in actual operation, they may be adapted according to specific experimental design, sample characteristics, sequencing applications, and equipment.
+
+### 预处理操作指令句式
+- 模板: `Before use, it is recommended to <action1>, <action2>, and <action3>.`
+- 例句: Before use, it is recommended to remove the reagent components in advance, briefly centrifuge the enzyme components and place them on ice for later use.
+
+### 建议/推荐动作
+- 模板: `It is recommended to <verb> <object>.`
+- 例句: It is recommended to preheat the PCR instrument to the reaction temperature.
+
+### 避免/禁止事项
+- 模板: `Avoid <doing_something>.`
+- 例句: Avoid direct contact of samples and reagents with skin and eyes.
+
+### 步骤衔接（混合与处理）
+- 模板: `Vortex to mix, centrifuge briefly, then <verb> <object>.`
+- 例句: Vortex to mix, centrifuge briefly, then place in the PCR instrument and perform amplification according to the reaction program.
+
+### 试剂操作（前提条件）
+- 模板: `Unless otherwise specified, <reagent> is used for all <action> in this experiment.`
+- 例句: Unless otherwise specified, Nuclease-Free Water is used for all liquids for reagent dilution in this experiment.
+
+### 离心与收集
+- 模板: `Centrifuge briefly to collect the reaction mixture at the bottom of the tube.`
+- 例句: After the reaction is complete, remove the reaction tube(s) and centrifuge briefly to collect the reaction mixture at the bottom of the tube.
+
+### 准备工作
+- 模板: `Prepare the <object> according to Table <number>.`
+- 例句: Prepare the fragmentation Mix according to Table 2-1.
+
+### 磁珠漂洗
+- 模板: `Keep the tube on the magnetic rack, add <volume> of <reagent>, and rotate the tube to wash the magnetic beads.`
+- 例句: Keep the centrifuge tube on the magnetic rack, add 200 μL of freshly prepared 80% ethanol, and by rotating the centrifuge tube on the magnetic rack to wash the magnetic beads.
+
+### 条件限定
+- 模板: `If <condition>, you may <verb> <object>.`
+- 例句: If the number of libraries mixed for a single sequencing run is 1-4, you may select the PCR Barcode Primer Mix provided with this kit.
+
+### 结果记录
+- 模板: `Measure the concentration using the <method/kit> and record it.`
+- 例句: Take 1 μL of PCR product, measure the concentration using the Qubit dsDNA HS Kit, and record it.
+
+### 平衡试剂
+- 模板: `Remove <reagent> in advance and equilibrate to room temperature.`
+- 例句: Remove magnetic beads in advance and equilibrate to room temperature.
+
+### 步骤保持与添加
+- 模板: `Keep the <Tube> on the <Equipment>, and add <Volume> of <Reagent> to <Action>.`
+- 例句: Keep the tube on the magnetic stand and add 400 μL of 80% ethanol to wash.
+
+### 条件建议
+- 模板: `If <Condition>, <Action/Recommendation>.`
+- 例句: If 1-4 libraries are mixed for a single sequencing run, the PCR Barcode Primer Mix can be selected.
+
+### 文档引用
+- 模板: `Please refer to the <Manual_Name> to <Action>.`
+- 例句: Please refer to the manual for the 'High-throughput Sequencing Primer Kit (Stereo-seq)' to prepare DNBs.
+
+### 常规标准描述
+- 模板: `The <Metric> is usually <Comparison/Requirement>.`
+- 例句: The concentration is usually greater than 10 ng/μL.
+
+### 重复步骤
+- 模板: `Repeat step <Step_Identifier> once.`
+- 例句: Repeat step c once.
+
+### 混合操作
+- 模板: `Mix the <Object_A> with <Object_B> in a <Ratio> ratio, <Mixing_Action>.`
+- 例句: Mix the PCR product with magnetic beads equilibrated to room temperature in a 1:2 ratio, mix by vortexing.
+
+### QC要求
+- 模板: `QC requires <Object> to be <State/Requirement>.`
+- 例句: QC requires fragments to be distributed around 200-250 bp.
+
+### 操作前准备（离心）
+- 模板: `Before using <product>, centrifuge it to collect the liquid at the bottom of the tube.`
+- 例句: Before using the PCR Barcode Primer Mix, centrifuge it to collect the liquid at the bottom of the tube.
+
+### 条件限定说明
+- 模板: `If <condition>, <consequence>.`
+- 例句: If different libraries use the same barcode combination, they cannot be sequenced in the same lane.
+
+### 参考说明
+- 模板: `For <condition>, refer to <location>.`
+- 例句: For different numbers of samples, refer to the recommended Barcode combination schemes in Appendix Table 2.
+
+### 强制性操作要求
+- 模板: `Ensure that <action>.`
+- 例句: Ensure that libraries requiring more than 20% of the data in a single lane use a set of PCR Barcode Primer Mixes.
+
+### 分步操作指引
+- 模板: `Perform in two steps: 1. <step1>. 2. <step2>.`
+- 例句: Perform in two steps: 1. Divide libraries 1-8 into one group... 2. Remaining libraries...
+
+### 产品核查及后续处理
+- 模板: `Please promptly verify that <item> is <status>, and then immediately <action>.`
+- 例句: Please promptly verify that the aluminum bag is intact and vacuum-sealed, and then immediately store the unopened Stereo-seq chip.
+
+### 操作示例引导
+- 模板: `Examples of <action>:`
+- 例句: Examples of mixing different PCR Barcode Primer Mixes:
+
+### 操作避让指引
+- 模板: `Refer to <location> when selecting a combination (avoid <range>).`
+- 例句: Refer to 3 libraries/lane when selecting a combination (avoid 1~4).
+
+### 产品用途限定
+- 模板: `This product is for <usage> only and not for <negative_usage> purposes.`
+- 例句: This product is for research use only and not for diagnostic purposes.
+
+### 权利声明
+- 模板: `<year> <organization>. All rights reserved.`
+- 例句: 2023 BGI Research. All rights reserved.
+
+### 免责声明
+- 模板: `<Organization> makes no guarantee, and hereby disclaims any guarantee regarding <action>.`
+- 例句: BGI Research makes no any guarantee, and hereby disclaims any guarantee regarding the use of any third-party products or protocols mentioned herein.
+
+### 操作提示
+- 模板: `Note: Please <verb> the <object> for use with the <object_version>.`
+- 例句: Note: Please download the latest version of the instruction manual for use with the corresponding version of the kit.
+
+### 操作注意事项
+- 模板: `Note: Pay special attention; <cause> may lead to <result>.`
+- 例句: Note: Pay special attention; improper operation or negligence may lead to experimental failure.
+
+### 组成部分描述
+- 模板: `Each reagent set consists of the following <number> parts:`
+- 例句: Each reagent set consists of the following three parts:
+
+### 操作参考指令
+- 模板: `After receiving the <object>, please refer to the "<document_name>" to <action>.`
+- 例句: After receiving the Stereo-seq chip carrier, please refer to the "Stereo-seq Chip Carrier Storage Operation Guide" to store the product correctly.
+
+### 额外订购说明
+- 模板: `<item> (Must be ordered separately)`
+- 例句: Stereo-seq PCR adapter (must be ordered separately)
+
+### 品牌选择建议
+- 模板: `Select one from the listed brands (marked with <symbol>).`
+- 例句: Select one from the listed brands (marked with *).
+
+### 规格标签标注
+- 模板: `<attribute_name>: <value>; <attribute_name_2>: see label`
+- 例句: Storage temperature: -25°C to 8°C; Shelf life for cold chain transport: see label
+
+### 步骤动作描述
+- 模板: `Take out the <item_1> and <item_2> from the <package_name>;`
+- 例句: a. Take out the fixture and gasket from the Stereo-seq Slide Accessory Kit;
+
+### 状态校验指令
+- 模板: `<action>, ensuring the <part_1> and <part_2> are <status>.`
+- 例句: b. With the fixture upside down, insert the gasket into the fixture, ensuring the hole cutouts of the fixture and the gasket are aligned.
+
+### 紧急储存处理
+- 模板: `Upon receipt, must immediately store <subject> at <temperature>.`
+- 例句: Upon receipt, must immediately store the unopened Stereo-seq P/T chips at -20°C or 4°C.
+
+### 容器组成描述
+- 模板: `The <container> contains <quantity> <item_1>, and each of the <quantity> <item_1> has <item_2> attached to it.`
+- 例句: The chip box contains 4 carriers, and each of the 4 chip carriers has one Stereo-seq chip T (1cm*1cm) attached to it.
+
+### 品牌偏好建议
+- 模板: `For <component>, <brand_1> is preferred, while <brand_2> is a domestic alternative.`
+- 例句: For hematoxylin, Brand 1 is preferred, while Brand 2 is a domestic alternative.
+
+### 目的建议
+- 模板: `To <achieve_goal>, it is recommended to <action>.`
+- 例句: To avoid cross-contamination of samples, it is recommended to use pipette tips with filters and change tips when aspirating different samples.
+
+### 禁止警告
+- 模板: `Avoid <action> and <action>; do not <prohibited_action>.`
+- 例句: Avoid direct contact of samples and reagents with skin and eyes; do not swallow samples or reagents.
+
+### 交叉引用
+- 模板: `Refer to <figure_name/document_name>.`
+- 例句: Refer to Figure 1. RNA RIN value peak plot of mouse brain tissue sections.
+
+### 步骤顺序
+- 模板: `<time_condition>, <action_1>, and <action_2>.`
+- 例句: After freezing for 5 minutes, remove the metal embedding cassette B and check if the OCT has completely solidified and turned white and opaque.
+
+### 用量限制
+- 模板: `<Item_name>: <amount> per <unit>; <condition>.`
+- 例句: H&E Mounting Medium: 3.5 μL per chip at room temperature.
+
+### 条件句（建议/警告）
+- 模板: `If <condition>, <consequence/action>.`
+- 例句: If the specimen head temperature is too low, it will cause cracks in the sections.
+
+### 用量/频次表达
+- 模板: `<action> with <volume> <reagent> <frequency>.`
+- 例句: Wash 3 times with 100 μL of Wash Buffer.
+
+### 禁止/防错表达
+- 模板: `Do not <action>.`
+- 例句: Do not touch the chip surface.
+
+### 确保要求
+- 模板: `Ensure <condition>.`
+- 例句: Ensure that the methanol is immersed over all chips.
+
+### 建议动作
+- 模板: `It is recommended to <action>.`
+- 例句: It is recommended to complete section mounting within 5 minutes.
+
+### 调整依据
+- 模板: `<action> according to <basis>.`
+- 例句: Adjust according to the actual operational process.
+
+### 顺序执行步骤
+- 模板: `First, <action_1>, then <action_2>.`
+- 例句: First, add one drop of staining solution to each corner, then add the rest to the center.
+
+### Imperative Action
+- 模板: `<verb> <object> [preposition] <location/context>`
+- 例句: Slowly add 100 μL of 0.01N HCl solution dropwise onto the chip, then aspirate the liquid from one corner of the chip.
+
+### Sequential Step
+- 模板: `After the <process> is complete, <action>.`
+- 例句: After the incubation is complete, fix the support onto the carrier to assemble into a handheld carrier, ensuring the 8 buckles of the clamp are fastened and both sides of the support are closely attached to the clamp.
+
+### Conditional Trigger
+- 模板: `Once <action> has <status>, <action>.`
+- 例句: Once the H&E Mounting Medium has fully infiltrated the chip, immediately proceed with imaging (if re-imaging is required, it is recommended that the total time from mounting to imaging for each chip does not exceed 30 min).
+
+### Verification Requirement
+- 模板: `Ensure <object> is <condition>.`
+- 例句: Ensure the chip is completely submerged in the solution.
+
+### Precautionary Constraint
+- 模板: `Avoid <action> [when/to avoid] <consequence>.`
+- 例句: Avoid touching the front side of the chip when assembling the carrier.
+
+### 操作指令 - 混合
+- 模板: `Mix <object1> with <object2> at a <ratio> ratio, <verb_method>, and <verb_action>.`
+- 例句: Mix the PCR product (100 μL) with magnetic beads equilibrated to room temperature at a 1:1 ratio, shake to mix, and incubate at room temperature for 10 min.
+
+### 操作指令 - 离心/静置
+- 模板: `Briefly centrifuge, then <verb_action1> and <verb_action2>.`
+- 例句: Briefly centrifuge, then place the centrifuge tube on a magnetic stand and let it stand for 3 min.
+
+### 操作指令 - 清除上清
+- 模板: `After the liquid clears, carefully remove the supernatant with <tool>.`
+- 例句: After the liquid clears, carefully remove the supernatant with a pipette (if there is foam on the tube lid, aspirate the foam).
+
+### 操作指令 - 漂洗
+- 模板: `Keep the centrifuge tube on the magnetic stand and add <volume> of <reagent>.`
+- 例句: While keeping the centrifuge tube on the magnetic stand, add 1 mL of 80% ethanol (use freshly prepared 80% ethanol equilibrated to room temperature).
+
+### 操作指令 - 风干
+- 模板: `Air-dry at room temperature for <time> until <state>.`
+- 例句: Keep the centrifuge tube on the magnetic rack and air-dry at room temperature for 5-8 minutes until the surface of the beads is free of reflection and cracking.
+
+### 操作指令 - 回溶
+- 模板: `Add <volume> of <reagent> to resuspend, <verb_method>, and <verb_action>.`
+- 例句: Add 22 μL of Nuclease-Free Water to resuspend, vortex to mix, incubate at room temperature for 5 minutes, spin down briefly, and let stand on the magnetic stand for 3-5 min.
+
+### 条件句 - 若...
+- 模板: `If <condition>, <action>.`
+- 例句: If white precipitate is observed in the cDNA recovery solution, it can be dissolved at 55°C and purified after returning to room temperature.
+
+### 禁止/警示
+- 模板: `Avoid <action> to prevent <consequence>.`
+- 例句: When opening or closing the tube cap while on the 1.5 mL magnetic stand, avoid vigorous movements that could cause the magnetic beads or liquid to pop out.
+
+### 指引/参考
+- 模板: `For detailed procedures regarding <subject>, please refer to the "<document_title>".`
+- 例句: For detailed procedures regarding subsequent library construction, please refer to the "Stereo-seq Library Preparation Kit Instruction Manual".
+
+### Change Notification
+- 模板: `The <parameter> for the <process> has been changed from <value> to <value>.`
+- 例句: The incubation time for the permeabilization working solution has been changed from 3 min to 10 min.
+
+### Conditional Guidance
+- 模板: `If <condition>, the <process> may be extended up to <time>.`
+- 例句: If tissue removal is incomplete, the removal time may be extended up to 16 h.
+
+### Operational Warning
+- 模板: `Note: Pay special attention; <consequence>.`
+- 例句: Note: Pay special attention; improper operation or negligence may cause the experiment to fail.
+
+### Critical Risk Warning
+- 模板: `Critical Steps: Pay special attention to these steps to avoid <risk> or <result>.`
+- 例句: Critical Steps: Pay special attention to these steps to avoid experimental failure or undesirable outcomes.
+
+### Component Specification
+- 模板: `<Component> volume <action> to <value>.`
+- 例句: PR Rinse Buffer solution (containing 5% RI) volume standardized to 200 μL.
+
+### Procedure Update
+- 模板: `<Procedure> updated.`
+- 例句: Fluorescence imaging procedure updated.
+
+### Structural Heading
+- 模板: `Chapter <number> <Title>`
+- 例句: Chapter 1 Product Introduction
+
+### Introductory Clause
+- 模板: `Each reagent kit consists of the following <number> parts:`
+- 例句: Each reagent kit consists of the following three parts:
+
+### 物品选配/替代建议
+- 模板: `Select <number> from the listed brands (marked with <symbol>).`
+- 例句: Select one from the listed brands (marked with * / marked with †).
+
+### 包含关系说明
+- 模板: `The <object> contains <component>.`
+- 例句: The Stereo-seq carrier accessory kit contains fixtures for the chip carriers and detachable gaskets.
+
+### 禁止/约束
+- 模板: `<object> must not be <action> for more than <duration>.`
+- 例句: Resealed chips must not be stored for more than two weeks.
+
+### 有效期描述
+- 模板: `Shelf life for <condition>: see label.`
+- 例句: Shelf life for transport at room temperature: see label.
+
+### 流程说明（步骤列表）
+- 模板: `<imperative_verb> <object> <direction>.`
+- 例句: Remove the clamp and gasket from the Stereo-seq Chip Accessory Kit.
+
+### 检查确认
+- 模板: `Inspect the <object> to ensure they are <condition>.`
+- 例句: Finally, inspect the assembled fixture and chip carrier to ensure they are correctly positioned.
+
+### 操作对准
+- 模板: `Align the <object> with the <object>.`
+- 例句: Align the chip with the gasket hole to avoid contact between the fixture and gasket with the chip surface;
+
+### 试剂处理建议
+- 模板: `It is recommended to <action> the <reagent_components> in advance.`
+- 例句: It is recommended to take out the reagent components in advance.
+
+### 安全警示
+- 模板: `Avoid direct contact of <substances> with <parts_of_body>.`
+- 例句: Avoid direct contact of samples and reagents with skin and eyes.
+
+### 废弃物处理要求
+- 模板: `<objects> should be disposed of in accordance with <regulations>.`
+- 例句: All samples and various types of waste should be disposed of in accordance with relevant regulations.
+
+### 离心操作
+- 模板: `Briefly centrifuge the <object> and keep it on ice for use.`
+- 例句: Briefly centrifuge the enzyme components and keep them on ice for use.
+
+### 试剂稀释
+- 模板: `Take <volume> of <reagent> and dilute to <volume>.`
+- 例句: Take 5 mL of 20X SSC and dilute to 20 mL.
+
+### 预处理建议
+- 模板: `It is recommended to pre-cool the <object> to <temperature> in advance.`
+- 例句: Pre-cool the cryostat chamber to −20°C in advance.
+
+### 分装储存建议
+- 模板: `Unused <object> can be aliquoted and stored at <temperature> to avoid <process>.`
+- 例句: Unused RT Oligo can be aliquoted and stored at −80℃ to avoid repeated freeze-thaw cycles.
+
+### 祈使句式（操作指令）
+- 模板: `<verb> <object> (<prepositional_phrase>)`
+- 例句: Mount the tissue block onto the specimen holder using OCT;
+
+### 步骤衔接句式
+- 模板: `<action_1>, then <action_2>`
+- 例句: Remove the carrier from the slide box or 50 mL centrifuge tube, and use lint-free paper to blot away excess methanol;
+
+### 条件约束句式
+- 模板: `If <condition>, <action>; if <condition>, <action>`
+- 例句: If the specimen chuck temperature is too low, it will cause cracks in the sections; if the temperature is too high, it will cause wrinkles.
+
+### 量化表达句式
+- 模板: `<action> <substance> at a volume of <amount>/<unit>`
+- 例句: Add the tissue fluorescent staining solution to the chip at a volume of 100 μL/chip.
+
+### 禁止操作句式
+- 模板: `Do not <verb> <object>`
+- 例句: Do not touch the chip surface.
+
+### 目的/结果描述句式
+- 模板: `<action> to <purpose/result>`
+- 例句: Trim the tissue block as necessary to ensure the tissue section properly fits the chip.
+
+### 状态确保句式
+- 模板: `Ensure <that_clause>`
+- 例句: Ensure that the methanol is enough to submerge all chips.
+
+### 建议/推荐句式
+- 模板: `It is recommended to <action>`
+- 例句: It is recommended to complete the tissue section mounting within 5 min.
+
+### 重复步骤指引
+- 模板: `Repeat steps <step_range> until <result>`
+- 例句: Repeat steps 2)-3) until all tissue sections are adsorbed onto the chip surface.
+
+### 时间限制句式
+- 模板: `<action>, <time_restriction>`
+- 例句: Incubate at 37°C for 5 min.
+
+### 命令句/操作步骤
+- 模板: `<verb> <object> (<details>).`
+- 例句: Add 150 μL/chip of 1X permeabilization reagent working solution from a corner of the reaction well.
+
+### 条件确保句
+- 模板: `Ensure <condition>.`
+- 例句: Ensure the chip is completely covered by the 1X permeabilization reagent working solution.
+
+### 引用参考句
+- 模板: `Refer to <step_or_table> to <action>.`
+- 例句: Refer to step 1.6 to assemble the gasket and clamp into a carrier.
+
+### 温度/时间条件句
+- 模板: `Incubate at <temperature> for <time>.`
+- 例句: Incubate at 37°C for 10 min.
+
+### 禁止/警告句
+- 模板: `Avoid <action_or_state>.`
+- 例句: Avoid allowing the chip to dry out completely.
+
+### 状态平衡句
+- 模板: `<substance> equilibrated to <state>.`
+- 例句: magnetic beads equilibrated to room temperature.
+
+### 步骤衔接句
+- 模板: `After <process> is complete, <action>.`
+- 例句: After permeabilization is complete, remove the handheld carrier from the PCR instrument.
+
+### 用量描述句
+- 模板: `<action> <volume>/<unit> of <substance>.`
+- 例句: Add 200 μL/chip of RT Mix to one corner of the chip.
+
+### 试剂添加与处理
+- 模板: `Add <quantity> of <reagent> to <action>`
+- 例句: Add 22 μL of Nuclease-Free Water to resuspend
+
+### 样本转移
+- 模板: `Transfer the <substance> to a <destination>`
+- 例句: Transfer the supernatant (~21 μL cDNA) to a new 0.2 mL PCR tube;
+
+### 孵育条件
+- 模板: `Incubate at <temperature> for <duration>`
+- 例句: Incubate at room temperature for 5 min
+
+### 依据指引操作
+- 模板: `Prepare <substance> according to <reference>`
+- 例句: Prepare PCR Mix according to Table 3-4
+
+### 条件补足
+- 模板: `If <condition>, top it up with <reagent>`
+- 例句: If the recovered sample volume mentioned above is less than 42 μL, top it up with Nuclease-Free Water.
+
+### 操作禁忌
+- 模板: `Do not <action> or <action> the <object>`
+- 例句: do not pipette up and down or agitate the magnetic beads
+
+### 操作规范提示
+- 模板: `<component> should be operated <location>`
+- 例句: Pipette tips should be operated on the tube wall away from the magnetic rack
+
+### 操作建议
+- 模板: `For <purpose>, we recommend <action>`
+- 例句: For subsequent troubleshooting, we recommend keeping 2 µL of PCR product.
+
+### 外部引用指针
+- 模板: `For <topic>, please refer to <reference>`
+- 例句: For specific procedures regarding subsequent library construction, please refer to the "Stereo-seq Library Preparation Kit User Manual".
+
+### 表格/图示标题
+- 模板: `<identifier> <title>`
+- 例句: Table 3-5 PCR Amplification Program
+
+### 步骤命名/标题句式
+- 模板: `<number>. <noun phrase>`
+- 例句: 3.2. Section Preparation
+
+### 条件建议/指导句式
+- 模板: `If <condition>, it is recommended to <action>.`
+- 例句: If the transfer time is long, it is recommended to use a temperature-controlled container for transport.
+
+### 指令执行句式
+- 模板: `Please <action> according to <reference>.`
+- 例句: After receiving the Stereo-seq chip carrier, please refer to the "Stereo-seq Chip Carrier Storage Operation Guide" to store the product correctly.
+
+### 特殊标注句式（提示/注意/警告）
+- 模板: `<Type>: <description/instructions>.`
+- 例句: Critical steps: Pay special attention to these steps to avoid experiment failure or poor results.
+
+### 兼容性说明句式
+- 模板: `<product> (or an instrument with equivalent functionality)`
+- 例句: Qubit™ 3.0 Fluorometer Q33216 (or an instrument with equivalent functionality)
+
+### 选择性指令句式
+- 模板: `Select one of the listed brands (marked with *).`
+- 例句: Select one of the listed brands (marked with *).
+
+### 结果确认句式
+- 模板: `All components will maintain full activity throughout their shelf life when <conditions> are met.`
+- 例句: When transportation, storage, and usage conditions are met, all components will maintain full activity throughout their validity period.
+
+### 必要条件句式
+- 模板: `(Must be ordered separately)`
+- 例句: (Must be ordered separately) Stereo-seq PCR adapter *1 (2 EA)
+
+### 功能说明句式
+- 模板: `<Product> is used for <action>.`
+- 例句: The STOmics® Stereo-seq Transcriptomic Reagent Kit (Carrier-based) is used for constructing whole-transcriptome 3' end libraries.
+
+### 文库使用说明句式
+- 模板: `Sequencing libraries constructed using this product can be sequenced using the <platform> platform.`
+- 例句: Sequencing libraries constructed using this product can be sequenced using the DNBSEQ sequencing platform.
+
+### 目的导向建议
+- 模板: `To <purpose>, it is recommended to <action>.`
+- 例句: To avoid sample cross-contamination, it is recommended to use pipette tips with filters.
+
+### 动作指令
+- 模板: `<Condition/Time>, please <action>.`
+- 例句: Before the experiment, please familiarize yourself with the precautions for the instruments.
+
+### 条件要求
+- 模板: `If <condition>, <subject> must be <action>.`
+- 例句: If unused after opening, it must be re-dried, sealed, and stored at -20°C or 4°C.
+
+### 参考链接
+- 模板: `<Content> reference link: <URL>`
+- 例句: Assembly method video reference link: https://www.stomics.tech/col113/607
+
+### 强烈建议
+- 模板: `It is strongly recommended to <action>.`
+- 例句: It is strongly recommended to only proceed with subsequent experiments using tissue samples with an RIN ≥7.
+
+### 操作必须
+- 模板: `<Object> must be <action> to <purpose>.`
+- 例句: Desiccant must be placed in the resealed aluminum bag to maintain dry conditions.
+
+### 用途说明
+- 模板: `This product is for <use> only.`
+- 例句: This product is for research use only.
+
+### 选项选择
+- 模板: `Select any one from <scope>.`
+- 例句: Select any one from the listed brands (marked with * / marked with †).
+
+### 方位指令
+- 模板: `Align/Orient the <object> towards <direction>.`
+- 例句: Align the chip carrier label towards the direction of the fixture's long side clips.
+
+### 时间约束指令
+- 模板: `Within <time_duration> of <action>, <imperative_verb> <object>...`
+- 例句: Within 30 minutes of fresh tissue excision, wipe dry the liquid on the tissue surface with sterile non-woven fabric
+
+### 试剂配制流程
+- 模板: `<imperative_verb> <amount> of <reagent> and <action> to <volume>...`
+- 例句: Take 5 mL of 20X SSC and dilute to 20 mL
+
+### 注意事项/禁止指令
+- 模板: `Do not <action>, <imperative_verb> <alternative_action>...`
+- 例句: Do not vortex the permeabilization enzyme; mix by pipetting.
+
+### 设备参数设定
+- 模板: `<temperature> for <process> (lid <temperature>)...`
+- 例句: 37°C for slide baking and permeabilization (lid 42°C)
+
+### 过程确认/检查
+- 模板: `Check <object> for <status/condition>, and <alternative_action> if necessary.`
+- 例句: Check the PCR instrument for abnormalities, and replace if necessary.
+
+### 前置条件声明
+- 模板: `Unless otherwise specified, <reagent> is used for <action> in this experiment.`
+- 例句: Unless otherwise specified, Nuclease-Free Water is used for diluting reagents in this experiment.
+
+### 时间提醒/警告
+- 模板: `The <duration_type> must not be <adjective> to avoid <consequence>; it must not be <adjective>, otherwise <consequence>.`
+- 例句: The pre-cooling time must not be too long to avoid water mist forming on the slide surface; it must not be too short, otherwise the slide cannot reach the pre-cooling temperature.
+
+### 操作指令 - 添加试剂
+- 模板: `Add <amount> of <reagent_name> onto the chip.`
+- 例句: Add 30 μL of tissue fluorescence staining solution onto the chip per chip.
+
+### 操作指令 - 吸取/移出液体
+- 模板: `Use a pipette to aspirate <reagent_name> from one corner of the chip.`
+- 例句: use a pipette to aspirate the tissue fluorescent staining solution from one corner of the chip
+
+### 操作指令 - 孵育
+- 模板: `Incubate at <temperature> for <time>.`
+- 例句: incubate at 37℃ for 5 min.
+
+### 条件句 - 步骤衔接
+- 模板: `After <process_completed>, <next_action>.`
+- 例句: After track modeling points are completed, set the gain to the minimum.
+
+### 建议 - 确保条件
+- 模板: `Ensure that <condition>.`
+- 例句: Ensure that there is no residual staining solution on the chip.
+
+### 禁止 - 预防性警告
+- 模板: `Avoid <undesired_action>.`
+- 例句: Avoid touching the front of the chip when assembling the carrier.
+
+### 操作指令 - 预处理
+- 模板: `Equilibrate <reagent_name> at <temperature> for <time> in advance.`
+- 例句: Equilibrate Glycerol at room temperature for 5 minutes in advance.
+
+### 步骤衔接 - 重复操作
+- 模板: `Repeat steps <step_range> until <condition>.`
+- 例句: Repeat steps 2)-3) until all tissue sections are attached to the chip surface.
+
+### 成像策略 - 设置
+- 模板: `Set the <parameter> to the <setting_value>.`
+- 例句: set the gain to the minimum, determine the final imaging parameters after imaging starts.
+
+### 注意事项 - 避免过曝
+- 模板: `Try to avoid overexposure by <method>.`
+- 例句: try to avoid overexposure. This can be assessed using image pixel statistics (e.g., histogram).
+
+### 按表格准备试剂
+- 模板: `Prepare <reagent_name> according to <table_reference>.`
+- 例句: a. Prepare the cDNA Release Mix according to Table 3-3 and keep it at room temperature.
+
+### 加入指定体积试剂
+- 模板: `Add <volume> of <reagent_name>.`
+- 例句: b. Add the cDNA Release Mix (volume: 400 μL/chip).
+
+### 按照指定程序反应
+- 模板: `Incubate for <time> at <temperature> in <device_name>.`
+- 例句: d. Add TR Buffer (400 μL / chip), then place it on the PCR adapter of the PCR instrument (55℃) and incubate for 10 min;
+
+### 移除上清/弃去液体
+- 模板: `Aspirate and discard the <solution_name> from <location>.`
+- 例句: c. Slightly tilt the handheld carrier and use a pipette to aspirate and discard the RT Mix from the chip surface from one corner.
+
+### 离心与静置
+- 模板: `Briefly centrifuge, then place on a magnetic stand for <time>.`
+- 例句: 2) After brief centrifugation, place the centrifuge tube on a magnetic stand and let it stand for 3 min;
+
+### 磁珠清洗
+- 模板: `Add <volume> of 80% ethanol and wash the magnetic beads by rotating the tube.`
+- 例句: 4) While keeping the centrifuge tube on the magnetic stand, add 1 mL of 80% ethanol (use freshly prepared 80% ethanol equilibrated to room temperature), rotate the centrifuge tube on the magnetic stand...
+
+### 空气干燥磁珠
+- 模板: `Air-dry at room temperature for <time> until <condition>.`
+- 例句: 6) Keep the centrifuge tube on the magnetic stand and air-dry at room temperature for 5-8 min, until the surface of the magnetic beads is non-reflective and crack-free;
+
+### 回溶与收集
+- 模板: `Add <volume> of <buffer_name> to resuspend, then transfer the supernatant to <new_container>.`
+- 例句: 7) Add 22 μL of Nuclease-Free Water to resuspend, vortex to mix, incubate at room temperature for 5 min, centrifuge briefly, magnetic stand stand for 3-5 min, until the liquid becomes clear;
+
+### 提前准备事项
+- 模板: `For this step, <action> in advance.`
+- 例句: For this reaction step, refer to Table 3-3 to prepare the cDNA Release Mix in advance.
+
+### 实验操作指令 (Imperative Procedure)
+- 模板: `Take <Quantity> of the <Sample>, measure the <Metric> using the <Method/Tool>, and <Action>.`
+- 例句: Take 1 µL of the cDNA sample, measure the concentration using the Qubit dsDNA HS Kit, and record the result.
+
+### 条件存储说明 (Passive Storage Instruction)
+- 模板: `The <Product> can be stored at <Temperature> for <Duration>.`
+- 例句: The purified cDNA product can be stored at −20°C for 1 month.
+
+### 性能要求描述 (Requirement Specification)
+- 模板: `The <Feature> of the <Object> is required to be <Condition/Value> (as shown in <Reference>).`
+- 例句: The main peak of the fragment distribution is required to be at 1000–1500 bp (as shown in Figure 2).
+
+### 文档引用指引 (Referential Instruction)
+- 模板: `For <Specifics> of <Process>, please refer to the "<Document Title>".`
+- 例句: For specific procedures for subsequent library construction, please refer to the "Stereo-seq Library Preparation Kit User Manual".
+
+### 用途声明/限制 (Disclaimer)
+- 模板: `This <Product/Service> is for <Purpose> only, not for <Prohibited Purpose>.`
+- 例句: This product is for research use only, not for diagnostic use.
+
+### 知识产权/禁止条款 (Prohibition)
+- 模板: `Without the written consent of <Organization>, no one shall <Verb1>, <Verb2>, or <Verb3> without authorization.`
+- 例句: Without the written consent of this unit, no one shall use, modify, reproduce, or disclose them without authorization.
+
+### 提示信息 (Tip/Prompt)
+- 模板: `Tip: Please <Action1> and <Action2> with the <Corresponding Item>.`
+- 例句: Tip: Please download the latest version of the manual and use it with the corresponding version of the kit.
+
+### 关键步骤/警示 (Criticality/Warning)
+- 模板: `<Category>: Pay special attention to <Target>, as <Risk Reason>.`
+- 例句: Critical Step: Pay special attention to these steps to avoid experimental failure or undesirable outcomes.
+
+### 信息汇总引用 (Cross-reference)
+- 模板: `For further information regarding <Topic>, see <Reference>.`
+- 例句: For further information regarding product catalog numbers, reagent components, etc., see Table 1-1 to Table 1-5.
+
+### Catalog Number Statement
+- 模板: `<Product Name> Cat. No.: <Number>`
+- 例句: Stereo-seq Chip P Carrier (1 cm * 1 cm) Cat. No.: 200CP118
+
+### Storage Condition Statement
+- 模板: `Storage temperature: <Temperature_Range>`
+- 例句: Storage temperature: -25°C to 8°C
+
+### Validity Period Statement
+- 模板: `<Condition> validity period: See label.`
+- 例句: Cold chain transport validity period: See label.
+
+### Recommendation Instruction
+- 模板: `It is recommended to <Action>.`
+- 例句: It is recommended to preheat the PCR thermal cycler to the reaction temperature.
+
+### General Directive
+- 模板: `Please <Action>.`
+- 例句: Please read this manual before use.
+
+### Selection Instruction
+- 模板: `Select <Item> from the listed <Category> (marked with *).`
+- 例句: Select any one from the listed brands (marked with *).
+
+### Default Condition Specification
+- 模板: `Unless otherwise specified, <Substance/Method> is used for <Process>.`
+- 例句: Unless otherwise specified, Nuclease-Free Water is used for all liquids intended for reagent dilution in this experiment.
+
+### Safety Warning
+- 模板: `Avoid direct contact of <Substance> with <Body_Part>; do not <Prohibited_Action>.`
+- 例句: Avoid direct contact of samples and reagents with skin and eyes; do not swallow samples or reagents.
+
+### Disposal Instruction
+- 模板: `All <Material> should be disposed of in accordance with relevant regulations.`
+- 例句: All samples and various wastes should be disposed of in accordance with relevant regulations.
+
+### 分步操作描述
+- 模板: `Remove <item> from <source>, <action1> and <action2>, then <action3> and store at <temperature>.`
+- 例句: Remove 4% PFA from -20°C, thaw and mix well, then aliquot into 2 mL per tube and store at -20°C.
+
+### 添加与混合操作
+- 模板: `Add <amount> of <reagent> to <volume> of <buffer> (minimum volume per chip is <amount>); <action>.`
+- 例句: For Wash Buffer: take 105 μL of RI and add to 1995 μL of 0.1X SSC (minimum volume per chip is 2100 μL); keep on ice for
+
+### 负面约束指令
+- 模板: `Do not <action1>; <action2>.`
+- 例句: Do not vortex the permeabilization enzyme; mix by pipetting.
+
+### 实验预防说明
+- 模板: `Avoid <action> during <process> to <prevent_consequence>.`
+- 例句: Avoid tissue drying during the liquid changing process, and avoid touching the tissue and chip with the pipette or pipette tip.
+
+### 仪器设置参数
+- 模板: `Set <instrument> to <value> for <procedure> (lid temperature <value>).`
+- 例句: Set in sequence: 37°C for slide baking and permeabilization (lid temperature 42°C)
+
+### 即时操作与孵育
+- 模板: `Immediately add <reagent> at <dosage>, and incubate at <temperature> for <duration>.`
+- 例句: Immediately add Wash Buffer at 400 μL/chip and incubate at room temperature for 1 min;
+
+### 添加试剂
+- 模板: `Add <volume> of <substance> per <container>;`
+- 例句: Add 150 μL of mock secondary antibody incubation solution per chip;
+
+### 操作姿态（倾斜）
+- 模板: `Slightly tilt the <object> at an angle of <condition>, and use a pipette to <action>;`
+- 例句: Slightly tilt the handheld carrier at an angle of less than 20°, and use a pipette to aspirate the Wash Buffer;
+
+### 实验前准备指令
+- 模板: `According to [<reference>], <action> in advance;`
+- 例句: According to [Pre-experiment preparation], thaw the RT QC Reagent, RT Additive, and RT QC Enzyme in advance;
+
+### 设备参数设置
+- 模板: `Set the <instrument> <parameter> to <value> in advance;`
+- 例句: Set the PCR instrument temperature to 70°C and the heated lid temperature to 75°C in advance;
+
+### 期间衔接操作
+- 模板: `During <event>, <action>;`
+- 例句: During the incubation period of the primary antibody, prepare the mock secondary antibody incubation solution;
+
+### 试剂使用限量
+- 模板: `Preheat only the amount of <reagent> needed for use; do not <action>;`
+- 例句: Preheat only the amount of Decrosslinking Reagent needed for use; do not repeatedly preheat.
+
+### 后续操作衔接
+- 模板: `After <event> is complete, <action>;`
+- 例句: After the cooling is complete, slightly tilt the handheld carrier;
+
+### 移液冲洗
+- 模板: `Gently pipette <substance> up and down <number> times, then aspirate and discard the <substance>;`
+- 例句: Gently pipette the 0.1X SSC solution up and down around the chip approximately 5 times, then aspirate and discard the 0.1X SSC solution;
+
+### 按指南制备
+- 模板: `Prepare <substance> according to <reference>;`
+- 例句: Prepare the Total RNA Hybridization Mix according to Appendix Table 1;
+
+### 禁止行为
+- 模板: `<action_subject> are prohibited.`
+- 例句: Folder names should only contain letters, numbers, and underscores; special characters such as spaces are prohibited.
+
+### 参考执行
+- 模板: `Refer to <reference> to <action>;`
+- 例句: Refer to Chapter 3 of the "Stereo-seq Chip Carrier and Accessories Instruction Manual" to disassemble the handheld carrier,
+
+### 操作指令模板
+- 模板: `Please <verb> the <object> and use it with the <description>.`
+- 例句: Note: Please download the latest version of the manual and use it with the corresponding version of the kit.
+
+### 更名说明模板
+- 模板: `<Item> has been renamed to <NewName>.`
+- 例句: 0.1X SSC (containing 5% RI) has been renamed to Wash Buffer
+
+### 参数变更模板
+- 模板: `<Parameter> changed from <val1> to <val2>.`
+- 例句: Methanol pre-cooling time changed from 10-30 min to 5-30 min
+
+### 条件性操作建议模板
+- 模板: `If <condition> is <state>, the <parameter> can be extended, not exceeding <limit>.`
+- 例句: If tissue removal is incomplete, the removal time can be extended, not exceeding 16 hr
+
+### 文档引用与参考模板
+- 模板: `For further information regarding <topic>, please refer to <source>.`
+- 例句: For further information regarding product catalog numbers, reagent components, etc., please refer to Table 1-1 to Table 1-4.
+
+### 产品接收后指引模板
+- 模板: `After receiving the <object>, please refer to the <guideline> to store the product.`
+- 例句: After receiving the Stereo-seq chip carrier, please refer to the "Stereo-seq Chip Carrier Storage Guidelines" to store the product.
+
+### 存储条件标识模板
+- 模板: `Storage temperature: <temperature>.`
+- 例句: Storage temperature: −25℃~ −18℃
+
+### 产品组成介绍模板
+- 模板: `Each reagent kit consists of the following three parts:`
+- 例句: Each reagent kit consists of the following three parts:
+
+### 关键风险提示模板
+- 模板: `Note: Pay close attention; improper handling or negligence may result in experimental failure.`
+- 例句: Note: Pay close attention; improper handling or negligence may result in experimental failure.
+
+### 实验暂停点说明模板
+- 模板: `Stopping point: You may pause the experiment here and store the samples.`
+- 例句: Stopping point: You may pause the experiment here and store the samples.
+
+### 步骤描述（祈使句）
+- 模板: `<verb> <object> <preposition phrase>`
+- 例句: Remove the fixture and gasket from the Stereo-seq carrier accessory kit;
+
+### 条件性操作指令
+- 模板: `Ensure <object> <status/position>, <preposition> <object> <state>`
+- 例句: ensuring that the hole cutouts of the fixture and gasket are aligned.
+
+### 预防性/警示性指令
+- 模板: `Avoid <action> <object>, <verb> <negative condition>`
+- 例句: avoiding contact between the fixture or gasket and the chip surface;
+
+### 建议/推荐用语
+- 模板: `It is recommended to <verb> <object> <time/frequency>`
+- 例句: It is recommended to preheat the PCR thermal cycler to the reaction temperature.
+
+### 禁令/严禁事项
+- 模板: `<subject> must not be <verb> <condition>`
+- 例句: Resealed chips must not be stored for more than two weeks.
+
+### 区分/识别方法
+- 模板: `<subject> can be distinguished by <method>`
+- 例句: The Stereo-seq chip P carrier and the Stereo-seq chip T carrier can be distinguished by the tags photolithographed on them.
+
+### 必要条件限制
+- 模板: `<subject> should not exceed <measurement/value>`
+- 例句: The tissue dimensions should not exceed 0.9 cm × 0.9 cm × 2 cm
+
+### 参考引用句式
+- 模板: `Refer to <figure/section>.`
+- 例句: Refer to Figure 1. Electropherogram of RNA RIN value in mouse brain tissue sections.
+
+### 存储要求说明
+- 模板: `<subject> must be stored at <temperature>`
+- 例句: unopened Stereo-seq chip P/T carriers must be stored at −20℃ or 4℃.
+
+### 祈使句操作步骤
+- 模板: `<verb> <object> (optionally: <prepositional_phrase>)`
+- 例句: Place the pre-cooled metal embedding cassette B (acting as a lid) with its opening facing upward.
+
+### 条件触发动作
+- 模板: `If <condition>, <verb> <object>.`
+- 例句: If the tissue block is completely solidified and has turned white and opaque, gently pry the sides of the metal embedding cassette A.
+
+### 后续动作衔接
+- 模板: `After <action>/<duration>, <verb> <object>.`
+- 例句: After freezing for 5 minutes, remove the metal embedding mold B.
+
+### 试剂配制/步骤说明
+- 模板: `Prepare <target> by <verb_ing> <substance>.`
+- 例句: Prepare Wash Buffer by adding 5 μL of RI to 95 μL of 0.1X SSC.
+
+### 参数设定/推荐
+- 模板: `It is recommended to <verb> <object>.`
+- 例句: It is recommended to aliquot the prepared 10X Permeabilization Reagent stock solution.
+
+### 实验前提/规范
+- 模板: `<subject> must be <adjective>/<past_participle> before use.`
+- 例句: 0.01N HCl (pH = 2.0) must be freshly prepared before use.
+
+### 持续状态/保存建议
+- 模板: `Keep <object> on <condition>.`
+- 例句: Keep on ice.
+
+### 连续步骤衔接
+- 模板: `Repeat steps <step_number> through <step_number> until <condition>.`
+- 例句: Repeat steps 2) and 3) until all tissue sections are adsorbed onto the chip surface.
+
+### 直接操作指令
+- 模板: `Add <amount> of <object> to the <location>.`
+- 例句: Add 150 μL of 1X permeabilization reagent to the chip.
+
+### 遵循参考指令
+- 模板: `<Verb> <object> according to <reference>.`
+- 例句: Prepare the Total RNA hybridization Mix according to Table 3-1.
+
+### 动作加方式描述
+- 模板: `Slightly tilt the <location>, and use a <tool> to <action> <object>.`
+- 例句: Slightly tilt the handheld carrier, and use a pipette to aspirate and discard the RT QC Mix from the chip surface.
+
+### 提前配置与设置
+- 模板: `Set <instrument> to <condition> in advance, and <action> to <condition>.`
+- 例句: Set the PCR instrument temperature to 55°C and the hot lid temperature to 60°C in advance, and place the PCR adapter to equilibrate temperature.
+
+### 图表引用
+- 模板: `As shown in [Figure/Table X], ...`
+- 例句: As shown in Figure 3, at 3 min of permeabilization, the tissue exhibited uneven brightness within the same cortex, indic
+
+### 参考指向
+- 模板: `For details, please refer to [Document/Section].`
+- 例句: For details, please refer to 《Stereo-seq 16 Barcode 建库试剂盒 V1.0 使用说明书》.
+
+### 组成结构描述
+- 模板: `Each [Product/Component] consists of the following [number] parts:`
+- 例句: Each reagent set consists of the following three parts:
+
+### 流程参数说明
+- 模板: `The input parameters for the [pipeline name] are:`
+- 例句: The input parameters for the SAW analysis pipeline adapted for spatiotemporal transcriptomics FFPE are:
+
+### 表格标题结构
+- 模板: `Table [Table No.] [Product Name] [Component Type] information`
+- 例句: Table 1-1 Stereo-seq Transcriptomics Kit N reagent component information
+
+### 非包含项声明
+- 模板: `[Component] is not included in the [Product/Kit].`
+- 例句: The Stereo-seq 16 Barcode Library Preparation Kit V1.0 is not included in the reagent kit.
+
+### 未经授权禁止条款
+- 模板: `Without [Organization]'s written consent, no one shall [Verb] ...`
+- 例句: Without our unit's written consent, no one shall, without authorization, use, modify, copy, publicly disseminate, alter, distribute, or publish the
+
+### 参数定义
+- 模板: `<Parameter>: <Value>`
+- 例句: Storage temperature: −25°C to −18°C. Expiration date: See label.
+
+### 试剂溶解指令
+- 模板: `Dissolve <Component> with <Volume> of <Solvent> and mix by pipetting.`
+- 例句: Dissolve the PR Enzyme (red cap, in powder form) with 1 mL of freshly prepared 0.01N HCl and mix by pipetting
+
+### 引用文档指令
+- 模板: `Please refer to the "<Document Name>" to <Action>.`
+- 例句: Please refer to the "Stereo-seq Chip Carrier Storage Operation Guide" to store the product.
+
+### 推荐操作建议
+- 模板: `It is recommended to <Action> <Component> <Time/Condition>.`
+- 例句: It is recommended to take out all reagent components in advance before use.
+
+### 预防措施指令
+- 模板: `To avoid <Problem>, <Action>.`
+- 例句: To avoid sample cross-contamination, it is recommended to use filtered pipette tips and change tips when aspirating different samples.
+
+### 安全禁令
+- 模板: `Avoid <Hazardous Action>; do not <Action>.`
+- 例句: Avoid direct contact of samples and reagents with skin and eyes; do not swallow samples or reagents.
+
+### 试剂处理步骤
+- 模板: `Take out <Component> from <Condition> in advance, equilibrate to <Condition>, and <Action>.`
+- 例句: Take out TE Buffer (pH 9.0) from 4℃ in advance to equilibrate to room temperature (≤ 2 hr at room temperature).
+
+### 试剂预处理操作
+- 模板: `Remove/Take out the <reagent> from <temperature>, <action1>, <action2>, and <action3>.`
+- 例句: Remove the FFPE RT Buffer Mix from -20°C in advance, thaw at room temperature, shake until no precipitate remains, and keep on ice during use.
+
+### 建议操作规范
+- 模板: `It is recommended that <procedure> be performed by <person/condition>.`
+- 例句: It is recommended that this procedure be performed by an experienced paraffin section technician.
+
+### 流程参考指引
+- 模板: `For <details>, see <document/section>.`
+- 例句: For precautions, see "Spatial Experiment Sample Preparation Guidelines".
+
+### 条件分支操作
+- 模板: `If <condition> is selected, please <action1> and <action2>.`
+- 例句: If opting for H&E staining, please follow Section 2.3.1 for experimental procedures and skip Section 2.3.2.
+
+### 状态触发操作
+- 模板: `When <condition>, <action>.`
+- 例句: When the wax block consists of high-fat tissue (such as breast tissue), the block can be placed in a -20°C freezer for 10 min.
+
+### 储存条件说明
+- 模板: `Store the <item> at <temperature> until <deadline>.`
+- 例句: When unopened, the product can be stored at -20 °C or 4 °C until the expiration date on the label.
+
+### 设备替代说明
+- 模板: `If <equipment> is unavailable, <alternative> can be used.`
+- 例句: If an integrated slide flotation/drying workstation is unavailable, a slide flotation water bath combined with a PCR instrument can be used.
+
+### Procedural Instruction
+- 模板: `<verb> <object>, then <verb> <object>.`
+- 例句: Place the unused Stereo-seq chip into the transparent chip box, then put it back into the original aluminum bag.
+
+### Pre-check Instruction
+- 模板: `Please <verb> the following items after <action>.`
+- 例句: Please check the following items after opening the aluminum bag:
+
+### Purpose-driven Statement
+- 模板: `To ensure <purpose>, <subject> <be_verb> <adverb>.`
+- 例句: To ensure stability during transport, large chips are adhered securely to the bottom of the transparent chip box.
+
+### Numbered Step
+- 模板: `Step <number>: <verb> <object> <location>.`
+- 例句: Step 1: Click the guide type you want to view in the checkbox column on the right side of the page.
+
+### Reagent Preparation
+- 模板: `<substance> <verb> from <condition> in advance, equilibrate to <condition>.`
+- 例句: Hematoxylin (Solarbio, G4470) Take out from 4°C in advance, equilibrate to room temperature-
+
+### Volume Guideline
+- 模板: `Pour into <container>, the volume should be sufficient to <action>.`
+- 例句: Use directly, pour into 2 staining jars (Histo-clear ① & ②). The volume should be sufficient to completely submerge the...
+
+### Prohibition Constraint
+- 模板: `<subject> should not be <action> for more than <duration>, and please <action> after <timeframe>.`
+- 例句: Non-vacuum-sealed chips should not be stored for more than two weeks, and should be used as soon as possible after opening.
+
+### Preparation
+- 模板: `Take out the <reagent> from <temp> in advance and equilibrate it to room temperature for <purpose>.`
+- 例句: Take out the FFPE Mounting Medium from -20°C in advance and equilibrate it to room temperature for mounting.
+
+### ReagentMixing
+- 模板: `Add <amount> of <reagent> to <reagent/vessel>, mix well, and transfer to <container>.`
+- 例句: Add 20 mL of 70% ethanol to 10 mL of Eosin (Abcam 'AB246824'), mix well, and transfer to a staining jar, slide box, or 50 mL centrifuge tube.
+
+### RinseSequence
+- 模板: `Immerse the <object> in <container> containing <reagent>, and rinse by <action>.`
+- 例句: Immerse the carrier in a staining jar (or slide box, or 50 mL centrifuge tube) containing 5X SSC, and rinse by moving up and down 5 times.
+
+### NegativeWarning
+- 模板: `Do not <action> the <reagent>, as this can <consequence>.`
+- 例句: Do not preheat the TE buffer, as this can easily cause section detachment.
+
+### ConditionalAction
+- 模板: `If <condition> fails, please <action> to ensure <goal>.`
+- 例句: If QC fails, please carefully check the image clarity, adjust the imaging method, and retake the photos to ensure clear organization and Track line images.
+
+### StepTiming
+- 模板: `When the <machine> reaches the <step>, <action>.`
+- 例句: When the PCR machine runs to the 85°C ∞ step, place the handheld carrier onto the PCR adaptor, click Edit and click Next Step to skip the 85°C ∞ step.
+
+### AddReagent
+- 模板: `Add <amount> of <reagent> into the <container>, and <action>.`
+- 例句: Add 400 μL of TE Buffer (pH 9.0), equilibrated to room temperature, into the wells of the carrier chip, and incubate for 1 min to wash, then aspirate and discard the liquid.
+
+### ProceedInstruction
+- 模板: `Immediately after this step is completed, proceed with <action>.`
+- 例句: Immediately after this step is completed, proceed with subsequent experiments according to 2.4 Fixing.
+
+### SimpleTakeAndAdd
+- 模板: `Take an appropriate amount of <reagent> and add it to <container> for <action>.`
+- 例句: Take an appropriate amount of absolute ethanol and add it to a 6 cm or 9 cm petri dish for washing coverslips.
+
+### 操作步骤指令
+- 模板: `<imperative_verb> <object> <complement/location/duration>`
+- 例句: Remove the Stereo-seq chip N carrier, place it in the 60°C slide dryer, and bake for 1 hr
+
+### 操作命令
+- 模板: `<imperative_verb> <object> <method/condition>`
+- 例句: Aspirate and discard the ssDNA staining solution, add 150 μL 0.1X SSC dropwise onto the chip
+
+### 实验要求/条件声明
+- 模板: `The <object> must pass <QC_process> before <next_step> can be conducted.`
+- 例句: The obtained ssDNA staining image must pass QC before further image analysis (register) can be conducted.
+
+### 试剂处理指令
+- 模板: `Remove <reagent> from <temperature> in advance and equilibrate to <target_temperature>`
+- 例句: Remove FFPE Mounting Medium from -20°C in advance and equilibrate to room temperature
+
+### 试剂添加
+- 模板: `Add [Quantity] of [Reagent] to [Target], [Action1], and [Action2].`
+- 例句: Add 400 μL of FFPE Decrosslinking Reagent to the wells of the carrier chip, apply the sealing film, and seal
+
+### 位置放置与转移
+- 模板: `Place/Transfer [Object] [onto/to] [Target].`
+- 例句: Place the handheld carrier onto the PCR adaptor
+
+### 试剂配制衔接
+- 模板: `Prepare [Reagent] (in advance/just before use): [Method].`
+- 例句: Prepare 1X permeabilization reagent working solution (prepare just before use): use 0.01N HCl to dilute the 10X reagent.
+
+### 移除与废弃
+- 模板: `Remove [Object] and discard [Waste].`
+- 例句: Remove the holder and discard the gasket and clamp.
+
+### 程序参数标题
+- 模板: `Table [Number] [Subject] settings.`
+- 例句: Table 2-3 De-crosslinking program settings
+
+### 注意事项提示
+- 模板: `[Subject] [Result/Reason]; it must be [Action].`
+- 例句: The fixture will deform after being heated to 95°C...; it must be discarded.
+
+### 用量与规格限制
+- 模板: `[Object] ([Quantity]/[Unit]).`
+- 例句: 0.1X SSC (containing 5% RI)
+
+### 操作指令-添加试剂
+- 模板: `Add <reagent_name> (volume: <dosage>), <action_1>, and <action_2>.`
+- 例句: Add cDNA Release Mix (volume 400 μL / well), seal the wells with sealing film, and then place on
+
+### 孵育与条件限制
+- 模板: `Incubate at <temperature> for <time> (can be held for up to <max_time>).`
+- 例句: and incubate at 55℃ for 5 hr (can be held for up to 24 hr)
+
+### 条件判断与处理
+- 模板: `If <condition> is observed, <action_1>, and then allowed to <action_2>.`
+- 例句: If white precipitate is observed in the buffer, it can be incubated at 55°C to dissolve, and then allowed to return to room temperature.
+
+### 防止操作误差
+- 模板: `Be careful not to <negative_action>; you may <action_for_buffer> to avoid <risk>.`
+- 例句: Be careful not to touch the magnetic beads with the pipette tip; you may leave 2-3 μL of liquid to avoid aspirating the magnetic beads.
+
+### 步骤衔接与检查
+- 模板: `Once <condition>, <action>.`
+- 例句: Once the liquid clears, carefully remove the supernatant with a pipette.
+
+### 溶剂补足与校准
+- 模板: `If <substance> is less than <volume>, make up the volume to <volume> with <solvent>.`
+- 例句: If the recovered sample above is less than 42 μL, make up the volume to 42 μL with NF-H2O.
+
+### 磁珠漂洗操作
+- 模板: `Keep the centrifuge tube on the magnetic rack and add <volume> of <solvent>, <action_to_wash>.`
+- 例句: Keep the centrifuge tube on the magnetic rack and add 1.5 mL of 80% ethanol, rotate the centrifuge tube on the magnetic rack to wash the beads.
+
+### 预防措施
+- 模板: `Avoid <negative_action_1> that may cause <negative_result>, <action_for_stability>.`
+- 例句: Avoid vigorous shaking that may cause magnetic beads or liquid to pop out, hold the middle or lower section of the 1.5 mL centrifuge tube, and then open the cap.
+
+### 实验记录与核对
+- 模板: `<Action_1> and <action_2> according to <reference_table> to measure and record <target_data>.`
+- 例句: Prepare the Qubit dsDNA HS Kit according to Table 2-11 to measure and record the PCR product concentration.
+
+### 步骤条件动作描述
+- 模板: `After <action>, <verb> <object> and <verb> for <duration>`
+- 例句: After a brief centrifugation, place the PCR tube on a magnetic rack and let it stand for 3 minutes;
+
+### 混合与操作要求
+- 模板: `Mix <component_A> with <component_B> at a <ratio> ratio, <action_1>, and <action_2>`
+- 例句: Mix the PCR products (100 μL) with room-temperature equilibrated beads at a 1:1 ratio, vortex to mix, and incubate at
+
+### 存储条件建议
+- 模板: `<subject> can be stored at <temperature> for <duration>.`
+- 例句: The purified cDNA products can be stored at −20°C for 1 month.
+
+### 注意事项/限制说明
+- 模板: `This product is for <use_case> only, not for <negative_use_case>.`
+- 例句: This product is for research use only, not for diagnostic use.
+
+### 物料/步骤变更提示
+- 模板: `· <Action> <item_or_process> to <new_state>;`
+- 例句: · Shipping for kits and chips has been changed to cold chain transportation;
+
+### 状态变化描述
+- 模板: `<subject> until <condition>`
+- 例句: air-dry at room temperature for 5-8 min until the surface of the beads is free of reflection and cracking;
+
+### 对应关系描述
+- 模板: `<subject> corresponding to <condition>`
+- 例句: Fragment distribution of purified cDNA product corresponding to RNA with DV200 < 30%
+
+### 通用标题/章节格式
+- 模板: `<Chapter_Number> <Section_Title>`
+- 例句: Chapter 1: Product Introduction
+
+### 引用说明
+- 模板: `For <details/further information>, please refer to <reference>.`
+- 例句: For details, please refer to Library Kit Instruction Manual.
+
+### 套装组成
+- 模板: `Each <kit/reagent> consists of the following <number> parts:`
+- 例句: Each reagent kit consists of the following two parts:
+
+### 产品功能描述
+- 模板: `The <product> is used for <purpose>.`
+- 例句: The STOmics Stereo-seq Customized Chip Transcriptome Reagent Kit is used for the construction of 3' end libraries from whole-transcriptome.
+
+### 风险提示
+- 模板: `Note: Pay special attention; <condition> may lead to <consequence>.`
+- 例句: Note: Pay special attention; improper operation or negligence may lead to experiment failure.
+
+### 质量保证描述
+- 模板: `<Subject> have undergone <process>, ensuring <outcome>.`
+- 例句: All reagents provided in this kit have undergone rigorous quality control and functional validation, ensuring to the greatest extent the stability and reproducibility of library preparation.
+
+### 可选操作
+- 模板: `You may choose any of the listed <items> (marked with *) for use.`
+- 例句: You may choose any of the listed brands (marked with *) for use.
+
+### 信息查阅
+- 模板: `For further information regarding <topic>, please refer to <reference>.`
+- 例句: For further information regarding product catalog numbers, reagent components, etc., please refer to Table 1-1 and Table 1-2.
+
+### 实验建议
+- 模板: `It is recommended to <action>.`
+- 例句: It is recommended to preheat the PCR instrument to the reaction temperature.
+
+### 目的驱动建议
+- 模板: `To <purpose>, it is recommended to <action>.`
+- 例句: To avoid sample cross-contamination, it is recommended to use filter pipette tips and change tips when aspirating different samples.
+
+### 祈使指令
+- 模板: `Before <action>, please <command>.`
+- 例句: Before conducting the experiment, please familiarize yourself with the precautions for all instruments to be used.
+
+### 产品用途声明
+- 模板: `This product is intended for <usage> only and not for <prohibited_use>.`
+- 例句: This product is intended for research use only and not for clinical diagnostic purposes; please read this manual carefully.
+
+### 规避指令
+- 模板: `Avoid <action>.`
+- 例句: Avoid direct skin and eye contact with samples and reagents, and do not swallow samples or reagents.
+
+### 规格限制
+- 模板: `The <object> should not <condition> <value>.`
+- 例句: The tissue size should not exceed 0.9 cm × 1.8 cm × 0.7 cm.
+
+### 合规性处理
+- 模板: `<subject> should be <action> in accordance with <regulations>.`
+- 例句: All samples and various wastes should be disposed of in accordance with relevant regulations.
+
+### 前置准备
+- 模板: `<verb> <object> in advance.`
+- 例句: Prepare a foam box of crushed ice in advance and pre-cool the OCT on ice for 10 min.
+
+### Imperative Action with Manner/Location
+- 模板: `<verb> <object>, <manner/location>.`
+- 例句: Place the metal embedding cassette A, containing the tissue, horizontally on a metal block precooled with dry ice;
+
+### Reagent Preparation and Dosage Constraint
+- 模板: `Add <quantity> of <reagent_a> to <quantity> of <reagent_b>, requiring at least <dosage_per_unit>.`
+- 例句: Add 7.5 μL of RI to 142.5 μL of 0.1X SSC, requiring at least 150 μL/chip.
+
+### Verification/Inspection
+- 模板: `Check whether <object> has <status_completed>.`
+- 例句: Check whether the OCT has completely solidified and turned white and opaque;
+
+### Pre-treatment with Time Constraint
+- 模板: `Remove <object> from storage at least <time> before use and <action_condition>.`
+- 例句: Remove from storage at least 5 minutes before use and equilibrate to room temperature.
+
+### Sequential Steps with Risk Prevention
+- 模板: `First, <verb> <action_a> (to prevent <risk>), then <verb> <action_b> <manner>.`
+- 例句: First, place the pre-chilled steel ruler on the long side of metal embedding cassette A (to prevent the tissue from being deformed), then place metal embedding cassette B with the opening facing upward.
+
+### General Rule / Disclaimer
+- 模板: `Unless <condition>, <imperative_verb> <action>.`
+- 例句: Unless otherwise specified, use Nuclease Free Water for liquids used to dilute reagents in this experiment.
+
+### Reference to Prior Step
+- 模板: `Same as <reference_step>.`
+- 例句: Same as for 1*2 chips; room temperature for 1 day.
+
+### 指令式操作
+- 模板: `Immediately <verb> <object> into/onto <location> to <action> for <duration>.`
+- 例句: Immediately place the chip dried in the previous step into methanol pre-cooled at -20°C to fix for 40 min.
+
+### 序贯式操作
+- 模板: `After <condition>, <verb> <object> to <location>.`
+- 例句: After fixation, transfer the 6-well plate/6 cm culture dish to a fume hood;
+
+### 条件判定与处理
+- 模板: `If <condition>, <verb> <object>.`
+- 例句: If there are impurities on the chip, use 3000 μL of Nuclease for 1 cm * 2 cm and 2 cm * 2 cm chips in a 6-well plate
+
+### 文档索引参考
+- 模板: `Refer to <table_or_doc> for <parameter>.`
+- 例句: refer to Table 3-1 for the baking time;
+
+### 试剂用量表达
+- 模板: `Add <amount> of <reagent> to <object>.`
+- 例句: Add the tissue fluorescent staining solution to the chip; refer to Table 3-2 for the amount.
+
+### 准备就绪状态判定
+- 模板: `When <condition>, it is ready for <step>.`
+- 例句: When there is no liquid residue and no ripple-like texture, it is ready for mounting;
+
+### Conditional Requirement
+- 模板: `<Subject> must <verb> before <action> can be performed. If <condition> fails, <next_step>.`
+- 例句: The obtained ssDNA staining images must pass QC before further image analysis (register) can be performed. If QC fails,
+
+### Imperative Sequence
+- 模板: `<Verb> the <object> to <action>, then <verb> in a <container>.`
+- 例句: Remove the chip and place it on lint-free paper to blot dry the moisture on the back, then place it in a 9 cm petri dish
+
+### Volume Reference
+- 模板: `<Action> the <solution> (refer to Table <number> for volume);`
+- 例句: Add PR Rinse Buffer solution (containing 5% RI, refer to Table 3-8 for volume);
+
+### Procedural Avoidance
+- 模板: `Please do not <action> for an extended period; turn off <device> when not <action> to avoid <negative_outcome>.`
+- 例句: During imaging, please do not expose the chip with the attached tissue to fluorescence for an extended period; turn off laser when not imaging, to avoid
+
+### Sequence-Based Action
+- 模板: `While <action_in_progress>, <verb> the <reagent> according to Table <number> and keep it on ice.`
+- 例句: While waiting for permeabilization, prepare the RT Mix according to Table 3-7 and keep it on ice;
+
+### Immediate Action
+- 模板: `Immediately <action> to <reason>.`
+- 例句: Immediately add RT Mix to avoid RNA degradation.
+
+### 条件触发操作
+- 模板: `If <condition> is observed in <object>, <verb> by <action>.`
+- 例句: If white precipitate is observed in the buffer, it can be dissolved by incubating at 55°C.
+
+### 建议与备注
+- 模板: `<action> in advance to <purpose>.`
+- 例句: Remove from 4°C 30 minutes in advance, vortex to mix, and equilibrate to room temperature to help ensure recovery efficiency.
+
+### 步骤衔接（动作序列）
+- 模板: `<verb> <object> according to <reference>, and <verb> at <condition>.`
+- 例句: Prepare the cDNA Release Mix according to Table 3-13 and incubate at room temperature.
+
+### 禁止/注意事项
+- 模板: `<verb> <action> to <purpose>.`
+- 例句: Prevent the chip from drying out completely.
+
+### 用量/规格表达
+- 模板: `<volume>/<unit>.`
+- 例句: 1500 μL/chip
+
+### 防止干扰/保护
+- 模板: `<verb> <object> to prevent <action>.`
+- 例句: Wrap the outside of the 6-well plate with plastic wrap to prevent evaporation.
+
+### 纯化/处理过程
+- 模板: `After <action> is completed, <verb> the liquid in the reaction well into a <container>.`
+- 例句: After the reaction is completed, completely recover the liquid in the reaction well into a 15 mL centrifuge tube.
+
+### 磁珠操作细节
+- 模板: `When <action>, <verb> <object> to ensure <status>.`
+- 例句: Before each use, shake or pipette the magnetic beads up and down to ensure they are thoroughly mixed.
+
+### 条件执行与补足
+- 模板: `If the volume of <object> is less than <value>, bring the volume to <value> with <reagent>.`
+- 例句: If the volume of the recovered sample above is less than 42 μL, bring the volume to 42 μL with Nuclease-Free Water.
+
+### 离心与放置规范
+- 模板: `Briefly centrifuge, place on a magnetic stand for <time> until the liquid becomes clear.`
+- 例句: Briefly centrifuge, place on a magnetic stand for 3-5 min until the liquid becomes clear.
+
+### 移液操作限制
+- 模板: `The pipette tip should be operated against the tube wall away from the magnetic rack; do not pipette up and down or disturb the magnetic beads.`
+- 例句: The pipette tip should be operated against the tube wall away from the magnetic rack; do not pipette up and down or disturb the magnetic beads.
+
+### 存储与保留条件
+- 模板: `After <action>, the <product> can be stored in <volume> of <reagent> at <temperature> until <condition>.`
+- 例句: After purification, the magnetic beads can be stored in 40 μL of Nuclease-free Water at 4℃ until the final cDNA product QC passes.
+
+### 样本干燥观察
+- 模板: `Air-dry at room temperature for <time>, until the surface of the magnetic beads shows no reflection.`
+- 例句: Air-dry at room temperature for 5-8 min, until the surface of the magnetic beads shows no reflection.
+
+### 样本处理与合并
+- 模板: `Transfer the supernatant (<volume>) to <target> to combine for a total volume of <volume>.`
+- 例句: Transfer the supernatant (~21 μL cDNA) to the PCR tube shown in step 8 to combine for a total volume of 42 μL.
+
+### 暂停点标记
+- 模板: `(This step can be paused; store samples at <temperature>)`
+- 例句: (This step can be paused; store samples at -20°C)
+
+### 试剂定容
+- 模板: `Add <reagent> to make up to <volume>`
+- 例句: Finally, add 0.5X PBS to make up to the corresponding volume
+
+### 步骤序列
+- 模板: `First, <action>; Then, <action>; Finally, <action>.`
+- 例句: First, prepare a 0.5X PBS solution; Then, weigh the sucrose and add it to a new 15 mL/50 mL centrifuge tube; Finally, add 0.5X PBS to make up to the corresponding volume
+
+### 样本处置
+- 模板: `Discard the <liquid>, add fresh <new_liquid>, and <action> at <temperature> for <time>.`
+- 例句: Discard the liquid, add fresh pre-cooled 3% sucrose-PBS solution, and incubate at 4°C overnight.
+
+### 材料处理步骤
+- 模板: `<Verb> <material>, <action> immediately, and <action> at <temperature> for <time>.`
+- 例句: Excise the plant material, immediately place it into pre-cooled Carnoy's fixative, and fix on ice or at -20°C for 1 hr.
+
+### 条件性操作句式
+- 模板: `If <condition>, please <verb>.`
+- 例句: If using a higher magnification objective (≥20x) or higher numerical aperture (≥1.0), please consider the following:
+
+### 否定限制/预防句式
+- 模板: `Do not <verb> <object>, as this will <verb>.`
+- 例句: Do not overfill the embedding cassette with tissue, as this will make sectioning difficult.
+
+### 结果描述句式
+- 模板: `<subject> will <verb> <adverb>.`
+- 例句: After adding sucrose to 0.5X PBS, the volume will change slightly.
+
+### 定义/说明句式
+- 模板: `<subject> is <definition>.`
+- 例句: The depth of focus is the thickness of the sample that appears in focus within an image plane.
+
+### 差异/对比句式
+- 模板: `<subject1> will <verb>, <subject2> will <verb>.`
+- 例句: The FOV will become smaller, requiring more FOVs to be acquired and stitched.
+
+### 强制性要求句式
+- 模板: `When <condition>, ensure that <subject> matches <object>.`
+- 例句: When joint analysis of visualized gene expression data and tissue images is required, ensure that the resolution of the tissue images matches the resolution of the Stereo-seq technology.
+
+### 文档导向句式
+- 模板: `For <subject>, please refer to <reference>.`
+- 例句: For applicable Stereo-seq solutions and their corresponding user manuals, please refer to the table below.
+
+### 操作指令句
+- 模板: `<verb> <object> to <action>.`
+- 例句: Gently place the chip on the stage, ensuring it is correctly oriented.
+
+### 条件要求句
+- 模板: `If <condition>, <action/recommendation>.`
+- 例句: If a larger chip size is required, please confirm the microscope scanning range in advance.
+
+### 必备项说明
+- 模板: `<item>: <quantity/detail>.`
+- 例句: OCT/FFPE tissue embedding block: 1
+
+### 步骤衔接/参考
+- 模板: `For <detail>, please refer to <document_name>.`
+- 例句: For details on the assembly, disassembly, and usage of the carrier chip, please refer to the "Stereo-seq Chip Carrier and Accessories User Manual".
+
+### 专业建议句
+- 模板: `It is recommended to <action> to <purpose>.`
+- 例句: It is recommended to consult the microscope manufacturer to confirm and complete calibration and debugging.
+
+### 功能描述句
+- 模板: `<Subject> should <action> <object>.`
+- 例句: Camera resolution should match the theoretical resolution of the objective lens.
+
+### 参数/指标定义
+- 模板: `<Parameter> must be <value/constraint>.`
+- 例句: The scanning area must cover at least 10*10 mm.
+
+### 禁止操作句
+- 模板: `Do not <action> <object> before <event>.`
+- 例句: Please do not modify any parameters arbitrarily before the formal experiment.
+
+### 故障排查建议
+- 模板: `If <issue> occurs, <action> to <purpose>.`
+- 例句: If the color deviates significantly from expectations, please contact the microscope manufacturer's engineer for debugging.
+
+### 范围约束句
+- 模板: `<Subject> should be kept <adjective> <location>.`
+- 例句: The chip should be kept as parallel as possible to the stage.
+
+### 建议/指令表达 (Instruction)
+- 模板: `Please <verb> the <object>.`
+- 例句: Please immediately perform image QC using the StereoMap software.
+
+### 条件语句 (Conditional Clause)
+- 模板: `If <condition>, <instruction>.`
+- 例句: If using manual focus, you should select modeling points and focus separately at the four corners.
+
+### 推荐表达 (Recommendation)
+- 模板: `It is recommended to <verb> <object>.`
+- 例句: It is recommended to pre-install the latest version of the StereoMap software.
+
+### 限制/义务表达 (Requirement)
+- 模板: `[Subject] should preferably <verb> <object>.`
+- 例句: should preferably not exceed half the width of the field of view (FOV).
+
+### 禁止事项 (Prohibition)
+- 模板: `Do not <verb> the <object>.`
+- 例句: Do not touch the surface where the microscope is placed during slide scanning.
+
+### 注意事项 (Cautionary)
+- 模板: `Please be cautious when <verb-ing> <object>, as <reason>.`
+- 例句: please be cautious when using the autofocus mode, as most microscopes cannot accurately focus on the tracking lines.
+
+### 参考引用 (Reference)
+- 模板: `For <details>, please refer to <source>.`
+- 例句: For download links, installation guides, etc., please refer to the StereoMap User Manual -> Download.
+
+### 流程描述 (Procedural Description)
+- 模板: `The above are <description>.`
+- 例句: The above are general procedural precautions.
+
+### Stitching Instruction
+- 模板: `When stitching multiple FOVs into a large image, <action> is required to <purpose>.`
+- 例句: When stitching multiple FOVs into a large image, subsequent feature registration is required to correct stitching errors.
+
+### Cause and Effect
+- 模板: `<Cause> can lead to <undesirable effect>.`
+- 例句: Improper focusing can lead to the failure of Track detection.
+
+### Structural Description
+- 模板: `<Subject> are <definition>, and are generally <property>.`
+- 例句: Track lines are straight lines arranged on the chip and are generally parallel to the chip edges.
+
+### Image Quality Description
+- 模板: `<Condition> images have <property 1> and <property 2>, resulting in <undesirable outcome>.`
+- 例句: Underexposed images have low perceived brightness (low pixel values) and low contrast (low image dynamic range), which leads to details loss and resolution impairment.
+
+### Actionable Tip
+- 模板: `Please <action 1> and <action 2> with <item>.`
+- 例句: Please download the latest version of the manual and use it with the corresponding kit version.
+
+### Usage Restriction
+- 模板: `This product is for <intended use>, not for <restricted use>.`
+- 例句: This product is for research use only, not for diagnostic use.
+
+### 产品/文档元数据
+- 模板: `<label>: <value>`
+- 例句: Catalog No.: 1000033700
+
+### 操作指令(祈使句)
+- 模板: `<verb> <object> from <source>`
+- 例句: Remove the fixture and gasket from the Stereo-seq carrier accessory kit
+
+### 建议/推荐操作
+- 模板: `It is recommended to <action>`
+- 例句: It is recommended to use filtered pipette tips
+
+### 前置条件/预防措施
+- 模板: `Please <action> before <event>`
+- 例句: Please read this manual carefully before use
+
+### 状态确认/验证
+- 模板: `Ensure that <subject> <verb> securely`
+- 例句: Ensure that the fixture and chip carrier are securely assembled together
+
+### 外部引用说明
+- 模板: `For further information regarding <topic>, refer to <reference>`
+- 例句: For further information regarding the product catalog number and specific components of the carrier accessory kit, refer to Table 1-1
+
+### 环境参数描述
+- 模板: `<type> temperature: <value>`
+- 例句: Storage temperature: 18°C~25°C
+
+### 键值映射
+- 模板: `<Key Name>: <Value>`
+- 例句: Document Number: STOG00010
+
+### 前提要求
+- 模板: `Ensure <object> is <state> before <action>.`
+- 例句: Ensure all reagents are thawed before use.
+
+### 指引参考
+- 模板: `Refer to <document> for <details>.`
+- 例句: Refer to the user manual for details.
+
+### 重要提示
+- 模板: `Note: <information>.`
+- 例句: Note: The temperature must be kept at 4°C.
+
+### 工具使用
+- 模板: `Use <tool> to <verb> <quantity> of <substance>.`
+- 例句: Use a pipette to add 10 µL of sample.
