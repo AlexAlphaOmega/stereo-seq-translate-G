@@ -12,7 +12,7 @@
 - 上清 → **supernatant**
 - 风干 → **air-dry**
 - 回溶 → **resuspend**
-- 芯片载体 → **chip carrier**
+- 芯片载体 → **chip slide (NOT carrier)**
 - 夹具 → **fixture**
 - 垫圈 → **gasket**
 - 封板膜 → **sealing film**
@@ -36,7 +36,7 @@
 - 上清 → **supernatant**
 - 移液器 → **pipette**
 - 回溶 → **resuspend**
-- 芯片载体 → **chip carrier**
+- 芯片载体 → **chip slide (NOT carrier)**
 - 垫圈 → **gasket**
 - 夹具 → **fixture**
 - 封板膜 → **sealing film**
@@ -55,7 +55,7 @@
 - 移液器 → **pipette**
 - 上清 → **supernatant**
 - 回溶 → **resuspend**
-- 芯片载体 → **chip carrier**
+- 芯片载体 → **chip slide (NOT carrier)**
 - 夹具 → **fixture**
 - 垫圈 → **gasket**
 - 封板膜 → **sealing film**
@@ -70,7 +70,7 @@
 - 磁珠纯化 → **magnetic bead purification**
 - cDNA 扩增 → **cDNA Amplification**
 - PCR 扩增产物 → **PCR Amplification Products**
-- 芯片载体 → **chip carrier**
+- 芯片载体 → **chip slide (NOT carrier)**
 - 夹具 → **fixture**
 - 垫圈 → **gasket**
 - 封板膜 → **sealing films**
@@ -98,7 +98,7 @@
 - 上清 → **supernatant**
 - 移液器 → **pipette**
 - 时空转录组 → **Spatial Transcriptomics**
-- 芯片载体 → **chip carrier**
+- 芯片载体 → **chip slide (NOT carrier)**
 - 夹具 → **fixture**
 - 垫圈 → **gasket**
 - 封板膜 → **sealing film**
@@ -119,7 +119,7 @@
 - 移液器 → **pipette**
 - 回溶 → **resuspend**
 - 回溶体积 → **resuspension volume**
-- 芯片载体 → **chip carrier**
+- 芯片载体 → **chip slide (NOT carrier)**
 - 夹具 → **fixture**
 - 垫圈 → **gasket**
 - 封板膜 → **sealing film**
@@ -138,7 +138,7 @@
 - 阔口吸头 → **wide-bore pipette tips**
 - 荧光定量仪 → **Fluorometer**
 - 荧光猝灭 → **fluorescence quenching**
-- 时空可视化试剂套装 → **STOmics visualization reagent set**
+- 时空可视化试剂套装 → **Stereo-seq Visualization Reagent Set**
 - 载片 → **slide**
 - 真空包装袋 → **vacuum packaging bag**
 - DNB 加载 → **DNB loading**
@@ -234,10 +234,10 @@
 ## 自动蒸馏新增（18 条）
 > 由 Gemini 于 2026-08-13 自动提取
 
-- Stereo-seq 转录组试剂套装 → **Stereo-seq Transcriptomics Reagent Kit**
+- Stereo-seq 转录组试剂套装 → **Stereo-seq Transcriptomics Set**
 - 夹具 → **fixture**
 - 垫圈 → **gasket**
-- 芯片载体 → **chip carrier**
+- 芯片载体 → **chip slide (NOT carrier)**
 - 空气罐 → **canned air**
 - PCR 仪 → **PCR thermal cycler**
 - 滤芯吸头 → **filter tips**
@@ -432,7 +432,7 @@
 - pooling体积 → **Pooling volume**
 - 测序碱基平衡 → **Base balance for sequencing**
 - 文库质量比 → **Mass ratio of library**
-- 时空可视化试剂套装 → **Spatial Visualization Reagent Kit**
+- 时空可视化试剂套装 → **Stereo-seq Visualization Reagent Set**
 - 测序仪 → **Sequencer**
 - 离心 → **Centrifuge**
 - 水浴 → **Water bath**
@@ -692,7 +692,7 @@
 - 铝袋 → **aluminum foil bag**
 - 双面胶 → **double-sided tape**
 - 干燥剂 → **desiccant**
-- Stereo-seq转录组试剂套装 → **Stereo-seq Transcriptomics Reagent Kit**
+- Stereo-seq转录组试剂套装 → **Stereo-seq Transcriptomics Set**
 - 标准操作流程 → **Standard Operating Procedure**
 - 新鲜冷冻样本 → **Fresh frozen sample**
 - 样本包埋 → **Sample Embedding**
@@ -702,8 +702,8 @@
 - 高通量测序技术 → **High-throughput sequencing technology**
 - 差异分析 → **Differential analysis**
 - 富集分析 → **Enrichment analysis**
-- Stereo-seq 芯片载体 → **Stereo-seq chip carrier**
-- Stereo-seq 转录组试剂套装 → **Stereo-seq Transcriptomics Reagent Kit**
+- Stereo-seq 芯片载体 → **Stereo-seq chip slide (NOT carrier)**
+- Stereo-seq 转录组试剂套装 → **Stereo-seq Transcriptomics Set**
 - Stereo-seq 芯片T 载体 → **Stereo-seq Chip T carrier**
 - Stereo-seq PCR 适配器 → **Stereo-seq PCR adapter**
 - 载玻片染色架 → **Slide staining rack**
@@ -720,7 +720,7 @@
 - 醇溶伊红溶液 → **alcohol-soluble eosin solution**
 - 返蓝染色液 → **bluing buffer**
 - 封片 → **mounting**
-- 转录组试剂套装 → **Transcriptomics Reagent Kit**
+- 转录组试剂套装 → **Transcriptomics Set**
 - 气泡 → **Bubbles**
 - TE Buffer → **TE Buffer**
 - PCR 程序 → **PCR program**
@@ -751,7 +751,7 @@
 - 测序载片 → **flow cell**
 - 载玻片 → **slide**
 - 芯片 → **chip**
-- 芯片载体 → **chip carrier**
+- 芯片载体 → **chip slide (NOT carrier)**
 - 垫圈 → **gasket**
 - 无核酸酶水 → **Nuclease-free water**
 - 磁力架 → **magnetic stand**
@@ -1235,7 +1235,7 @@
 - 片段分布 → **fragment distribution**
 - 文库构建 → **library construction**
 - 扩增 → **Amplification**
-- 时空可视化试剂套装 → **STOmics Visualization Reagent Set**
+- 时空可视化试剂套装 → **Stereo-seq Visualization Reagent Set**
 - 文库 → **Library**
 - 测序 → **Sequencing**
 - 预期用途 → **Intended Use**
@@ -1799,7 +1799,7 @@
 - 回溶 → **resuspend**
 - 下采样比例 → **Downsampling ratio**
 - 试剂套装 → **Reagent Kit**
-- 时空可视化试剂套装 → **STOmics Visualization Reagent Set**
+- 时空可视化试剂套装 → **Stereo-seq Visualization Reagent Set**
 - 使用说明书 → **User Manual**
 - 测序原理 → **Sequencing Principle**
 - 样本需求 → **Sample Requirements**
@@ -2103,7 +2103,7 @@
 - 空间组学 → **spatial-omics**
 - 单链DNA → **ssDNA**
 - 总RNA → **Total RNA**
-- Stereo-seq 转录组试剂套装 → **Stereo-seq Transcriptomics Reagent Kit**
+- Stereo-seq 转录组试剂套装 → **Stereo-seq Transcriptomics Set**
 - 伊红 → **Eosin**
 - 苏木素 → **Hematoxylin**
 - 返蓝染色 → **Bluing staining**
@@ -2113,8 +2113,8 @@
 - 组织形态学 → **Tissue morphological information**
 - 差异分析 → **Differential analysis**
 - 富集分析 → **Enrichment analysis**
-- Stereo-seq 芯片载体 → **Stereo-seq chip carrier**
-- 转录组试剂套装 → **Transcriptomics Reagent Kit**
+- Stereo-seq 芯片载体 → **Stereo-seq chip slide (NOT carrier)**
+- 转录组试剂套装 → **Transcriptomics Set**
 - 样本头 → **specimen head**
 - OCT 包埋 → **OCT embedding**
 - 醇溶伊红溶液 → **alcohol-soluble eosin solution**
@@ -2420,7 +2420,7 @@
 - 回溶 → **resuspend**
 - 振荡混匀 → **vortex to mix**
 - 下采样比例 → **downsampling ratio**
-- 时空可视化试剂套装 → **STOmics Visualization Reagent Set**
+- 时空可视化试剂套装 → **Stereo-seq Visualization Reagent Set**
 - 文库 → **Library**
 - 测序 → **Sequencing**
 - 说明书 → **Manual**
@@ -2776,10 +2776,10 @@
 - 返蓝 → **Bluing**
 - 差异分析 → **Differential analysis**
 - 富集分析 → **Enrichment analysis**
-- Stereo-seq 芯片载体 → **Stereo-seq chip carrier**
+- Stereo-seq 芯片载体 → **Stereo-seq chip slide (NOT carrier)**
 - H&E → **H&E**
 - 芯片T 载体 → **Chip T carrier**
-- Stereo-seq芯片载体 → **Stereo-seq chip carrier**
+- Stereo-seq芯片载体 → **Stereo-seq chip slide (NOT carrier)**
 - 试剂套装 → **Reagent Kit**
 - RNA完整值 → **RNA integrity number (RIN)**
 - 气泡 → **Air bubbles**
@@ -2792,7 +2792,7 @@
 - 返蓝染色液 → **Bluing Buffer**
 - 建模点 → **Modeling points**
 - H&E Mounting Medium → **H&E Mounting Medium**
-- 转录组试剂套装 → **Transcriptomics Reagent Kit**
+- 转录组试剂套装 → **Transcriptomics Set**
 - RNA 降解 → **RNA degradation**
 - 涡旋混匀 → **vortex to mix**
 - 视野 → **field of view (FOV)**
@@ -3139,7 +3139,7 @@
 - cDNA 释放与回收 → **cDNA Release and Recovery**
 - cDNA 纯化与扩增 → **cDNA Purification and Amplification**
 - PCR 扩增产物纯化 → **Purification of PCR Amplification Products**
-- Stereo-seq 转录组试剂盒T → **Stereo-seq Transcriptomics Kit T**
+- Stereo-seq 转录组试剂盒T → **Stereo-seq Transcriptomics T Kit**
 - Stereo-seq 芯片 T 载体 → **Stereo-seq Chip T Carrier**
 - Stereo-seq PCR 适配器 → **Stereo-seq PCR Adapter**
 - 储存温度 → **Storage temperature**
@@ -3230,9 +3230,9 @@
 - 清洗液 → **wash buffer**
 - PCR 扩增产物 → **PCR amplification products**
 - 回溶 → **resuspend**
-- 芯片载体 → **chip carrier**
+- 芯片载体 → **chip slide (NOT carrier)**
 - 试剂套装 → **Reagent Kit**
-- 时空可视化试剂套装 → **STOmics Visualization Reagent Set**
+- 时空可视化试剂套装 → **Stereo-seq Visualization Reagent Set**
 - DNB 制备 → **DNB Preparation**
 - pooling 方案 → **Pooling Strategy**
 - 测序工作流程 → **Sequencing Workflow**
@@ -3250,7 +3250,7 @@
 - 联合探针锚定聚合技术 → **Combinatorial Probe Anchor Synthesis**
 - DNB 制备试剂盒 → **DNB Preparation Kit**
 - DNB 加载试剂盒 → **DNB Loading Kit**
-- 时空可视化试剂盒 → **Spatial Visualization Kit**
+- 时空可视化试剂盒 → **Stereo-seq Visualization Kit**
 - 测序读长 → **Sequencing Read Length**
 - 一链读长 → **Read 1 Length**
 - 二链读长 → **Read 2 Length**
@@ -3956,3 +3956,20 @@
 - 单个反应体积/μL → **Single reaction volume/μL**
 - 反应容器 → **reaction vessel**
 - rRNA 去除 → **rRNA Depletion**
+
+## 手工校正（对齐官方英文手册 PDF，2026-08-27）
+> 由人工核对 Go Spatial FF/FFPE EN User Manual 后修正，覆盖自动蒸馏的错误条目
+
+- 时空可视化试剂套装 → **Stereo-seq Visualization Reagent Set**
+- 时空可视化试剂盒 → **Stereo-seq Visualization Kit**
+- 时空组学配件套装 → **STOmics Accessory Kit**
+- Stereo-seq 转录组试剂盒N → **Stereo-seq Transcriptomics N Kit**
+- Stereo-seq 转录组试剂盒T → **Stereo-seq Transcriptomics T Kit**
+- Stereo-seq 转录组试剂套装 → **Stereo-seq Transcriptomics Set**
+- Stereo-seq FFPE 转录组试剂套装 → **Stereo-seq OMNI Transcriptomics FFPE Set**
+- 载体版 → **for Chip-on-a-slide**
+- 电气控制箱/温控箱 → **electrical control box**
+- 初始化（按钮） → **Initialization**
+- 信息录入 → **Information Entry**
+- 固定框 → **fixing frame**
+- 温度模块（A-C） → **Reaction Module**
